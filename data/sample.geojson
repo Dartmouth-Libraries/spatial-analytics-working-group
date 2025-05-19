@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LSC",
+        "descrp": "LEED Platinum 2011"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28385852213658,
+          43.70906927627746
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McLaughlin Cluster",
+        "descrp": "LEED Gold 2006"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28672881885296,
+          43.70746092266185
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fahey Hall, McLane Hall",
+        "descrp": "LEED Gold 2006"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.29171678229315,
+          43.70541504606726
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Family Visual Arts Center Hall",
+        "descrp": "LEED Gold 2012"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28686759053456,
+          43.70119301441818
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haldeman Hall and Kemeny Hall",
+        "descrp": "LEED Silver 2006"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28914873737719,
+          43.70639329824721
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floren Varsity House",
+        "descrp": "LEED Silver 2007"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28345429601109,
+          43.701621336679096
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anonymous Hall",
+        "descrp": "pursuing LEED certification"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28495799983341,
+          43.70806543123763
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dartmouth Hall",
+        "descrp": "pursuing LEED certification"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28717184696877,
+          43.70376914181756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irving Institute for Energy & Society",
+        "descrp": "pursuing LEED certification"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.29456412504909,
+          43.70511993154699
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Center for Engineering and Science",
+        "descrp": "pursuing LEED certification"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.29437415097838,
+          43.7038804422624
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
