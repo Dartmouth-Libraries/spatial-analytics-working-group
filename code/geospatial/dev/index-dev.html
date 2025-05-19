@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Leaflet: Make a web map! </title>
+    
+    <!-- in the style/css section, define a 'map' area-->
+    <style> 
+    /* define map element*/
+	 #map { height: 400px; width: 400px}
+    </style>
+
+    <!-- in the head area of the html file, 
+        define a link to the leaflet css distribution-->
+	 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+	 crossorigin=""/>
+
+	 <!-- Make sure you put this AFTER Leaflet's CSS -->
+     <!-- in the head area, below leaflet css, 
+        define a link to the leaflet.js -->
+     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+       integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+       crossorigin="">
+</script>
+</head>
+
+<body>
+
+    <h1>Leaflet: Make a web map!  </h1>
+	<p>So. You want to make a web map. Don't worry; it's easy! Based on Leaflet.js.com tutorials and tutorials by Andy Woodruff, Ryan Mullins and Cristen Jones
+    </p>
+    <h3> Welcome to Dartmouth College! </h3>
+    <p> Click on map features to show more information </p>
+    <p> Zoom in and out using the + and - buttons</p>
+    <p> Click and drag within the map to pan to the north, south, east or west</p>
+    <div id="map"></div>
+	<script>
+
+    // in the body of the html, use Leaflet.js inside <script> tags
+    // here we declare the map and set the view 
+	var map = L.map('map').setView([43.7034501,-72.2888808], 13);
+	L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+    // next we define points (markers)
+
+  L.marker([43.70524540451015,-72.29031170527448,
+          ]).addTo(map)
+    .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+    .openPopup();
+
+    L.marker([43.7034501,-72.2888808,
+          ]).addTo(map)
+    .bindPopup('Welcome to Dartmouth College!');
+
+//--- this function is for the pop-up boxes 
+function onEachFeature(feature, layer) {
+    // does this feature have a property named popupContent?
+    if (feature.properties && feature.properties.popupContent) {
+        layer.bindPopup(feature.properties.popupContent);
+    }
+}
+
+    //--- here's a geojson feature example 
+    var geojsonFeature = {
+    "type": "Feature",
+    "properties": {
+        "name": "Alumni Gym",
+        "amenity": "Gymnasium",
+        //"popupContent": "The hub of Dartmouth's Athletic Facilities!"
+        "popupContent": 'The hub of Athletic Facilities at Dartmouth! <a href="https://dartmouthsports.com/calendar">Upcoming Sports...</a>'
+    
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-72.2852062, 43.7028549]
+    }
+};
+//L.geoJSON(geojsonFeature).addTo(map);
+
+L.geoJSON(geojsonFeature, {
+    onEachFeature: onEachFeature
+}).addTo(map);
+
+// here's a polygon example 
+var polygon = L.polygon([
+    [43.70294530833954,-72.28753149778107],
+    [43.70294530833954,-72.28729943994456],
+    [43.70323791567782, -72.28729943994456],
+    [43.70323791567782,-72.28753149778107],
+    [43.70294530833954,-72.28753149778107]
+]).addTo(map);
+
+var someFeatures = [{
+    "type": "Feature",
+    "properties": {
+        "name": "location",
+        "show_on_map": true
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-72.27845400032474,
+          43.71097933161258]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "name": "Field",
+        "show_on_map": false
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-104.98404, 39.74621]
+    }
+}];
+
+L.geoJSON(someFeatures, {
+    filter: function(feature, layer) {
+        return feature.properties.show_on_map;
+    }
+}).addTo(map);
+
+</script>
+
+<p> Like our map?  Have questions or comments?  Contact Us! </p>
+	
+</body>
+</html>
