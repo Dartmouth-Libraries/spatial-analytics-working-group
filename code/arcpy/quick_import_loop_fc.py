@@ -1,5 +1,6 @@
 import arcpy
 import pyodbc
+'''This python code loops over feature classes in a geodatabase'''
 
 mdb_path = r"C:\Users\rig1\Downloads\SouthernLots.mdb"
 output_gdb = r"C:\Users\rig1\temp20250528.gdb"  # Existing FGDB
