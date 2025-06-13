@@ -13,7 +13,9 @@ R Spatial
 
 QGIS & Python
 
-ESRI, ArcGIS Pro, ArcGIS Online & ArcPy Python libraries
+ArcGIS Online https://dartgo.org/arcgisonline (SSO sign in) 
+
+ArcGIS Pro, ESRI & ArcPy Python libraries
 
 ArcGIS Maps for Office https://www.arcgis.com/home/item.html?id=d191e98f41e64a7c89f477484264fe49
 
