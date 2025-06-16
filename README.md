@@ -23,5 +23,10 @@ Geojson.io
 
 maps.google.com & mymaps
 
+Python libraries: 
+'geopandas', 'geodatasets', 'matplotlib', 'folium' (leaflet web maps interactive) 
+
+R libraries: 
+
 
 
