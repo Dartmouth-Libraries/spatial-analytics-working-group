@@ -6,6 +6,16 @@ import folium
 map = folium.Map(location=[40.7488, -73.9857], tiles="openstreetmap")  
 map
 
+# Task #2 
+# add a point 
+
+# Create a marker for Grand Central Station and its Popup contents
+marker = folium.Marker([40.7488, -73.9857], popup="Grand Central Station", tooltip="Grand Central Marker")  # Add an icon (optional)
+
+# Add the marker to the Map
+map.add_child(marker)
+map
+
 
 
 import folium
