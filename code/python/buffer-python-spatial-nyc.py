@@ -1,3 +1,13 @@
+# Task #1 
+# Import necessary libraries
+import folium
+
+# Create a Map centered over Grand Central Station
+map = folium.Map(location=[40.7488, -73.9857], tiles="openstreetmap")  
+map
+
+
+
 import folium
 import geopandas as gpd
 from geodatasets import get_path
