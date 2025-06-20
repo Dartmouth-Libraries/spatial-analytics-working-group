@@ -16,6 +16,7 @@ QGIS & Python
 ArcGIS Online https://dartgo.org/arcgisonline (SSO sign in) 
 
 ArcGIS Pro, ESRI & ArcPy Python libraries
+ - ArcPy https://github.com/Esri/arcgis-python-api/tree/master/guide/01-getting-started 
 
 ArcGIS Maps for Office https://www.arcgis.com/home/item.html?id=d191e98f41e64a7c89f477484264fe49
 
