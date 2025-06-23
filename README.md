@@ -11,8 +11,12 @@ Software and code (python, R, javascript) for maps, spatial analysis, visualatio
   # 
 
   \
-  # plot points on a map
-# spatial analytics: buffer, clip, merge, intersect, overlay 
+  # Spatial Analytics 
+  plot points on a map
+  spatial analytics: buffer, clip, merge, intersect, overlay 
+  data types
+    vector formats: x,y, csv, geojson, shapefile, kml 
+    raster formats: jpeg, tiff 
 
 Python Spatial
 
