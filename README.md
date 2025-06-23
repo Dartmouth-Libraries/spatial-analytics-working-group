@@ -10,6 +10,10 @@ Spatial Analytics Working Group https://researchguides.dartmouth.edu/c.php?g=597
 Software and code (python, R, javascript) for maps, spatial analysis, visualations
   # 
 
+  \
+  # plot points on a map
+# spatial analytics: buffer, clip, merge, intersect, overlay 
+
 Python Spatial
 
 R Spatial 
