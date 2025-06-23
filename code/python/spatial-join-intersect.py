@@ -25,7 +25,7 @@ plt.show()
 # function delete for backspace / del 
 zipfile_url = "https://rcweb.dartmouth.edu/homes/f002d69/workshops/data/nationalparks_ak.zip"
 polygons = gpd.read_file(zipfile_url)
-print(gdf.head())
+print(polygons.head())
 
 # quick viz of polygons 
 
