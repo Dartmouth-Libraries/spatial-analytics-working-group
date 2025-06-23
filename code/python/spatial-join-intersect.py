@@ -48,6 +48,27 @@ points_in_polygons.plot(color='red',ax=plt.gca())
 plt.axis("off")
 plt.show()
 
+#### To show this on a web map with zoom in/out capabilities, use the "folium" library and a couple of for loops
+## to iterate over the geopandas datasets for points, points-in-polygons and the polygons 
+
+
+import folium
+map = folium.Map(location=[62.65822, -148.95602],
+    zoom_start=5,
+    control_scale=True)
+# loop through points
+for index, row in points.iterrows():
+    folium.CircleMarker(location=[ row.latitude,row.longitude], radius =5).add_to(map)
+# loop through points in polygons, color them gray
+for index, row in points_in_polygons.iterrows():
+    folium.CircleMarker(location=[ row.latitude,row.longitude], color = 'gray',fill=True, fill_opacity=1).add_to(map)
+
+# add polygons to the map
+for index, row in polygons.iterrows():
+    folium.GeoJson(row.geometry.__geo_interface__, name='National Parks').add_to(map)
+
+map
+
 
 
 
