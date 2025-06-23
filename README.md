@@ -7,6 +7,9 @@ Research Data Management: https://researchguides.dartmouth.edu/data_management
 \
 Spatial Analytics Working Group https://researchguides.dartmouth.edu/c.php?g=59725&p=10932912
 
+Software and code (python, R, javascript) for maps, spatial analysis, visualations
+  # 
+
 Python Spatial
 
 R Spatial 
