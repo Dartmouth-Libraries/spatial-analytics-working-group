@@ -1,11 +1,8 @@
-# task plot points, buffered points and polygons on matplotlib 
-
+# task: plot points, buffered points and polygons on matplotlib 
 # subtask buffer the points by 1000 meters 
 
 from geodatasets import get_path
 from shapely.geometry import Point
-
-# points 
 
 # Create synthetic points of interest (lat, lon approx locations within NYC)
 # Coordinates are WGS84 (EPSG:4326), need to project later
@@ -33,7 +30,7 @@ pois_gpd = gpd.GeoDataFrame(
     crs='EPSG:4326'  # initial CRS
 )
 
-# Project points to match nybb CRS (EPSG:3857)
+# Project the points to match nybb CRS (EPSG:3857)
 pois_gpd = pois_gpd.to_crs(epsg=3857)
 
 # Create buffers around POIs (e.g., 1000 meters = 1 km)
@@ -42,7 +39,7 @@ pois_gpd['buffer'] = pois_gpd.geometry.buffer(1000)
 #################
 # polygons 
 
-# Load NY boroughs from geodatasets
+# Load the geodatasets library with built in datasets,  NY boroughs (polygon)
 path_to_nybb = get_path('nybb')
 nybb = gpd.read_file(path_to_nybb)
 
@@ -52,7 +49,7 @@ nybb = nybb.to_crs(epsg=3857)
 # Dissolve all boroughs into a single polygon (NYC boundary)
 nyc_boundary = nybb.dissolve()
 
-# Plot everything
+# Plot 
 fig, ax = plt.subplots(figsize=(12, 12))
 
 # Plot boroughs with light green
@@ -71,6 +68,7 @@ pois_gpd.plot(ax=ax, color='red', markersize=50, label='Points of Interest')
 for x, y, label in zip(pois_gpd.geometry.x, pois_gpd.geometry.y, pois_gpd['name']):
     ax.text(x + 100, y + 100, label, fontsize=9)
 
+# add map elements, legend, title, coordinate system axes
 plt.legend()
 plt.title("NYC Boroughs, Merged Boundary, and Synthetic Points of Interest with Buffers")
 plt.xlabel("Easting (m)")
