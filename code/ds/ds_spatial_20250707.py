@@ -1,5 +1,3 @@
-
-###
 # -*- coding: utf-8 -*-
 """intro-geospatial-data-science-point-polygon-overaly.ipynb
 
@@ -64,8 +62,6 @@ Plot using Folium, a Python library with tools to plot coordinates on existing b
 
 Open a new browser tab and visit https://geojson.io
 
-
-
 """
 
 # Import folium for simple mapping and base map data
@@ -79,11 +75,9 @@ coordinate_pair =  __________
 
 description = ________
 
-
 #coordinate_pair =  (43.702867708553384, -72.28817508085851)
 
 #description = "Dartmouth"
-
 
 # Plot the coordinate using folium
 # Create a map centered around the coordinate
@@ -137,7 +131,6 @@ so, we're 43.7 degreees north of the equator, and -72 degrees west of the prime 
 
 #### Javascript open notation, "json" is a way to store data
 
-
 "Geojson" is geographic version of a json file
 
 {
@@ -171,7 +164,6 @@ import json
 
 # copy in spatial data, from a single point created with
 # https://geojson.io/
-
 
 # Note: any well-formatted geojson with a collection of POINT features should work here:
 geojson_data =  {
@@ -241,14 +233,7 @@ polygons = gpd.read_file(zipfile_url)
 
 polygons.head(2)
 
-
-
-
-
-
-
-
-
+##------------------------
 # initiate a folium base map
 map = folium.Map(location=[62.6, -148.9], zoom_start=5, control_scale=True)
 
@@ -257,15 +242,13 @@ map
 # to get the point data on the map (the CSV), loop over the features in the geopandas 'points' geodataframe
 for index, row in points.iterrows():
     folium.CircleMarker(location=[row.latitude,row.longitude],fill=True,fill_opacity=1).add_to(map)
-
+# show the map: 
 map
-
-
 
 # same for polygons / national park boundaries
 for index, row in polygons.iterrows():
     folium.GeoJson(row.geometry.__geo_interface__).add_to(map)
-
+# show the map: 
 map
 
 """### Spatial Analytics:
@@ -287,7 +270,6 @@ for index, row in points_in_polygons.iterrows():
 map
 
 ###
-
 
 # -*- coding: utf-8 -*-
 """Intro Geospatial Data Science - student.ipynb
@@ -370,7 +352,6 @@ Answer the following:  when you click the marker point, what happens/what is dis
 # 'json' is an open data format that is very useful in data science
 # import the 'json library here:
 
-
 import _________
 
 # 'geojson' is a special format of json, built for use in geospatial data science, https://pypi.org/project/geojson/
@@ -380,8 +361,6 @@ import _________
 #pip install geojson
 
 import _________
-
-
 
 import folium
 import json
