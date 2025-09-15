@@ -20,7 +20,8 @@ compliant geocoding, there are services that meet HIPAA and other standards, lik
 
 
 ```
-
+# code-based geocoder through an API (Python, geopy and Nominatim)
+# https://geopy.readthedocs.io/en/stable/ 
 from geopy.geocoders import Nominatim
 geolocator = Nominatim(user_agent="specify_your_app_name_here")
 location = geolocator.geocode("175 5th Avenue NYC")
