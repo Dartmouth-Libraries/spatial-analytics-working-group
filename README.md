@@ -40,5 +40,6 @@ Python libraries:
 
 R libraries: 
 
+Geocoding with ESRI, QGIS, Python, R and with geocoding services 
 
 
