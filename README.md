@@ -40,6 +40,6 @@ Python libraries:
 
 R libraries: 
 
-Geocoding with ESRI, QGIS, Python, R and with geocoding services 
+Geocoding with ESRI, QGIS, Python, R and with geocoding services such as the Census Bureau, https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form 
 
 
