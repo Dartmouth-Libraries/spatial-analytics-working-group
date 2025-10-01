@@ -1,0 +1,1188 @@
+OBJECTID,TREEID,DATE,COLLECTOR,LANDUSE,HEIGHT,DIAMETER,HAZARD,NOTES,STATUS,GlobalID,Species,Condition,TREE_ID,Donor,Planted,treatmenthistory,latitude,longitude
+31,1343,"Fri, 16 Dec 2016 20:20:25 GMT",Beaty,,25,9,No,American Elm,Planted,9813565c-a429-434b-8847-3fd8d1565880,Ulmus americana,Fair,125,,,,43.70935120459,-72.2828575752956
+33,1202,"Tue, 03 Jan 2017 19:46:43 GMT",Beaty ,,65,23,No,Pin oak,Planted,1e73fdf5-618d-4cd4-be4c-d80f373086a8,Quercus palustris,Fair. Possible root and stem rot.,MB03,,,,43.7078329828044,-72.2881271504539
+34,126976,"Tue, 03 Jan 2017 19:49:22 GMT",Beaty ,,24,12,No,Austrian pine group of 7,Planted,2c688c1f-afd7-4baa-b8a5-5eacabb13067,Pinus nigra,Poor,MB70-75,,,,43.7080566958,-72.2881469317454
+35,1276,"Tue, 03 Jan 2017 19:51:17 GMT",Beaty ,,65,30,No,Pin Oak,Planted,88a99797-1558-4a1d-adec-44028d3e45ec,Quercus palustris,Fair,MB76,,,,43.7082710629736,-72.2878687363791
+36,1277,"Tue, 03 Jan 2017 19:54:14 GMT",Beaty ,,20,10,No,Cork tree removed 2020,Planted,e3575c59-93c4-439d-a33d-df1869046457,Phellodendron amurense,Fair,MB77,,,,43.7083961628784,-72.2879459337073
+37,12104,"Tue, 03 Jan 2017 19:55:19 GMT",Beaty ,,55,60,No,Hemlock four stem,Planted,38a3bfd0-b712-4433-8b58-8c96cad0219e,Tsuga canadensis,Fair,MB104,,,,43.7083945149286,-72.2878542795606
+38,12109,"Tue, 03 Jan 2017 19:56:48 GMT",Beaty ,,50,15,No,Norway maple ,Planted,2ab61cc4-f858-4a15-b5a3-2d0446b7c2f0,Acer platanoides,Fair,MB109,,,,43.7085600290855,-72.2877332010048
+39,12110,"Tue, 03 Jan 2017 19:58:32 GMT",Beaty ,,35,12,No,Green ash,Planted,0aaf82ad-3fa7-4880-950a-aabc6d106d1e,Fraxinus pensylvanicus,Fair,MB110,,,Mectinite 7-29-2020,43.7085660221462,-72.2875845898616
+40,12106,"Tue, 03 Jan 2017 20:00:03 GMT",Beaty ,,20,10,No,Amelanchier group of 2,Planted,7640653a-417a-4723-aabd-1b489e307aa6,Amelanchier (Amelanchier canadensis),Poor,MB106,,,,43.7083848053996,-72.2874635551798
+41,12164,"Tue, 03 Jan 2017 20:01:35 GMT",Beaty ,,12,5,No,Crabapples 3,Planted,abda4cc8-113a-42b8-bb21-eea9ca5ff5b0,Crabapple (Malus),good,MB164,,,,43.7085403782335,-72.2873659060078
+42,12113,"Tue, 03 Jan 2017 20:03:05 GMT",Beaty ,,16,11,No,Amelanchier,Planted,e403b852-5411-4b50-a5da-7a4a8b7bf9f0,Amelanchier canadensis,Fair,MB113,,,,43.7086031120678,-72.287223581292
+43,12169,"Tue, 03 Jan 2017 20:04:29 GMT",Beaty ,,16,6,No,Dawn redwood planted 2018,Planted,32756bb3-41cb-4a6a-b79a-ad579c6cffca,Metasequoia glyptostroboides,Good,MB169,,2018,,43.7086728914117,-72.2874790617007
+44,,"Tue, 03 Jan 2017 20:07:01 GMT",Beaty ,,12,5,No,Amur cork,Planted,9ab3f484-fce0-4fe8-a1e2-a1b11c4b11b1,Amur cork (Phellodendron amurense),Fair,MB79,,,,43.7082161435436,-72.2876520173613
+45,,"Tue, 10 Jan 2017 19:47:28 GMT",Beaty,,50,22,No,Swamp white oak,Planted,37b6be91-7ea7-4ae2-be89-98d2988c0795,Quercus bicolor,Good,MB116,Honoring Deb Fisk 50 years of service ,,,43.7088962938607,-72.2874418562005
+46,,"Tue, 10 Jan 2017 19:49:20 GMT",Beaty,,90,37,No,White Pine,Planted,e70db4bd-c027-4e7e-95d7-7c400fd5ff20,Pinus strobus,Fair,MB117,,,,43.7091760151495,-72.28708611808
+47,,"Tue, 10 Jan 2017 19:50:59 GMT",Beaty,,50,24,No,Norway Maple ,Planted,1aa7ccef-003a-4729-bace-589c3f8c5cbb,Acer platanoides,Fair,MBT118,,,,43.7092703534697,-72.2869922407645
+48,,"Tue, 10 Jan 2017 19:52:12 GMT",Beaty ,,65,26,No,Norway Spruce,Planted,9a7f395d-99ec-4823-874e-53a15836f19f,Picea abies,Fair,MB120,,,,43.7093249615689,-72.2869007942009
+49,,"Tue, 10 Jan 2017 19:53:32 GMT",Beaty ,,25,28,No,Crabapple ,Planted,173d06d1-3104-4bf7-b2f1-2bec930af00f,crabapple (Malus),Fair,MBT119,,,,43.7092777295445,-72.2869009618389
+50,,"Thu, 12 Jan 2017 16:10:10 GMT",Beaty ,,35,18,No,Green Ash (Fraxinus pennsylvanica),Planted,46aec06e-b8f7-4434-92fb-71376061ac66,Green Ash (Fraxinus pennsylvanica),Fair,WC18,,,"Mectinite 6-7-19, 2023",43.7033329904486,-72.2908519395369
+51,,"Thu, 12 Jan 2017 16:12:20 GMT",Beaty ,,18,20,No,Chionanthus ,Planted,a833d9ff-fecc-4e42-9d32-a21f29de4787,Fringe Tree (Chionanthus virginiana),Good,WC16,,,,43.7033303920586,-72.2907407116818
+52,,"Tue, 31 Jan 2017 18:58:36 GMT",Beaty ,,95,40,No,Extensive decay no opening ,Planted,3e1eaec2-6e20-40aa-a51a-c31f66c84271,"Norway spruce, Picea abies",Poor,CP52,,,,43.7053702120145,-72.2844536975699
+53,,"Tue, 31 Jan 2017 19:01:36 GMT",Beaty ,,90,26,No,Norway spruce ,Planted,1608c2a6-2c49-4257-973d-8771f2b900f3,Norway spruce,Fair,CP53,,,,43.7052868968897,-72.2842573531253
+54,,"Tue, 07 Mar 2017 18:42:48 GMT",Beaty ,,30,11,No,,Planted,e16ae32e-5d3c-48ce-baf9-c30af742b9b2,Elm (Ulmus Americana),"Poor, DED 2015",AET57,,,,43.7007207703252,-72.2787265945899
+55,,"Mon, 20 Mar 2017 14:06:24 GMT",Beaty ,,50,12,No,Pin oak,Planted,e17a4a01-0091-4682-af10-e2d76246e220,Quercus palustris,Fair,MB04,,,,43.7076576752995,-72.287770584293
+56,,"Mon, 20 Mar 2017 14:08:44 GMT",Beaty ,,25,8,No,Green ash,Planted,b2bec6d4-3c92-4ee8-aa7e-5f1983f30966,Fraxinus pennsylvanica,Fair,MB66,,,Mectanite 6-13-24,43.7076747432308,-72.287561707266
+58,,"Mon, 20 Mar 2017 14:13:58 GMT",Beaty ,,55,20,No,Pin oak,Planted,3654c9c5-86bc-44bb-bb7b-dc08223da249,Quercus palustris,Fair,MB01,,,,43.7079489372288,-72.2882694818819
+59,,"Wed, 22 Mar 2017 18:49:28 GMT",Beaty ,,8,3,No,,Planted,4b044595-2148-4ba7-8391-e297ffebc1c3,Malus 'Adirondack',Good,MB81,,2013,,43.7079533953679,-72.2873914708126
+60,,"Wed, 22 Mar 2017 18:51:39 GMT",Beaty ,,15,4,No,Green ash,Planted,f1b37a17-55af-4a22-a08a-fe29cdc82024,Fraxinus penn ,Poor ,MB102,,,,43.7078860572328,-72.2872198228598
+61,,"Wed, 22 Mar 2017 18:53:09 GMT",Beaty ,,15,4,No,Green ash,Planted,9cd95f66-1333-4bbc-b5db-65543805e16b,Fraxinus pennsylvanica,Poor ,MB101,,,,43.7078456058715,-72.2871882599192
+62,,"Wed, 22 Mar 2017 18:55:23 GMT",Beaty ,,15,4,No,Green ash,Planted,b649b6b0-d33e-41d2-8777-1df3368c6845,Fraxinus pennsylvanica,Poor ,MBT98,,,,43.7085730942421,-72.2865500485514
+63,,"Wed, 22 Mar 2017 18:56:42 GMT",Beaty ,,15,4,No,Green ash,Planted,ac5e05a2-956e-4398-8d08-3664ff123fca,Fraxinus pennsylvanica,Poor ,MBT99,,,,43.7086114955015,-72.2866437549547
+64,,"Wed, 22 Mar 2017 18:59:35 GMT",Beaty ,,8,10,No,Serviceberry,Planted,5d3feea5-de7a-4698-8855-591bd43090cb,Amelanchier canadensis,Fair ,MB83,,,,43.7081702441027,-72.2873934926192
+65,,"Wed, 22 Mar 2017 19:01:03 GMT",Beaty ,,12,10,No,Serviceberry,Planted,31b8067d-251f-4e29-949f-e29e7ddb4d76,Amelanchier canadensis,Good ,MB82,,,,43.7081317039129,-72.2874416817685
+66,,"Wed, 22 Mar 2017 19:02:34 GMT",Beaty ,,10,10,No,Fringe tree,Planted,52d3e318-4dfc-4947-aa97-d69fd295f817,Chionanthus virginiana,Good,MB84,,,,43.7082266664999,-72.2873155576181
+67,,"Wed, 22 Mar 2017 19:03:54 GMT",Beaty ,,15,11,No,Crabapple,Planted,3b8ba951-ed0e-4dd5-ac52-8d84bcac04a4,Malus 'Donald Wyman',Fair ,MB85,,,,43.7082531257008,-72.2872290262549
+68,,"Wed, 22 Mar 2017 19:04:59 GMT",Beaty ,,18,12,No,,Planted,06e988eb-71cd-476a-b24d-f54076305870,Malus 'Donald Wyman',Fair ,MB86,,,,43.7083002391604,-72.2871961858928
+69,,"Wed, 22 Mar 2017 19:06:16 GMT",Beaty ,,16,12,No,Katsura,Planted,e03884ab-c32a-4a3d-a66b-8bf457fee5ab,Cercidiphyllum japonicum,Fair ,MB87,,,,43.7085037446056,-72.2870452982115
+70,,"Wed, 22 Mar 2017 19:10:07 GMT",Beaty ,,25,9,No,Austrian pine,Planted,f8c20e64-08ca-4a38-a974-07ddbeafb682,Pinus nigra,Fair ,MBT96,,,,43.7086149305512,-72.2862188425588
+71,,"Wed, 22 Mar 2017 19:11:46 GMT",Beaty ,,25,8,No,Austrian pine,Planted,1934e205-d5af-48de-a316-cc5a656739c7,Pinus nigra,Fair,MBT94,,,,43.7086234800925,-72.286316994645
+72,,"Wed, 22 Mar 2017 19:12:55 GMT",Beaty ,,25,12,No,Austrian pine,Planted,32867dba-884a-413a-930a-367462f97c77,Pinus nigra,Fair ,MBT95,,,,43.70864619505,-72.286399137296
+73,,"Wed, 22 Mar 2017 19:14:21 GMT",Beaty ,,8,3,No,Maackia,Planted,84a46297-493c-4da1-a552-0e164734c2f1,Maackia amurensis,Good ,MBT88,,2016,,43.7087649785667,-72.2867746531065
+74,,"Tue, 11 Apr 2017 13:57:39 GMT",Beaty ,,12,20,No,Lilac,Planted,43d5777f-5129-4067-aca1-e8ffe7da6217,Syringae,Good,MBT181,,,,43.7089759810304,-72.2868147120553
+75,,"Tue, 11 Apr 2017 14:00:04 GMT",Beaty ,,15,5,No,Tupelo,Planted,0549662b-d91d-4ee0-ab30-6c0346b59d63,Nyssa sylvatica,Fair,MBT122,,,,43.7088795891438,-72.2866930906403
+76,,"Tue, 11 Apr 2017 14:01:43 GMT",Beaty ,,12,6,No,,Planted,174703ea-9cbe-49bb-9ab7-9488014f89d6,Yew (Taxus),Fair ,MBT180,,,,43.7089572474767,-72.2866702918636
+77,,"Wed, 26 Jul 2017 18:07:33 GMT",Brian Beaty ,,45,20,No,American elm,Planted,3c47b7ea-ec17-47bb-9905-ac8673bcdcb6,Ulmus americana ,Poor,BL159,1996 Class for 96 Class,,,43.7053408334439,-72.2882107180285
+78,,"Wed, 26 Jul 2017 18:14:53 GMT",Beaty ,,15,3,No,American elm,Planted,7263d379-d751-488b-8650-061f6993e9e4,Ulmus americana ,Good,BL160,Richard Plummer,2017,,43.7055194098909,-72.2883263044732
+79,,"Thu, 31 Aug 2017 13:57:51 GMT",Beaty ,,18,8,No,White pine,Planted,740c5bbb-ac11-4307-be51-b360c42ace6d,Pinus strobus,Fair,MB139,,,,43.7075158442481,-72.2868965261424
+80,,"Thu, 31 Aug 2017 14:00:09 GMT",Beaty ,,18,5,No,Red maple,Planted,2b7e3677-b06c-4b2c-99bc-28017f51cc56,Acer rubrum,Fair ,MB140,,,,43.7075925954379,-72.2868255013
+81,,"Thu, 31 Aug 2017 14:02:05 GMT",,,18,5,No,Red maple,Planted,ac226443-d6f8-46cf-9e86-3c30032ab968,Acer rubrum,Fair ,MB138,,,,43.7077229041188,-72.2867050164351
+84,,"Thu, 31 Aug 2017 14:08:24 GMT",Beaty,,25,15,No,Austrian pine,Planted,795f439e-28ee-4081-bf1a-ac7efcf8d59b,Pinus nigra,Good,MB146,,,,43.7082296104834,-72.2863767408344
+85,,"Thu, 31 Aug 2017 14:09:48 GMT",Beaty,,12,13,No,,Planted,877249c8-5e2d-4c13-b5a1-9674cd332e07,Malus crabapple,Fair ,MB149,,,,43.7083487213065,-72.2863406316119
+86,,"Thu, 31 Aug 2017 14:12:25 GMT",Beaty,,15,5,No,,Planted,cca8b465-4190-43a7-bd31-8e720439e95c,Quercus palustris,Fair ,MB135,,,,43.7077594948632,-72.2860575009909
+87,,"Thu, 31 Aug 2017 14:13:34 GMT",Beaty,,18,7,No,,Planted,0c800ca1-fc6f-4e9a-b6d6-0ec4c59553e4,Quercus coccinea,Fair ,MB134,,,,43.7076449767162,-72.285952298038
+88,,"Thu, 31 Aug 2017 14:14:52 GMT",,,20,6,No,Red oak,Planted,bd892a2c-8230-4df5-a765-99563789177b,Quercus rubra,Good ,MB62,,,,43.707440951183,-72.2860744357914
+89,,"Thu, 31 Aug 2017 14:16:09 GMT",,,18,5,No,Red oak,Planted,35f8f6c1-25d4-4507-a1b0-3f875ba4af68,Quercus rubra,Poor ,MB61,,,,43.7076305847579,-72.286282052095
+90,,"Thu, 31 Aug 2017 14:17:15 GMT",,,25,6,No,Pin oak,Planted,079e4b60-5b4b-4624-b8b3-f5f788455970,Quercus palustris,Fair ,MB63,,,,43.7076768692395,-72.2863710546462
+91,,"Thu, 31 Aug 2017 14:18:14 GMT",,,18,6,No,Red oak,Planted,de4983cd-91e0-4e2e-a4b6-bdafe574e878,Quercus rubra,Fair ,MB59,,,,43.707613178471,-72.2864041361517
+92,,"Thu, 31 Aug 2017 14:19:19 GMT",,,18,6,No,Red oak,Planted,d7ba10f8-234a-4b2f-ad79-9f4eb9639343,Quercus rubra,Fair ,MB60,,,,43.7075804814169,-72.286332759335
+93,,"Thu, 31 Aug 2017 14:20:57 GMT",,,18,7,No,Red oak,Planted,07e3cf31-cf91-4ba1-b09d-92b9788bac8d,Quercus rubra,Fair ,MB58,,,,43.7074994983575,-72.2861231244988
+94,,"Thu, 31 Aug 2017 14:22:11 GMT",,,18,6,No,Red oak,Planted,721f2dde-3b3c-4e61-a922-a641af2bcb79,Quercus rubra,Good,MB57,,,,43.7074144881798,-72.2861858178604
+95,,"Thu, 31 Aug 2017 14:23:27 GMT",,,18,6,No,Red oak,Planted,38ee42c7-ef6f-42bf-a1b9-76d4932530dd,Quercus rubra,Good ,MB55,,,,43.7073615426605,-72.2862617579031
+96,,"Thu, 31 Aug 2017 14:24:46 GMT",,,16,5,No,Red oak,Planted,5a8cfc88-97ea-4bda-9062-002af61285d3,Quercus rubra,Fair,MB54,,,,43.7072838843276,-72.2862724029201
+97,,"Thu, 31 Aug 2017 14:26:10 GMT",,,14,4,No,Red oak,Planted,c41cfaa8-084e-4ee3-8c55-4881875fec26,Quercus rubra,Poor ,MB56,,,,43.7074046675523,-72.2862886638123
+98,,"Thu, 31 Aug 2017 14:27:41 GMT",,,22,6,No,Swamp white oak,Planted,2c146420-08ab-45a3-b0ab-7016fda67eb0,Quercus bicolor,Good,MB52,,,,43.7072553020378,-72.286332836442
+99,,"Thu, 31 Aug 2017 14:28:44 GMT",,,22,5,No,Swamp white oak,Planted,8c21cdfe-ccdd-42ad-9c65-7b8c2186d53d,Quercus bicolor,Fair ,MB51,,,,43.7072218163346,-72.2863265500146
+100,,"Thu, 31 Aug 2017 14:29:58 GMT",,,18,6,No,Swamp white oak,Planted,664ab776-75c1-4e9f-b5a0-87b350f43dac,Quercus bicolor,Fair ,MB53,,,,43.7072779750859,-72.2863791883665
+101,,"Thu, 31 Aug 2017 14:32:03 GMT",,,22,7,No,White oak,Planted,3305f631-05c4-4175-8380-28db8c1351a4,Quercus alba,Good ,MB50,,,,43.7072516559099,-72.2864266299384
+102,,"Thu, 31 Aug 2017 14:33:26 GMT",,,16,5,No,Swamp white oak,Planted,7adce658-edab-41dc-93a3-3628d184b4f7,Quercus bicolor,Fair ,MB49,,,,43.7073015701433,-72.2865272965955
+103,,"Thu, 31 Aug 2017 14:34:25 GMT",Beaty,,22,6,No,Swamp white oak,Planted,38269a5c-0e03-49ab-9d7b-3b2267da56f6,Quercus bicolor,Fair ,MB48,,,,43.7074013313933,-72.2865672884236
+104,,"Thu, 31 Aug 2017 14:35:36 GMT",Beaty,,18,4,No,Swamp white oak,Planted,8964f6fa-0e92-4286-b3fa-a3afa3fce380,Quercus bicolor,Poor ,MB47,,,,43.7073741155152,-72.2866425477641
+105,,"Thu, 31 Aug 2017 14:45:38 GMT",,,12,4,No,Red maple,Planted,b247ae33-9fa6-45b6-b215-63c73fdf049b,Acer rubrum,Poor ,MB09,,2013,,43.7073566392471,-72.2870528419244
+106,,"Thu, 31 Aug 2017 14:46:44 GMT",,,12,4,No,Red maple,Planted,cb2e85fb-ebac-4f13-aa83-97dcc742c326,Acer rubrum,Fair ,MB10,,2013,,43.7072880333696,-72.2869533487337
+107,,"Thu, 31 Aug 2017 14:48:04 GMT",,,12,3,No,Sugar maple 'Fall Fiesta',Planted,2731b666-5c98-454a-9127-565b585969d1,Acer saccharum,Fair ,MB11,,2013,,43.7071814338283,-72.2867511469431
+108,,"Thu, 31 Aug 2017 14:49:42 GMT",Beaty,,22,5,No,Red oak,Planted,1f6167fd-ee45-4023-bcc5-c8718c744d4c,Quercus rubra,Fair ,MB12,,,,43.7070890939324,-72.2866242719411
+109,,"Thu, 31 Aug 2017 14:51:06 GMT",,,18,5,No,Red oak,Planted,59b96cfb-154f-4bbc-98a1-33e81951f6c4,Quercus rubra,Fair ,MB13,,,,43.7070380743772,-72.2865552250314
+110,,"Thu, 31 Aug 2017 14:52:16 GMT",,,15,5,No,Red maple,Planted,d0bf54c5-f699-4439-9ef1-6ad4693ab41b,Acer rubrum,Good,MB14,,,,43.7069856481292,-72.2864683148455
+111,,"Thu, 31 Aug 2017 14:53:28 GMT",,,15,5,No,Red maple,Planted,686018fb-d263-4257-9188-fd03f997e4d5,Acer rubrum,Good ,MB15,,,,43.7069303910531,-72.2863865041964
+112,,"Thu, 31 Aug 2017 14:54:34 GMT",,,13,5,No,Red maple,Planted,09865eb6-3bcb-4725-ad2d-168248c1bde5,Acer rubrum,Fair ,MB16,,,,43.7068815805946,-72.2863196264316
+113,,"Thu, 31 Aug 2017 14:55:24 GMT",,,14,5,No,Red maple,Planted,ec86ba83-e755-472c-a4b4-b19a5409f72d,Acer rubrum,Good,MB18,,,,43.706831890199,-72.2862779349762
+114,,"Thu, 31 Aug 2017 14:56:19 GMT",,,8,3,No,Blue spruce,Planted,d9197f77-64cf-4b9a-ab41-2afcffb62c3d,Picea pungens,Good,MB17,,,,43.7068418342573,-72.2861873568891
+115,,"Thu, 31 Aug 2017 14:57:40 GMT",,,18,6,No,Sugar maple,Planted,8ad0ee74-ba4c-4bf5-96b4-55589a24c30e,Acer saccharum,Fair ,MB19,,,,43.7069714488869,-72.2860668786543
+116,,"Thu, 31 Aug 2017 14:58:48 GMT",,,16,7,No,Sugar maple,Planted,47e35075-cbaa-4283-82bc-d1cc771b386b,Acer saccharum,Poor ,MB20,,,,43.7070029648428,-72.2860498633909
+117,,"Thu, 31 Aug 2017 14:59:49 GMT",,,20,8,No,Sugar maple,Planted,967fd258-c6a6-420f-8669-b1450e3847aa,Acer saccharum,Good,MB21,,,,43.7070495263149,-72.2859612666744
+118,,"Thu, 31 Aug 2017 15:01:01 GMT",,,30,8,No,Sugar maple,Planted,7d822ed5-034f-44e2-95ae-b77be2001562,Acer saccharum,Fair ,MB22,,,,43.7071325071563,-72.2859129869121
+119,,"Thu, 31 Aug 2017 15:02:13 GMT",Beaty,,20,5,No,Sugar maple,Planted,a00a8e7a-1127-4d63-9d50-dcc16d94d419,Acer saccharum,Poor ,MB23,,,,43.7071939884161,-72.2858142480927
+120,,"Thu, 31 Aug 2017 15:03:00 GMT",Beaty,,13,6,No,White pine,Planted,c7858752-8af4-48c2-9bcc-b1302c2811a2,Pinus strobus,Poor ,MB24,,,,43.7072431698038,-72.2857287627485
+121,,"Thu, 31 Aug 2017 15:04:01 GMT",,,15,8,No,White pine,Planted,c9f77c80-c6c6-42eb-b4f6-ce86a5e7d0c8,Pinus strobus,Poor ,MB25,,,,43.7073059412001,-72.2856331588755
+122,,"Thu, 31 Aug 2017 15:05:04 GMT",Beaty,,15,6,No,Red maple,Planted,4cdc0f12-4c6f-42fe-b07f-39048e049e0b,Acer rubrum,Fair ,MB26,,,,43.707369162789,-72.2855570074844
+123,,,,,12,6,No,,Planted,78d9a718-fc22-463c-898f-b4e199962bb5,Malus crabapple,Fair,MB150,,,,43.7083891168258,-72.2864689835349
+126,,"Wed, 06 Sep 2017 13:56:44 GMT",,,10,,No,Serviceberry,Planted,5d00098b-28d7-4660-86f1-792d8cc3b4bd,Amelanchier canadensis,,MB89,,,,43.7087720074166,-72.2865736485201
+129,,"Wed, 06 Sep 2017 04:00:00 GMT",,,15,6,No,White pine,Planted,173237c6-b5f8-478c-a29c-8af2df84f838,Pinus strobus,Fair,MB126,,,,43.708015474417,-72.2860576801361
+135,,"Thu, 07 Sep 2017 18:53:48 GMT",Beaty ,,12,4,No,Yellowwood Removed 12-2020,Planted,8346e861-5eca-4025-9eb9-9b7bacfea090,Cladrastis kentukia,Poor ,MC33,,,,43.7083906148834,-72.2848126276894
+136,,"Thu, 07 Sep 2017 18:55:02 GMT",Beaty ,,12,5,No,Yellowwood ,Planted,949c9a6e-f500-4bde-a76c-081f2d790165,Cladrastis kentukia,Poor ,MC34,,,,43.708496703807,-72.2847201582718
+137,,"Thu, 07 Sep 2017 18:56:09 GMT",Beaty ,,12,5,No,Yellowwood ,Planted,de0743ac-1007-4557-a960-b58202ac7f97,Cladrastis kentukia,Fair ,MC35,"Spiegel, Peregrine",,,43.7085719549423,-72.2846985463857
+138,,"Thu, 07 Sep 2017 18:58:22 GMT",Beaty ,,14,5,No,Yellowwood ,Planted,ea7cffb2-f59f-487d-b265-65026b818e6e,Cladrastis kentukia,Fair ,MC36,"Freedman, Jas.",,,43.7086464316862,-72.2846092856653
+139,,"Thu, 07 Sep 2017 19:00:18 GMT",Beaty ,,16,5,No,Yellowwood ,Planted,b1020f33-23f1-4c24-8f18-222ff28affc5,Cladrastis kentukia,Fair ,MC37,"Bacon for Raider, J.",,,43.7086912403894,-72.2845828895461
+140,,"Thu, 07 Sep 2017 19:01:36 GMT",Beaty ,,12,4,No,Yellowwood ,Planted,e27f87ad-ab5a-4c22-99b0-ecb13ca625ad,Cladrastis ,Poor ,MC38,,,,43.708725701835,-72.2845491640092
+141,,"Thu, 07 Sep 2017 19:02:43 GMT",Beaty ,,14,4,No,Yellowwood ,Planted,b927218d-904e-4532-835f-401bf0430401,Cladrastis kentukia,Fair ,MC39,,,,43.7087605522684,-72.2845108487254
+142,,"Thu, 07 Sep 2017 19:03:56 GMT",Beaty ,,11,3,No,Serviceberry,Planted,ddc7cabd-24d6-4f0a-84b2-cc8e3fe0e3b2,Amelanchier canadensis,Poor ,MC40,,,,43.7088074051757,-72.2844648554874
+143,,"Thu, 07 Sep 2017 19:05:25 GMT",Beaty ,,11,3,No,Honeylocust planted 2019,Planted,90e4baff-52cf-46b0-8f80-e9bca5739acd,Gleditsia triacanthos,Good,MC41,,,,43.7088688603078,-72.2844137997108
+144,,"Thu, 07 Sep 2017 19:06:51 GMT",Beaty ,,11,2,No,Honeylocust planted 2019,Planted,ab76ba52-f00f-4ddd-8c27-9d29995dfb4c,Gleditsia triacanthos,Good,MC42,,,,43.7088953890313,-72.2843769193369
+145,,"Thu, 07 Sep 2017 19:07:54 GMT",Beaty ,,11,2,No,Honeylocust planted 2019,Planted,82adb5c0-8cb4-42a4-a677-cab0d0b5eaf8,Gleditsia triacanthos,Good,MC43,,,,43.7089177687128,-72.2843625862825
+146,,"Thu, 07 Sep 2017 19:09:29 GMT",Beaty ,,11,3,No,Serviceberry ,Planted,3926d25f-d17d-45cb-9c5e-dfc476782e11,Amelanchier canadensis ,Poor ,MC44,,,,43.7089072750529,-72.2842164797239
+147,,"Thu, 07 Sep 2017 19:10:37 GMT",Beaty ,,11,3,No,Serviceberry ,Planted,72e29907-eaac-4a62-a089-0cf6ca1a36d5,Amelanchier canadensis ,Poor ,MC45,,,,43.7089572112994,-72.2841904120051
+148,,"Thu, 07 Sep 2017 19:11:39 GMT",Beaty ,,11,4,No,Yellowwood ,Planted,503630ad-49b5-4981-a524-7c165336f5a1,Amelanchier canadensis ,Poor ,MC46,,,,43.7089348262535,-72.2841217709302
+149,,,Beaty,,18,12,No,Japanes Tree Lilac,Planted,316748fe-0c64-4ef0-8316-a223e31a312b,Syringae reticulata,Fair,MC27,"Krusen, Robert (to Ned)",,,43.7086071406342,-72.2848339688662
+150,,"Fri, 08 Sep 2017 04:00:00 GMT",Beaty,,11,3,No,Hawthorn 'Winter King',Planted,5e19695e-66b8-4c9d-b664-e7d3bd8e3c7d,Crataegus viridis,Fair,MC76,,2015,,43.70819311279,-72.2837547821349
+151,,"Wed, 04 Oct 2017 13:53:49 GMT",Beaty ,,14,4,No,Yellowwood ,Planted,fde33ff0-addb-493a-9605-cf0dbcc6f5bc,Cladrastis lutea ,Fair ,MC47,"Dewey, Jane for John Stebbins",,,43.7082447408951,-72.2846926220828
+152,,"Wed, 04 Oct 2017 13:56:00 GMT",Beaty ,,14,4,No,Yellowwood ,Planted,730a2179-b4a5-439f-ac30-8e7650c103c2,Cladrastis lutea,Fair ,MC48,"Moran, John for Kenneth Moran",,,43.7082896707986,-72.2847463098097
+153,,"Wed, 04 Oct 2017 13:58:59 GMT",Beaty ,,12,4,No,Yellowwood ,Planted,72483d28-6a72-4c17-98d6-54471d3707b3,Cladrastis lutea ,Fair ,MC50,"Fuld, Julia for Zander Maslow",,,43.7082861503993,-72.2844437231052
+154,,"Wed, 04 Oct 2017 14:00:32 GMT",Beaty ,,12,3,No,Yellowwood ,Planted,2412e5b3-48e5-46ff-81c2-42eb7688ebb8,Cladrastis lutea ,Fair ,MC49,,,,43.7081878725846,-72.2844262887466
+155,,"Wed, 04 Oct 2017 14:01:57 GMT",Beaty ,,15,5,No,Yellowwood ,Planted,7b9bae61-0f97-4636-9903-5782784cad99,Cladrastis lutea ,Good,MC49,,,,43.7082212744688,-72.2843715549188
+156,,"Wed, 04 Oct 2017 14:03:11 GMT",Beaty ,,10,3,No,Yellowwood ,Planted,c4cacf10-e9ef-42c9-bdd2-f162d0e3ba86,Cladrastis lutea ,Poor ,MC51,,,,43.7082830071856,-72.2842976265329
+157,,"Wed, 04 Oct 2017 14:04:32 GMT",Beaty ,,12,4,No,Yellowwood ,Planted,32c0a2eb-d5e6-4074-9fff-32b0e57dd049,Cladrastis lutea ,Good,MC52,,,,43.7083652100285,-72.2842162080488
+158,,"Wed, 04 Oct 2017 14:06:03 GMT",Beaty ,,16,5,No,Yellowwood ,Planted,3957f954-73aa-4044-b5b4-1f0539210c6d,Cladrastis lutea ,Good,MC53,"For Wade, Phillip",,,43.7084013785456,-72.2841622822889
+159,,"Wed, 04 Oct 2017 14:07:50 GMT",Beaty ,,11,2,No,Ginkgo,Planted,619e1588-b413-442e-b25b-a670b4bdc138,Ginkgo biloba ,Poor ,MC54,For Christopher Gardener Reed,,,43.7083561773504,-72.2840971851056
+160,,"Wed, 04 Oct 2017 14:09:58 GMT",Beaty ,,13,4,No,Ginkgo ,Planted,dcd7c1ea-a12e-403d-80e0-64136d582d69,Ginkgo biloba,Poor ,MC58,"Naiman, Arkady for Alexander Naiman",,,43.7082868628611,-72.2840611730444
+161,,"Wed, 04 Oct 2017 14:12:21 GMT",Beaty ,,8,2,No,Beech ,Planted,fa4c9917-18d8-40e0-a6fe-582cef103800,Fagus grandifolia,Poor ,MC72,,,,43.7081366179074,-72.2840923503682
+162,,"Wed, 04 Oct 2017 14:14:05 GMT",Beaty ,,8,3,No,Beech,Planted,25a21c7d-84a2-4a62-8a5f-e838c277f0d4,Fagus grandifolia,Poor ,MC71,,,,43.7081150338461,-72.28403904482
+163,,"Wed, 04 Oct 2017 14:15:38 GMT",Beaty ,,10,4,No,Beech ,Planted,60f40249-0e01-4f2b-b171-86858db541a3,Fagus grandifolia,Poor ,MC70,,,,43.7080502417346,-72.2840294056314
+164,,"Wed, 04 Oct 2017 14:17:01 GMT",Beaty ,,8,5,No,Paper birch,Planted,2a9ed0e1-db2a-4b8d-8e39-cd1fb38ddef1,Betula papyrifera,Poor ,MC69,,,,43.7080471983449,-72.2839381736085
+165,,"Wed, 04 Oct 2017 14:18:52 GMT",Beaty ,,15,6,No,Paper birch,Planted,37dd9534-77ef-4bad-8919-34851162f900,Betula papyrifera,Fair ,MC57,,,,43.7082057453569,-72.2839165013957
+166,,"Wed, 04 Oct 2017 14:20:17 GMT",Beaty ,,14,8,No,Paper birch ,Planted,13ac6b0b-040d-4493-9122-2ad4ca1d0010,Betula papyrifera,Fair,MC59,,,,43.7082561012764,-72.2839333490211
+167,,"Wed, 04 Oct 2017 14:22:01 GMT",Beaty ,,16,5,No,Japanese larch ,Planted,295debb2-4671-4e73-bc84-fa5882ea659a,Larix kaempferi,Fair ,MC56,,,,43.7083104073078,-72.283982168532
+168,,"Wed, 04 Oct 2017 14:23:49 GMT",Beaty ,,16,4,No,Japanese larch,Planted,72356192-02b8-4c16-9443-4c947ce6c480,Larix kempferii,Poor ,MC55,,,,43.7083367259525,-72.2839376170796
+169,,"Wed, 04 Oct 2017 14:25:31 GMT",Beaty ,,16,6,No,Paper birch ,Planted,927b0d03-5db1-4991-a062-db40407b5bfd,Betula papyrifera,Good,MC60,,,,43.7082814461524,-72.2838553973215
+170,,"Wed, 04 Oct 2017 14:34:42 GMT",Beaty ,,12,6,No,Paper birch ,Planted,0732ec8c-08a5-4fa4-a9be-ef03fe49bbd9,Betula papyrifera,Poor ,MC61,,,,43.7083127597989,-72.2838135582006
+171,,"Wed, 04 Oct 2017 14:35:48 GMT",Beaty ,,13,6,No,Paper birch ,Planted,10e79265-36a3-4b11-afba-a234b92cb789,Betula papyrifera,Poor ,MC62,,,,43.708336564304,-72.2837423892124
+172,,"Wed, 04 Oct 2017 14:36:59 GMT",Beaty ,,8,5,No,Paper birch ,Planted,df011790-8fbc-485a-8b15-0bf4680ccaaf,Betula papyrifera,Poor ,MC63,,,,43.7083840067821,-72.2837122344154
+173,,"Wed, 04 Oct 2017 14:38:15 GMT",Beaty ,,8,4,No,Paper birch ,Planted,3875ccc5-836c-4140-ba9c-dbfd9952f446,Betula papyrifera,Poor ,MC64,,,,43.7084215801458,-72.2836330623468
+174,,"Wed, 04 Oct 2017 14:39:29 GMT",Beaty ,,9,5,No,Paper birch ,Planted,469df448-d268-46b4-97a8-bbfaade9a159,Betula papyrifera,Fair ,MC65,,,,43.708470693054,-72.2835679315212
+175,,"Wed, 04 Oct 2017 14:40:57 GMT",Beaty ,,15,6,No,Japanese larch ,Planted,84b93292-fd5f-4267-8842-96fff7764361,Larix kaempferi,Good,MC66,,,,43.708514341707,-72.2834809709948
+176,,"Wed, 04 Oct 2017 14:42:19 GMT",Beaty ,,16,6,No,Japanese larch ,Planted,fb3ce941-a152-4360-ac99-bc64f9b80b21,Larix kaempferi,Good,MC67,,,,43.7085948884966,-72.2834514834758
+177,,"Wed, 04 Oct 2017 14:43:33 GMT",Beaty,,12,3,No,Serviceberry ,Planted,89cb5c1c-136c-49fb-bcc7-2d8b57208dc0,Amelanchier canadensis ,Poor ,MC68,,,,43.7089827101267,-72.2833792515248
+178,,"Wed, 04 Oct 2017 14:58:58 GMT",Beaty ,,10,8,No,Sargent crab,Planted,5190a02a-ddbf-488c-9926-17a3674cf3aa,Malus sp,Good,MC94,"Yakovac, Friends of King Fahad Hospital",,,43.7087502965922,-72.2848045338323
+179,,"Wed, 04 Oct 2017 15:13:29 GMT",Beaty ,,12,4,No,Beech,Planted,85c27b0c-eb43-4ccf-9a28-29a64c55b962,Fagus grandifolia,Poor ,MC74,,,,43.7096295337544,-72.2843723998212
+180,,"Wed, 04 Oct 2017 15:14:50 GMT",Beaty ,,10,3,No,Beech,Planted,28433f8f-e16a-4b03-b5d9-32ab52e73d97,Fagus grandifolia,Poor ,MC73,,,,43.7095726341092,-72.2843756050806
+181,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,18,12,No,Japanese tree lilac,Planted,14e91bde-faa9-427c-8d45-ba29ba95a553,Syringae reticulata,Poor,MC28,,,,43.7086563029532,-72.2849113265633
+182,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,10,3,No,Beech,Planted,f68dcdcf-2e62-4d13-b951-8638899953a3,Fagus grandifolia,Poor,MC75,,,,43.7096100944739,-72.2843384386901
+183,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,14,4,No,Silver fir,Planted,620111df-e5a9-45d7-b221-e43513bf320c,Abies concolor,Good,MC77,,,,43.709526840701,-72.2841696204482
+184,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,10,5,No,Paper birch,Planted,c7c8b612-41d8-41fc-943d-250178aec2fd,Betula papyrifera,Fair,MC78,,,,43.7095051547818,-72.2841143803502
+185,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,15,6,No,Paper birch,Planted,f5340dd4-bb8f-4fac-a63b-75a6877ce837,Betula papyrifera,Fair,MC79,,,,43.7094481334176,-72.2840859757666
+186,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,15,5,No,Paper birch,Planted,bc46ffcb-0c3e-4e1f-aad9-02604b7dac32,Betula papyrifera,Fair,MC80,,,,43.7094715158596,-72.284041008575
+187,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,12,3,No,Serviceberry,Planted,95ff2edc-f0f8-4ced-90b7-34ed3e72b61c,Amelanchier canadensis,Poor,MC81,,,,43.7093500399869,-72.2840650596287
+188,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,12,5,No,Paper birch,Planted,b17b78bf-9738-41b3-bf3e-9992788ce697,Betula papyrifera,Fair,MC82,,,,43.7094156214302,-72.2839806505487
+189,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,12,5,No,Paper birch,Planted,7259d269-0803-4dbb-95ba-994c6ae3d80b,Betula papyrifera,Fair,MC83,,,,43.709445276045,-72.2839490943203
+190,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,12,5,No,Paper birch,Planted,e45713e7-b0dc-4737-ab35-8d565308db40,Betula papyrifera,Fair,MC84,,,,43.7094076430815,-72.2839088611851
+191,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,12,5,No,Paper birch,Planted,8f54a1fc-5acb-42a3-852d-329b2af88348,Betula papyrifera,Fair,MC85,,,,43.7094401478029,-72.2838796787379
+192,,"Wed, 04 Oct 2017 04:00:00 GMT",Beaty,,18,4,No,Norway spruce,Planted,9a5a59bb-7d9a-467c-979d-7cc676d09b23,Picea abies,Good,MC86,,,,43.7094030771103,-72.2837928958358
+193,0,"Tue, 17 Oct 2017 13:52:24 GMT",Beaty ,,55,26,No,Elm (found dutch elm disease 2022),Planted,4957485a-19e7-4737-93d3-ccc5583b9838,Ulmus americana ,Fair ,HO23,Expired?,,Arbortect june 2023,43.701279475261,-72.2862562291212
+194,,"Tue, 17 Oct 2017 13:54:55 GMT",Beaty ,,12,5,No,Jap tree lilac,Planted,9c7f4469-bec3-4f0d-a21f-a13962115984,Syringae reticulata ,Good,HO20,,,,43.7017523319776,-72.2863123207517
+195,,"Tue, 17 Oct 2017 13:58:32 GMT",Beaty ,,16,10,No,Crabapple ,Planted,4fc3fac9-d65a-44d9-aa7f-7aeca9d2956b,Malus ,Poor,HO51,,,,43.7022712464486,-72.2862774523619
+196,,"Tue, 17 Oct 2017 14:00:12 GMT",Beaty ,,90,25,No,White pine,Planted,4b27f9b6-64bc-4ec1-8216-6e81a2aeb006,Strobus,Good,HO48,,,,43.7024940553823,-72.2861976563163
+197,,"Tue, 17 Oct 2017 14:02:17 GMT",Beaty ,,80,28,No,White pine,Planted,64bd21ab-097f-48db-913d-b29d5cf86096,Pinus strobus,Fair ,HO47,,,,43.7025745962726,-72.2862060653951
+198,,"Tue, 17 Oct 2017 14:04:31 GMT",Beaty ,,75,26,No,White pine,Planted,20e0a512-1fff-47f7-966e-484316ededc7,Pinus,Fair ,HO53,,,,43.7023802450871,-72.2859808872036
+199,,"Tue, 17 Oct 2017 14:06:32 GMT",Beaty ,,50,30,No,White pine storm damaged ,Planted,db462257-c324-44f2-907c-3a5634945d94,Pinus ,Fair ,HO52,,,,43.7022729794129,-72.2860260856342
+200,,"Tue, 17 Oct 2017 14:08:56 GMT",Beaty ,,10,5,No,Jap tree lilac,Planted,636b24f8-d3bc-4760-a17b-3584baea83f1,Syringae reticulata,Good,HO54,1980 Class for Jay Tyson,,,43.7023652760042,-72.2856713199453
+201,,"Tue, 17 Oct 2017 14:11:45 GMT",Beaty ,,50,25,No,Norway maple ,Planted,f109e572-e869-4900-8e48-f838ae370fd7,Acer platanoides,Fair ,HO39,,,,43.7020112625898,-72.2854902875352
+202,,"Tue, 17 Oct 2017 14:23:18 GMT",Beaty ,,15,4,No,Elm,Planted,ffd6a79b-1d7e-4093-a113-398d6fd280e9,Ulmus americana,Fair ,HO70,,2016,,43.7023207963546,-72.2878460783922
+203,,"Tue, 17 Oct 2017 14:25:17 GMT",Beaty ,,11,3,No,White oak planted 2015,Planted,6ac8278b-fae7-47d8-84ea-0a0e375c1322,Quercus alba,Fair ,HO71,Hanover Inn for John G. Skewes,,,43.7022975963267,-72.2882020309717
+204,,"Tue, 17 Oct 2017 14:27:27 GMT",Beaty ,,12,4,No,White oak,Planted,59711d94-0afe-4605-84a2-f41e25adbf97,Quercus alba,Fair ,HO72,"Taylor, David J. for John D. Taylor",,,43.7022778924107,-72.2884002564333
+205,,"Tue, 17 Oct 2017 14:37:45 GMT",Beaty,,15,4,No,Red oak planted 2013,Planted,6890c7af-72d2-405a-a741-4f51710900bb,Quercus rubra ,Fair ,HO16,,,,43.7010923578416,-72.2873972777361
+206,,"Tue, 17 Oct 2017 14:39:26 GMT",Beaty ,,15,4,No,Red oak,Planted,130bc756-3265-47c0-b52c-bceb19939a75,Quercus rubra ,Fair ,HO15,,,Cambistat 10-2-2019,43.7010908648462,-72.2874865682516
+207,,"Tue, 17 Oct 2017 14:41:20 GMT",Beaty ,,15,4,No,Red oak planted 2013,Planted,eb2c5f21-78b9-4d0f-a758-cbe9f4981106,Quercus alba,Fair ,HO17,,,,43.7010943310502,-72.2873142101289
+209,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,10,No,Littleleaf linden,Planted,657bc9f7-8b14-4649-a34c-5b7242fa3813,Tilia cordata,Fair,HO26,,,,43.7011352259233,-72.286077065353
+210,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,10,No,Littleleaf linden,Planted,cbe4318d-40c3-42f2-b995-97e8891624e3,Tilia cordata,Fair,HO24,,,,43.7011408882161,-72.2862080106523
+211,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,10,No,Littleleaf linden,Planted,45179659-d1f9-4a3b-97b1-dc7150bfd93a,Tilia cordata,Fair,HO25,,,,43.7011614427535,-72.2861197122137
+212,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,12,No,Littleleaf linden,Planted,6ba3fcdc-2f8d-4034-b624-4c430cfb2d3e,Tilia cordata,Fair,HO27,,,,43.7011545782229,-72.2860313600784
+213,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,7,No,Littleleaf linden,Planted,a96e9cd5-4a16-49e5-a200-335fccf30175,Tilia cordata,Fair,HO28,,,,43.7011750940538,-72.2858988055185
+214,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,7,No,Littleleaf linden,Planted,197faab3-1a7a-4c4a-bdbd-fc5e7fe2df0e,Tilia cordata,Fair,HO29,,,,43.7011728446187,-72.285813618534
+215,,"Tue, 17 Oct 2017 04:00:00 GMT",,,25,7,No,Littleleaf linden,Planted,44c8958b-b1bb-4739-b484-aae9fd3cd67f,Tilia cordata,Fair,HO30,,,,43.701164283441,-72.2857362637176
+216,,"Tue, 17 Oct 2017 04:00:00 GMT",,,12,5,,Sterling linden planted 2015,Planted,8ac897e0-61f8-4919-8c38-c4792e7211b5,Tilia tomentosa,Good,HO57,,,,43.7028090945577,-72.2859918112414
+217,,"Tue, 17 Oct 2017 04:00:00 GMT",,,12,5,No,Sterling linden planted 2015,Planted,5f1c0263-92b2-4c48-a05d-56aaddfa1e20,Tilia tomentosa,Fair,HO58,,,,43.7027531913931,-72.2863074265668
+218,,,,,20,5,No,American elm 'Princeton',Planted,39cfd919-6f65-492c-9137-0d51b314eef6,Ulmus americana,Good,HO59,,,,43.7026915487178,-72.286555075298
+219,,"Tue, 17 Oct 2017 04:00:00 GMT",,,12,5,No,Apple,Planted,5aa7c4da-a546-4ea0-990e-9e8834034efe,Malus,Fair,HO116,,,,43.7026869919102,-72.2866970713678
+220,,"Tue, 17 Oct 2017 04:00:00 GMT",,,16,7,Yes,American elm 'Valley Forge',Planted,1563e68c-9e5f-4c0f-b52f-da700a7f5267,Ulmus americana,Poor,HO60,,,,43.7026510707861,-72.2868185753625
+221,,"Tue, 17 Oct 2017 04:00:00 GMT",,,12,5,No,Apple,Planted,489f42ba-9351-4680-bf10-f7d77f7da345,Malus,Fair,HO108,,,,43.7026299834547,-72.286977938834
+222,,"Tue, 17 Oct 2017 04:00:00 GMT",,,16,3,No,American elm 'Princeton',Planted,2ce6c0e5-632e-43a1-97f6-30224650aebb,Ulmus americana,Fair,HO109,,,,43.7025889140808,-72.2871136317373
+223,,"Tue, 17 Oct 2017 04:00:00 GMT",,,7,4,No,Balsam fir,Planted,fe286864-45e1-4cbd-bec5-ac3d920d9371,Abies balsamea,Poor,HO66,,,,43.7025307323973,-72.2871025810902
+224,,"Tue, 17 Oct 2017 04:00:00 GMT",,,6,4,No,Balsam fir,Planted,78bf864a-9b04-4717-862e-b3757ec77697,Abies balsamea,Poor,HO65,,,,43.7025016463831,-72.287103372296
+225,,"Tue, 17 Oct 2017 04:00:00 GMT",,,15,6,No,White pine,Planted,f614d080-ccf9-479f-b9f9-22df7a01ebd7,Pinus strobus,Fair,HO61,"Vail, James O. for My Four Fathers '20",,,43.7025421341205,-72.2872288058398
+226,,"Tue, 17 Oct 2017 04:00:00 GMT",,,15,6,No,White pine,Planted,d7e444dc-0186-4b02-864f-18f33ea6f4bb,Pinus strobus,Fair,HO62,"Vail, James O. for My Four Fathers '20",,,43.7025176146078,-72.2872288058398
+227,,"Tue, 17 Oct 2017 04:00:00 GMT",,,15,6,No,White pine,Planted,1c896a93-49f8-4b1a-83ff-6f90e574a77b,Pinus strobus,Fair,HO63,"Vail, James O. for My Four Fathers '20",,,43.7024845341107,-72.2871901551981
+228,,"Tue, 17 Oct 2017 04:00:00 GMT",,,15,6,No,White pine,Planted,b7a4e5e3-e167-4027-9254-d7bddb200c05,Pinus strobus,Fair,HO64,"Vail, James O. for My Four Fathers '20",,,43.7024543040301,-72.2871854210599
+229,,"Tue, 17 Oct 2017 04:00:00 GMT",,,45,12,No,Red maple,Planted,ac738f7d-14e4-4790-aa5a-1d2dab152721,Acer rubrum,Fair,HO67,,,,43.7024959358427,-72.2872264455237
+230,,"Tue, 17 Oct 2017 04:00:00 GMT",,,35,32,No,Red oak,Planted,b931db31-68a7-4fc9-9091-593d5fa04262,Quercus rubra,Good,HO69,,,,43.7024805299439,-72.2875191281173
+231,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,5,No,Arborvitae,Planted,684c71b5-4257-4a12-99ac-9ed42bb0bdc0,Thuja occidentalis,Good,HO110,,,,43.7021956352727,-72.2880852317407
+232,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,5,No,Arborvitae,Planted,8564ef48-8076-42e2-872b-9c91ebaf5500,Thuja occidentalis,Good,HO111,,,,43.7021848055156,-72.2880852318226
+233,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,5,No,Arborvitae,Planted,c3e12157-1eb2-4941-91f8-ff79b0d4d6df,Thuja occidentalis,Good,HO112,,,,43.702167702828,-72.2880836493291
+234,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,5,No,Arborvitae,Planted,6365d8d0-2e15-4820-a4eb-9cf00f55d1cf,Thuja occidentalis,Good,HO113,,,,43.702142601462,-72.2880765549157
+235,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,5,No,Arborvitae,Planted,2f341312-efad-408e-b0ae-b271fea7d4b5,Thuja occidentalis,Good,HO114,,,,43.7021311996628,-72.288075763628
+236,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,5,No,Arborvitae,Planted,4a1ed265-1f56-4e0a-90e4-5b126b250080,Thuja occidentalis,Good,HO115,,,,43.702111808859,-72.288078123985
+237,,"Tue, 17 Oct 2017 04:00:00 GMT",,,12,2,No,Pear,Planted,28a5685d-0926-481c-8e01-f2e1bd8d71f0,Pyrus,Fair,HO74,,,,43.7020952003126,-72.2883759281234
+238,,"Tue, 17 Oct 2017 04:00:00 GMT",,,10,5,No,Malus crabapple,Planted,c0dc6a2d-d802-44ec-936a-9a108363fe79,Malus,,HO75,,,,43.702110024595,-72.2883435806892
+239,,"Tue, 17 Oct 2017 04:00:00 GMT",,,10,4,No,Pear,Planted,863f571b-818f-4475-be84-0aa3a254ca3d,Pyrus,Fair,HO76,,,,43.702125992924,-72.2883128157485
+240,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,12,No,Paper birch,Planted,961f066b-0560-4b54-abad-ae4eb7377ca8,Betula papyrifera,Fair,HO91,,,,43.7014672740655,-72.2879435962086
+241,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,12,No,Paper birch,Planted,82f3e280-774c-4c5c-b3c3-f19cbe274b92,Betula papyrifera,Poor,HO92,,,,43.7015014991861,-72.2878931036321
+242,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,12,No,Paper birch,Planted,1ad2abf1-231d-4954-88c6-ac7220fdae6f,Betula papyrifera,Poor,HO93,,,,43.7014655676467,-72.2878323516143
+243,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,10,No,Paper birch,Planted,5ab50845-7c50-4898-9dfa-5791b4718378,Betula papyrifera,Poor,HO95,,,,43.7015014991861,-72.2877613535384
+244,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,10,No,Paper birch,Planted,c97af9fe-d9d5-4aac-a563-889c317d1f08,Betula papyrifera,Poor,HO96,,,,43.70144161005,-72.2877100830984
+245,,"Tue, 17 Oct 2017 04:00:00 GMT",,,20,8,No,Hemlock,Planted,464d81ea-7cb0-46b8-a883-99e5b8d6e3e1,Tsuga canadensis,Poor,HO88,,,,43.701435909084,-72.2876564389181
+246,,"Tue, 17 Oct 2017 04:00:00 GMT",,,18,5,No,Hemlock,Planted,8a2945d6-3b23-4268-ab0e-27353c8a23d3,Tsuga canadensis,Poor,HO87,,,,43.7014267856022,-72.2876225223327
+247,,"Wed, 18 Oct 2017 04:00:00 GMT",,,8,4,No,Hophornbeam,Planted,31158021-9d37-456b-a82c-7610540e6697,Ostrya virginiana,Fair,HO117,,,,43.7015214914515,-72.2876284759602
+248,,"Wed, 18 Oct 2017 04:00:00 GMT",,,8,4,No,Hophornbeam,Planted,bb92c44c-bf8f-435d-882a-8b82ba26c32e,Ostrya virginiana,Fair,HO118,,,,43.7014872856931,-72.287598488883
+249,,"Wed, 18 Oct 2017 04:00:00 GMT",,,12,4,No,Hophornbeam,Planted,1d138816-c615-4858-8f88-b428c94535eb,Ostrya virginiana,Fair,HO119,,,,43.7015739633161,-72.2874343645069
+250,,"Wed, 18 Oct 2017 04:00:00 GMT",,,12,4,No,Hophornbeam,Planted,e2d4d223-6010-49d9-81c1-4ea4f19ae71c,Ostrya virginiana,Fair,HO120,,,,43.7015579851055,-72.2874027681699
+251,,"Wed, 18 Oct 2017 04:00:00 GMT",,,12,4,No,Hophornbeam,Planted,fc0658e6-4421-4ef0-aa11-2a29db897b44,Ostrya virginiana,Fair,HO121,,,,43.7015408628884,-72.2874611599125
+252,,"Wed, 18 Oct 2017 04:00:00 GMT",,,12,4,No,Hophornbeam,Planted,3e2c2728-be72-4224-bad0-b70d3421a024,Ostrya virginiana,Fair,HO122,,,,43.7015271922614,-72.2874169838449
+253,,"Wed, 18 Oct 2017 04:00:00 GMT",,,12,4,No,Hophornbeam,Planted,d27d30c4-6c40-457d-8178-b1cc62c5d524,Ostrya virginiana,Fair,HO123,,,,43.7015306050364,-72.287361757253
+254,,"Wed, 18 Oct 2017 04:00:00 GMT",,,12,4,No,Hophornbeam,Planted,0463c886-5e3c-4d7b-94d1-e59a1613a2e4,Ostrya virginiana,Fair,HO124,,,,43.7015032249548,-72.2873964650441
+255,,"Wed, 18 Oct 2017 04:00:00 GMT",,,10,7,No,Camperdown elm,Planted,b2665436-a926-4d90-9560-379c60596845,Ulmus glabra 'Camperdownii',Fair,HO125,,,,43.7015979111254,-72.2878130120713
+257,,"Wed, 18 Oct 2017 04:00:00 GMT",,,36,18,No,Saucer magnolia,Planted,ced826a7-c3c9-4f1d-8292-b652200af7f3,Magnolia soulangiana,Poor,HO42,,,,43.7018956006439,-72.2861942183865
+258,,"Wed, 18 Oct 2017 04:00:00 GMT",,,30,11,No,Toba hawthorn,Planted,c078b570-b842-46ed-8a6b-6906eaf67498,Crataegus mordensis 'Toba',Good,HO41,"F,O&M for John Grassio",,,43.7020005439089,-72.2861752551491
+259,,"Wed, 18 Oct 2017 04:00:00 GMT",,,16,10,No,Arborvitae,Planted,36c2b42f-b8ed-4d17-9f08-1c70d4004c04,Arborvitae,Poor,HO126,,,,43.7010252929702,-72.2878776531612
+260,,"Wed, 18 Oct 2017 04:00:00 GMT",,,24,14,No,Arborvitae,Planted,95529796-7ee6-47d6-9ce1-d504ac835df7,Arborvitae,Fair,HO127,,,,43.7010686322053,-72.28788081823
+262,,"Wed, 18 Oct 2017 04:00:00 GMT",,,45,12,No,Bradford pear,Planted,137358b2-d461-45ff-8ff1-8d391cedbff9,Pyrus calleryana 'Bradford',Fair,HO37,,,,43.7011781338405,-72.285591445648
+263,,"Wed, 18 Oct 2017 04:00:00 GMT",,,45,12,No,Bradford pear,Planted,5ee1e863-e0b8-4bbd-9193-1aeb2c20071f,Pyrus calleryana 'Bradford',Fair,HO34,,,,43.7013332625111,-72.2854652477467
+264,,"Wed, 18 Oct 2017 04:00:00 GMT",,,55,36,No,Red oak,Planted,a4d849f3-67d0-484f-a554-7f20cfd79284,Quercus rubra,Fair,HO31,,,,43.7011211045549,-72.2855109793776
+265,,"Wed, 18 Oct 2017 04:00:00 GMT",,,45,12,No,Red oak,Planted,62e24457-9130-485d-b285-dff00268f478,Quercus rubra,Poor,HO38,,,,43.7015596534639,-72.2853965904259
+266,,"Wed, 18 Oct 2017 04:00:00 GMT",,,55,36,No,Red oak,Planted,a675b7c8-ee4b-4244-9340-50d60923d785,Quercus rubra,Fair,HO32,,,,43.7012265153715,-72.2853870953012
+267,,"Wed, 18 Oct 2017 04:00:00 GMT",,,50,25,No,Red oak,Planted,e255ac0d-88d3-4f32-9b55-819ba675e4fa,Quercus rubra,Fair,HO33,,,,43.7013976221154,-72.2853239559962
+268,,"Thu, 19 Oct 2017 04:00:00 GMT",,,5,2,No,Beech,Planted,94335a6d-a2a1-4cd4-b575-70098b8c9a88,Fagus grandifolia,Poor,MC200,,,,43.7092917814826,-72.283725351476
+269,,"Thu, 19 Oct 2017 04:00:00 GMT",,,10,3,No,Beech,Planted,7fd3a1d0-a3c5-4887-b52a-a1695e6f8278,Fagus grandifolia,Poor,SC201,,,,43.7092558642865,-72.2836859229708
+270,,"Thu, 19 Oct 2017 04:00:00 GMT",,,12,4,No,Silver fir,Planted,199d60f3-ba1b-48d9-96d8-d6ae0fc76424,Abies concolor,Good,MC202,,,,43.7091937047404,-72.2835344586244
+271,,"Thu, 19 Oct 2017 04:00:00 GMT",,,12,3,No,Serviceberry,Planted,9e458429-432d-4ba7-b25d-10b7b546bfb5,Amelanchier canadensis,Poor,MC204,,,,43.7091104503892,-72.283491851749
+272,,"Thu, 19 Oct 2017 04:00:00 GMT",,,12,3,No,Serviceberry,Planted,12d9c206-b3b5-47d6-b59b-afb9271d2504,Amelanchier canadensis,Poor,MC205,,,,43.7090802236203,-72.2834516186547
+274,,"Thu, 24 Oct 2024 14:23:22 GMT",Melendy,,20,4,No,Red maple,Planted,6e108576-b542-4775-9115-fa28b9c8f0bd,Acer rubrum,Good,OC44,Sarah Burrill for Robt. M. Burrill,October 2024,,43.7035466768088,-72.2874990977951
+275,,"Wed, 25 Oct 2017 04:00:00 GMT",,,60,18,No,White pine,Planted,363dd8c2-d3d1-4664-baab-eecd4d091f36,Pinus strobus,Fair,OP99,1959 Class for David C. E. Koop,,,43.712010732691,-72.2876186955845
+276,,"Wed, 25 Oct 2017 04:00:00 GMT",,,65,14,No,White pine,Planted,9b7ed999-3c01-4b06-8017-2676f466f90b,Pinus Strobus,Fair,OP98,Schwarz for Ray and Jan Schwarz,,,43.7125489300815,-72.2859084121165
+277,,"Wed, 25 Oct 2017 04:00:00 GMT",,,8,6,No,White pine,Planted,d0327f62-1069-45da-8abb-fa255c70b646,Pinus Strobus,Fair,OP97,1969 Class for William B. Brooks,,,43.7127815788002,-72.2853404275094
+278,,"Wed, 25 Oct 2017 04:00:00 GMT",,,15,6,No,White pine grove,Planted,32849a8e-3d5c-4777-a9e3-bb7bdd539927,Pinus strobus,Fair,OP96,1967 Class,,,43.7129640523038,-72.2855738870868
+279,,"Mon, 30 Oct 2017 18:10:06 GMT",Beaty ,,70,28,No,Burr oak,Ingrowth,c5fcd33a-9d5e-4d07-a8b3-bb92553d4745,Quercus macrocarpa ,Fair,PP01,,,,43.7186971419463,-72.2814818099814
+280,,"Thu, 02 Nov 2017 18:11:44 GMT",Beaty ,,16,8,No,Kentucky coffee tree,Planted,80331a12-1e1b-4b29-8b30-c41f7a4beea1,Gymnocladus,Good,WA72,,,,43.7077107173414,-72.2921726357472
+281,,"Thu, 02 Nov 2017 18:14:04 GMT",Beaty ,,45,30,No,Butternut ,Planted,420f32ff-f92f-40f9-95a7-c7d17618494a,Juglans cinerea,Fair ,WA70,,,,43.7075669445625,-72.2923050933096
+282,,"Thu, 02 Nov 2017 18:16:04 GMT",Beaty ,,35,38,No,Yellowwood ,Planted,866c9244-a932-4012-9a8b-1fb9a1ed6a62,Cladrastis lutea ,Poor ,WA71,,,,43.7076161127898,-72.2921979423827
+283,,"Thu, 02 Nov 2017 18:18:32 GMT",Beaty ,,108,38,No,Red oak,Planted,138782a2-18f3-4332-9c51-2bc695fbca06,Quercus rubra ,Good ,WA55,,,,43.7072059472642,-72.2925243336922
+284,,"Thu, 02 Nov 2017 18:20:47 GMT",Beaty ,,11,2,No,Sugar maple ,Planted,72d5bcda-1cd3-4b1c-8d11-7d46524599a2,Acer saccharum,Fair ,WA69,Class 2013 for Wenhao Shi,2016,,43.7069233359125,-72.2926200617385
+285,,"Thu, 02 Nov 2017 18:24:12 GMT",Beaty ,,55,26,No,Norway maple ,Planted,59504a04-3b68-4197-afcf-a628ca72b6a4,Acer platanoides ,Fair ,WA68,,,,43.7068187306111,-72.2926913481879
+286,,"Thu, 02 Nov 2017 18:26:00 GMT",Beaty ,,10,6,No,Crabapple ,Planted,b2d8915e-ff08-4840-a4b7-8b313f8d9e41,Malus ,Fair ,WA26,Class 1992 for David L Wolfson,,,43.7068290822615,-72.2928040847856
+287,,"Thu, 02 Nov 2017 18:27:56 GMT",Beaty ,,8,3,No,Crabapple ,Planted,eaabf540-f51f-4b9c-ba7f-4fa2e6f53211,Malus ,Fair ,WA67,Class 2005 for Jas P Russell,,,43.7068654439234,-72.2929771208274
+288,,"Thu, 02 Nov 2017 18:29:49 GMT",Beaty ,,25,14,No,Arborvitae ,Planted,421269cd-0134-46bc-9544-d2abfffaa9e9,Thuja occidentalis,Fair ,WA23,,,,43.7069152078754,-72.2929657883961
+289,,"Thu, 02 Nov 2017 18:31:18 GMT",Beaty ,,35,14,No,Arborvitae ,Planted,331f790c-998f-4ee2-942f-302d27959f70,Thuja occidentalis,Fair,WA22,,,,43.7069323217315,-72.2929203149343
+290,,"Thu, 02 Nov 2017 18:32:32 GMT",Beaty ,,40,20,No,Norway spruce ,Planted,14b57057-6f50-4b77-bd50-48fc0b8f8ce6,Picea abies ,Poor ,WA19,,,,43.706969185773,-72.2930686176496
+291,,"Thu, 02 Nov 2017 18:35:02 GMT",Beaty ,,24,12,No,Sugar maple ,Planted,195b0ec9-d280-4f60-88c7-5cacd2c4ea5a,Acer saccharum,Fair ,WA52,,,,43.706826525781,-72.2931289673525
+292,,"Thu, 02 Nov 2017 18:36:44 GMT",Beaty ,,20,11,No,Norway maple ,Planted,6b91ae96-c401-43ab-a102-8f22d3e93bb8,Acer platanoides,Fair ,WA17,,,,43.7068721233343,-72.2932858765799
+293,,"Thu, 02 Nov 2017 18:38:22 GMT",Beaty ,,13,4,No,Freeman maple,Planted,3e2ec082-c0f5-4a1d-bb0e-a070f15dce8d,Acer ‘Freemanii’ ,Fair ,"1968 Sobel, Sigelman",WA65,2013,,43.7069559142486,-72.2934312723956
+294,,"Thu, 02 Nov 2017 18:41:45 GMT",Beaty ,,8,4,No,Crabapple ,Planted,9f30655c-bf7e-44de-8427-ee42f27ce130,Malus ,Poor ,WA15,,,,43.7070163598914,-72.2933650017458
+295,,"Thu, 02 Nov 2017 18:43:15 GMT",Beaty ,,35,11,No,Sugar maple ,Planted,4d32e786-238c-42fb-a904-adfaea6ff6d2,Acer saccharrum,Poor ,WA63,,,,43.7072913442214,-72.2934826836663
+296,,"Thu, 02 Nov 2017 18:44:48 GMT",Beaty ,,10,2,No,Red oak ,Planted,f723cc6a-8f2b-4484-8f2c-5dab229f9dec,Quercus rubra ,Poor ,WA62,,,,43.7073271768575,-72.2934666742313
+297,,"Thu, 02 Nov 2017 18:46:13 GMT",Beaty ,,8,3,No,Arborvitae hedge,Planted,e7c7e534-01a9-40b3-857c-10db88da36c2,Thuja ,Fair ,WA61,,,,43.7073506880959,-72.2933795024383
+298,,"Thu, 02 Nov 2017 18:47:45 GMT",Beaty ,,45,30,No,Red maple ,Planted,e66450f5-9216-4a91-8e94-61dbe3ba8a40,Acer rubrum,Fair ,WA60,,,,43.7074258318578,-72.2933477350253
+299,,"Thu, 02 Nov 2017 18:49:07 GMT",Beaty ,,12,2,No,Red oak ,Planted,7d3bde9e-0ba9-496a-a280-97cb863b159e,Quercus rubra ,Good ,WA59,,,,43.7075087707897,-72.2933295462954
+300,,"Thu, 02 Nov 2017 18:50:26 GMT",Beaty ,,11,3,No,Red oak,Planted,de2fb4c0-2913-4353-9f26-9ad51f33ab51,Quercus rubra ,Good ,WA58,,,,43.7075927856783,-72.2932717178756
+301,,"Thu, 02 Nov 2017 18:51:35 GMT",Beaty ,,10,2,No,Red oak ,Planted,d23cc1a2-3e09-42d8-8af5-e4aa98f7aa8d,Quercus rubra ,Fair ,WA57,,,,43.7076707514074,-72.2932167124545
+302,,"Thu, 02 Nov 2017 18:52:50 GMT",Beaty ,,45,26,No,Red oak ,Planted,99590488-3e72-4270-8a87-ca97bae1d80e,Quercus rubra ,Fair ,WA56,,,,43.7077061535696,-72.293113739137
+303,,"Fri, 03 Nov 2017 04:00:00 GMT",Beaty,,103,43,No,Japanese larch,Planted,db23ee30-1ab6-4c92-9e71-2d7e324e89cb,Larix kaempferi,Good,CH01,,,,43.7081029575724,-72.2914082508237
+304,,"Wed, 15 Nov 2017 14:55:11 GMT",Beaty ,,80,30,No,Norway spruce ,Planted,f9c42d2b-d09f-410c-a597-bf9f5274c0a6,Picea abies,Fair ,PH02,,,,43.7064978294481,-72.2924658749926
+305,,"Wed, 15 Nov 2017 14:57:19 GMT",Beaty ,,70,24,No,Hemlock ,Planted,d58463e2-a742-48a0-a3dc-cf44ce66abae,Tsuga canadensis,Fair ,PH03,,,,43.7064700861423,-72.2925104164179
+306,,"Wed, 15 Nov 2017 14:58:40 GMT",Beaty,,18,5,No,Norway spruce ,Planted,db33144f-30c5-4f98-bfea-1aa612ce12c8,Picea abies,Poor ,PH05,,,,43.7064451627431,-72.2924896695295
+307,,"Wed, 15 Nov 2017 14:59:40 GMT",Beaty,,30,10,No,Norway spruce ,Planted,b7179584-41ba-4067-9a36-55ff5b1cf47e,Picea abies,Fair ,PH151,,,,43.7064008508284,-72.292517256059
+308,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,18,4,No,White pine,Planted,0ee5c8a7-878f-4984-83d3-01f3f9287011,Pinus strobus,Poor ,PH152,,,,43.706366694573,-72.2925181780684
+309,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,20,5,No,White pine ,Planted,16d4fc32-79f2-4bbf-aef8-a66735216eb2,Pinus strobus,Poor ,PH150,,,,43.7064056704228,-72.292493535273
+310,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,30,12,No,Hemlock ,Planted,6a12b657-5b41-4e08-a775-15de35d15d8d,Tsuga canadensis,Fair ,PH06,,,,43.7063704664295,-72.292551621862
+311,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,25,8,No,Hemlock ,Planted,2d7aaf48-8e3e-48a3-a741-91aa330fda07,Tsuga canadensis,Fair ,PH119,,,,43.7063115416502,-72.2925950401205
+312,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,40,12,No,Hemlock ,Planted,c901f645-0a3e-4c47-822a-13ec0fb2607c,Tsuga canadensis,Fair ,PH09,,,,43.7062328774889,-72.2925723251629
+313,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,85,26,No,White pine,Planted,e352e33e-ef20-42e2-93f7-c2a9bb90f609,Pinus strobus,Good,PH10,,,,43.706248886924,-72.2926206887442
+314,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,90,31,No,White pine,Planted,278c66a4-5ff5-4cfb-9d4f-811c97651746,Pinus strobus,Fair,PH07,,,,43.7062814087082,-72.2925823834467
+315,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,45,12,No,Hemlock ,Planted,3ce36593-b003-4d1d-b59b-909368d97844,Tsuga canadensis,Fair ,PH120,,,,43.7062447797914,-72.2925874964076
+316,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,75,26,No,Tamarack,Planted,1f95a0d2-b499-4f71-9413-8bb7df7ee389,Larix larcinia,Fair ,PH11,,,,43.7062442349677,-72.2926476784724
+317,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,12,5,No,Crabapple ,Planted,114a683a-3b4e-4714-8d81-83de721eb905,Malus,Fair ,PH12,,,,43.706277441343,-72.2927826539208
+318,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,112,47,No,Norway spruce ,Planted,666cf008-c270-42d3-ab73-1a8193b9f25f,Picea abies,Fair ,PH20,,,,43.7060087453981,-72.2926311661231
+319,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,125,42,No,Norway spruce ,Planted,c5a2a5fe-6f57-4c51-8d63-e1fc4f3f042c,Picea abies,Good,PH22,,,,43.7059716296557,-72.2924626328168
+320,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,18,10,No,Hawthorn ,Planted,36fb5cd3-a6f9-41d8-810f-2693f280a2b8,Crataegus sp,Good ,PH23,,,,43.7059254857257,-72.2923879199371
+321,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,75,40,No,Hemlock ,Planted,c0e598d3-de28-48e8-990d-3a4622612e6e,Tsuga canadensis,Good,PH26,,,,43.7058927377613,-72.2923365019542
+322,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,90,29,No,Red pine,Planted,0e3d6a6b-8382-4d9c-aea6-f1e887d1ce79,Pinus resinosa,Fair ,PH24,,,,43.7058543757793,-72.2925311800864
+323,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,55,25,No,Norway spruce ,Planted,d63c254e-a980-45a6-b762-06e4408c1e67,Picea abies,Fair,PH25,,,,43.7058399926073,-72.2923842855963
+324,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,18,,,Conifer hedge,Planted,899d417d-4fa9-4623-95f4-52164e106459,misc.,Fair,PH145,,,,43.7057152001586,-72.2924463853488
+325,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,22,14,No,Crabapple ,Planted,9cb2e4a4-d0f2-40ed-bf1c-1f6b96cbc8b9,Malus sp,Fair ,PH52,,,,43.7057072064315,-72.2925922740924
+326,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,22,10,No,Tree lilac ,Planted,0ad68edb-4bfa-4e23-9f36-6ade29679696,Syringae reticulata,Fair ,PH53,,,,43.7056842244069,-72.2926154114603
+327,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,14,4,No,Carolina Silverbell,Planted,381b6f72-d96d-420c-9bd4-36a8c4fa36e0,Halesia tetraptera,Poor ,PH54,,,,43.7057352858071,-72.2926972993392
+328,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,55,35,No,Red oak,Planted,481185f1-27e4-4ac6-b9a7-2e91bec93fee,Quercus rubra,Poor ,PH56,,,,43.7057271712892,-72.2928326703905
+329,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,40,25,No,Red maple,Planted,a77d8efa-09e2-479a-8f56-a84c64ad460b,Acer rubrum,Fair ,PH57,,,,43.7059560512346,-72.2928367808381
+330,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,12,12,No,Euonymus ,Planted,0d3fd80a-6f1e-4be8-84d9-05fa326b537b,Euonymus europaeus,Fair ,PH18,,,,43.7059178731619,-72.2925557591989
+331,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,12,12,No,Euonymus ,Planted,a1893509-a59e-4df5-a6b4-4d9770dce010,Euonymus europaeus,Fair ,PH17,,,,43.7059075773062,-72.2926134132686
+332,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,30,11,No,Sugar maple ,Planted,f2865f97-7e7e-47e4-86af-a7397997fe02,Acer saccharum,Fair ,PH59,,,,43.706061960068,-72.2928152360728
+333,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,20,5,No,Katsura,Planted,9b2d011b-377e-43ef-9ccf-4dbb178ed7da,Cercidiphyllum japonicum,Good ,PH116,,,,43.7062408402969,-72.2929811105805
+334,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,20,6,No,Katsura ,Planted,119e9570-697e-4b43-8b25-d0f970116844,Cercidiphyllum japonicum,Fair ,PH115,,,,43.7062933110108,-72.2931780853051
+335,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,11,4,No,Crabapple ,Planted,1584d884-f24d-4660-ade8-cc8ffa4e2d15,Malus,Fair ,PH160,,,,43.7063076021557,-72.2932321485805
+336,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,35,11,No,Sugar maple ,Planted,9de6bda9-e192-4e52-a6a5-b4e5150cbd7d,Acer saccharum,Good,PH161,,,,43.7063914630969,-72.2932981979775
+337,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,95,28,No,White pine ,Planted,d56a69a5-064e-4867-a660-c31753261cb1,Pinus strobus,Fair ,PH84,,,,43.7064767070521,-72.2936281096864
+338,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,100,32,No,White pine ,Planted,a46e667a-a5b1-46b7-bffd-06d605fe4302,Pinus strobus,Fair ,PH83,,,,43.7064056285133,-72.2937189695167
+339,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,110,55,No,Norway spruce Removed Mar. '22,Dead,c689a2a4-7dff-44cf-8a39-56fe19534595,Picea abies,Poor ,PH71,,,,43.7062747870047,-72.2935335618186
+340,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,135,34,No,Norway spruce ,Planted,f0c112fb-d72f-481d-a056-52326e588eaf,Picea abies,Good ,PH148,,,,43.7061658191109,-72.2937235762074
+341,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,40,13,No,River birch - cabled Mar. '22,Planted,e5a73c33-68e2-450c-8b63-2711acebc781,Betula nigra,Good,PH62,,,,43.7059521517657,-72.2932954118133
+342,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,25,16,No,"Paper birch three stem, one grey",Planted,75cf787c-ef47-4841-8266-ebe782a63481,Betula,Fair ,PH67,,,,43.706178856123,-72.293339185484
+343,,"Wed, 15 Nov 2017 18:04:49 GMT",Beaty ,,120,56,No,Norway spruce 44 acs,Planted,1f7b72de-6024-458f-be3d-8dcc3961e2f9,Picea abies ,Fair,PH61,,,,43.7057877865491,-72.2931987584016
+344,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,10,4,No,Kousa dogwood ,Planted,29ad9212-09ad-4a0b-bef9-f9d73a79e15c,Cornus kousa,Good,PH58,,,,43.7059112105657,-72.2929578960648
+345,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,80,21,No,Red oak,Ingrowth,560cbcf1-852f-4ea8-92f1-b5b054e72ef5,Quercus rubra,Fair ,PH146,,,,43.7059116750978,-72.2933767062059
+346,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,85,25,No,Red oak,Ingrowth,b27dbf52-7557-4ac1-8beb-76173b739383,Quercus rubra,Fair ,PH147,,,,43.7061225716432,-72.2936205659735
+347,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,90,30,No,White pine,Planted,f3538cfd-ca0c-48bc-ac31-e2632cf08f6c,Pinus strobus,Fair ,PH89,,,,43.7065106956695,-72.2935975157398
+348,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,130,32,No,Norway spruce ,Planted,a7a18678-061e-46f5-a19a-0460bbeabb5e,Picea abies,Poor ,PH99,,,,43.7065798204165,-72.293615335715
+349,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,50,25,No,Sugar maple,Planted,3f53b830-5185-4520-9444-4631a9dd807f,Acer saccharum,Fair ,PH101,,,,43.7066629983577,-72.2935596831522
+350,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,100,35,No,White pine,Planted,ada9b294-1432-44c6-969a-6fee6415e35e,Pinus Strobus,Fair ,PH112,,,,43.7066629778173,-72.2933186197806
+351,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,100,36,No,White pine,Planted,4bec9d7c-f81d-4e7c-be15-a5ba391a75cf,Pinus strobus,Fair ,PH113,,,,43.7066771754049,-72.2932095073739
+352,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,12,3,No,Red bud,Planted,7a9ceeaa-68d9-4846-836c-b9d515e30c80,Cercis canadensis,Good ,PH149,,,,43.7065424374657,-72.2935521897798
+353,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,85,26,No,Norway spruce ,Planted,e2ad732c-d4d8-49dc-832f-c113fe269fa2,Picea abies,Poor ,PH01,,,,43.7065355612091,-72.2926224255334
+354,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,90,34,No,Norway spruce ,Planted,e1a0c8e7-a6b8-4643-8e97-6f1034010d41,Picea abies,Poor ,PH35,,,,43.7057875577666,-72.2917267520589
+355,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,55,25,No,Hemlock ,Planted,315f4674-8b71-4778-8ad4-76b1af38b7dd,Tsuga canadensis,Fair ,PH124,,,,43.7057614792545,-72.2917499766427
+356,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,85,29,No,Norway spruce ,Planted,e469eb3e-cbbf-4f5d-a3dd-35a33945aec5,Picea abies,Fair ,PH34,,,,43.7057994339286,-72.2918036073989
+357,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,95,36,No,Norway spruce ,Planted,5f8bcfd4-b9d9-4f48-a402-0f009c4e82f8,Picea abies,Fair ,PH33,,,,43.705812244352,-72.2918623343358
+358,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,60,19,No,Norway spruce ,Planted,0d79919b-2a1a-4f39-b3b5-f3ef9f3454d6,Picea abies,Fair ,PH32,,,,43.7058354775701,-72.2919159819539
+359,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,100,42,No,Norway spruce ,Planted,3b0c2893-9e5c-4641-8f79-b9442d2472c8,Picea abies,Fair ,PH31,,,,43.7058510281326,-72.2919854880265
+360,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,65,28,No,Norway spruce ,Planted,c781fec2-a0df-4f2f-bede-6d1bbb92c2f2,Picea abies,Poor ,PH30,,,,43.705878993537,-72.292073266648
+361,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,100,41,No,White pine,Planted,f97009d6-e35e-447b-81e5-875dfec2bd1c,Pinus strobus,Fair ,PH28,,,,43.7058938428092,-72.2922608872014
+362,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,50,33,No,Hemlock ,Planted,101aa420-562f-400e-bbe9-da78bb6b3e02,Tsuga canadensis,Fair ,PH29,,,,43.7059646867204,-72.2922814999711
+363,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,100,32,No,White pine,Planted,7d5f69ea-8278-4b0a-af74-9b1eb97b295e,Pinus strobus,Fair ,PH13,,,,43.7061589911244,-72.2925831110515
+364,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,42,22,No,Arborvitae ,Planted,646b6fff-2ac6-4f12-8bd0-757e3183fd32,Thuja occidentalis,Poor ,PH15,,,,43.7060958871593,-72.2926154014331
+365,,"Wed, 15 Nov 2017 19:19:11 GMT",Beaty,,50,24,No,Red oak,Ingrowth,3321c741-3c92-4b5c-b50f-ac09376ed480,Quercus rubra,Fair ,CP71,,,,43.7057371717353,-72.2851264291185
+366,,,Beaty,,75,30,No,White pine,Ingrowth,1a75a063-fe4e-4b43-98df-5aa32050ebe3,Quercust rubra,Fair ,CP72,,,,43.7057349924405,-72.2851554305035
+367,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,45,31,No,Red oak,Ingrowth,67163d47-fcb4-41b4-a1bc-7b10db0cc81c,Quercus rubra,Fair ,CP70,,,,43.7056220882048,-72.2851264291185
+368,,,,,50,27,,,Ingrowth,b6c4f279-43c6-4c63-9677-9967d63ca4ca,,Poor ,,,,,43.7057262333517,-72.2853031196373
+369,,,,,45,18,,Red oak,Ingrowth,23700140-c027-40a5-96fd-2e44450bd3eb,,Fair ,,,,,43.7056692364101,-72.2854130063879
+370,,,,,50,19,,Scotch pine,Ingrowth,7cfa5b64-5104-4f36-89be-cd18340d3d42,,Fair ,,,,,43.7055799272318,-72.2854853422123
+371,,,,,65,24,,Scotch pine,Ingrowth,4bbe1189-981c-4ef5-a5d1-09a012af35ab,,Fair ,,,,,43.7056071684172,-72.2855018545615
+372,,,,,35,13,,Scotch pine ,Ingrowth,7a24ff4b-6da9-4496-b125-9f716a05109f,,Fair ,,,,,43.7055609422212,-72.2854844202029
+373,,,,,50,15,,Scotch pine ,Ingrowth,82757776-9dd5-44d9-b71d-05e557d0fdab,,Fair ,,,,,43.705539484549,-72.2855601926076
+374,,,,,65,16,,Scotch pine ,Ingrowth,a9e54916-d458-4f9e-816c-4bcd6c73c920,,Fair ,,,,,43.705606833141,-72.2855251562523
+375,,,,,50,14,,Scotch pine ,Ingrowth,a3093f29-9654-404e-8ae2-d1aa43707dee,,Fair ,,,,,43.7056738045474,-72.2855299339372
+376,,,,,35,15,,Scotch pine ,Ingrowth,7c2c49d7-773c-41ee-b442-b63aaa31b010,,Poor ,,,,,43.7056893110682,-72.2855561692941
+377,,,,,60,16,,Scotch pine ,Ingrowth,2802d157-3f5a-4781-a20a-6c5989fe340e,,Good,,,,,43.7057397282158,-72.2855274193662
+378,,,,,45,13,,Scotch pine ,Ingrowth,78e58446-2985-411b-98a4-16651eea0e63,,Fair ,,,,,43.705768100958,-72.2855313588607
+379,,,,,45,15,,Scotch pine ,Ingrowth,cb563547-8ad6-4ca3-8b6d-24565b76a9d2,,Fair ,,,,,43.7057888880779,-72.2855254915285
+380,,,,,60,16,,Scotch pine ,Ingrowth,6944667a-239e-4a9c-9e16-4a612db61b00,,Fair ,,,,,43.70574542791,-72.28543706245
+381,,,,,45,14,,Scotch pine ,Ingrowth,5af92c7f-1746-4173-900b-7f6ce72d1cb5,,Scotch pine ,,,,,43.7057525944372,-72.2853938118296
+382,,,,,40,16,,Scotch pine ,Ingrowth,13a3ab3b-94f5-4f68-9faa-379cc1a5a122,,Fair ,,,,,43.7057142891397,-72.285370845415
+383,,,,,45,12,,Scotch pine ,Ingrowth,c9dcfb84-976e-42e8-bcad-a309a003e126,,Fair ,,,,,43.7055135844682,-72.2856010124761
+384,,,,,55,15,,Scotch pine ,Ingrowth,1affa6a9-4451-495e-a0ac-70c36b738b8f,,Fair ,,,,,43.7055018917133,-72.2855948098677
+385,,,,,25,8,,Scotch pine ,Ingrowth,5a5e2ca0-70e0-438c-9da2-028214754781,,Poor ,,,,,43.7054698728432,-72.2856280022043
+386,,"Wed, 15 Nov 2017 05:00:00 GMT",Beaty,,118,38,No,Japanese larch  38 acs,Ingrowth,31925660-8332-4177-85a6-2b1b9a81a9bf,Larix kaempferi,Fair,CP55,,,,43.7047448365794,-72.2847279668658
+387,,,,,125,31,,Japanese larch ,Ingrowth,e9d4244f-63bf-4c5d-8b17-9e4ffe5899cd,Larix kaempferi,Good ,CP54,,,,43.7050910946389,-72.2845883109349
+388,,"Tue, 21 Nov 2017 15:41:02 GMT",,,10,2,,Hophornbeam ,Planted,fccd6e77-badc-4c06-9143-af41469015fa,,Fair ,WA78,,2014,,43.7073988002201,-72.2924628575074
+389,,"Tue, 21 Nov 2017 15:42:31 GMT",,,12,3,,Hophornbeam,Planted,666147f2-8a6d-48be-b28a-adf16df4747a,,Fair ,WA77,,2014,,43.7073617102985,-72.2924732510674
+390,,"Tue, 21 Nov 2017 15:43:31 GMT",,,10,3,,Hophornbeam ,Planted,7c008532-96fe-406b-a75a-ce60d7caf276,,Poor ,WA79,,2014,,43.7074546656047,-72.2924653720784
+391,,"Tue, 21 Nov 2017 15:44:30 GMT",,,10,2,,Hophornbeam ,Planted,76cca95b-8bc5-44f3-9296-c8bc64202dca,,Poor ,WA76,,2014,,43.7074334174802,-72.2925896757024
+392,,"Tue, 21 Nov 2017 15:45:37 GMT",,,10,3,,Crabapple ‘Spring Snow’,Planted,bae137fb-8e92-4d50-be12-b68a7972159c,Malus,Fair ,WA73,,2014,,43.7075564638187,-72.2926416435021
+393,,"Tue, 21 Nov 2017 15:48:46 GMT",Beaty,,10,3,No,Crabapple 'Spring Snow',Planted,96c98e0b-a13f-44f8-9f26-426075af8c3e,Malus,Fair ,WA74,,2014,,43.7075319048424,-72.2928387858647
+394,,"Tue, 21 Nov 2017 15:49:46 GMT",Beaty,,10,4,No,Crabapple 'Spring Snow',Planted,c715f1e6-082e-4600-8f0e-34024892a7ab,Malus,Fair ,WA75,,2014,,43.7075391132791,-72.2928756662386
+395,,"Thu, 30 Nov 2017 19:37:53 GMT",,,14,4,No,Red maple ,Planted,0aef40ab-8f25-48d4-af22-69f1d93a3f91,Acer rubrum ,Poor ,WA95,,,,43.7071460020204,-72.292107548632
+396,,"Thu, 30 Nov 2017 19:39:31 GMT",,,14,4,No,Red oak,Planted,d913420d-ada7-4ee3-bf7a-9dcbe4c56362,Quercus rubra ,Fair ,WA96,,,,43.7070827186514,-72.2921228036958
+397,,"Thu, 30 Nov 2017 19:40:33 GMT",,,12,3,No,Red oak,Planted,a2f2c2af-1351-4fe7-bec2-870e11b5b01c,Quercus rubra ,Poor ,WA94,,,,43.7071108399366,-72.2921658866781
+398,,"Thu, 30 Nov 2017 19:41:50 GMT",,,12,3,No,Red oak ,Planted,6eca79fe-0771-40d5-850a-cd572c3dc884,Quercus rubra ,Poor ,WA93,,,,43.7071058107947,-72.2922147531736
+399,,"Thu, 30 Nov 2017 19:42:50 GMT",,,12,3,No,Red oak ,Planted,03d17e71-f619-4251-a174-3a5924e1a506,Quercus rubra ,Poor,WA92,,,,43.7071151147072,-72.2923130728978
+400,,"Thu, 30 Nov 2017 19:43:56 GMT",,,12,4,No,Red oak ,Planted,8ce3b47c-992b-4855-897d-f2ef0b2c9f44,Quercus rubra ,Fair ,WA91,,,,43.7071509473433,-72.2924070340323
+401,,"Thu, 30 Nov 2017 19:45:54 GMT",,,12,3,No,Red oak ,Planted,d26af679-d91d-4b24-b9ff-6354797dae00,Quercus rubra ,Fair ,WA90,,,,43.7073093234037,-72.2927741613913
+402,,"Thu, 30 Nov 2017 19:47:00 GMT",,,12,3,No,Red oak ,Planted,bdae8bfd-4d1d-40fb-bb66-ae69b66668a6,Quercus rubra ,Poor ,WA89,,,,43.7072887458314,-72.2927990556436
+403,,"Thu, 30 Nov 2017 19:48:10 GMT",,,10,2,No,Red oak ,Planted,c672042f-c9cc-4f78-9a12-39784cd2fe1b,Quercus rubra ,Poor ,WA88,,,,43.7072840938752,-72.2928345949131
+404,,"Thu, 30 Nov 2017 19:49:24 GMT",,,14,3,No,Red oak ,Planted,69e89cdb-2eae-4ba3-8d40-c59b2e8cbfe4,Quercus rubra ,Fair ,WA87,,,,43.7072276417573,-72.2928533703762
+405,,"Thu, 30 Nov 2017 19:52:56 GMT",,,10,3,No,Crabapple ,Planted,e5c50151-3580-459d-b880-124e8c965158,,Fair ,WA86,,,,43.7075235648488,-72.2930745688009
+406,,"Thu, 30 Nov 2017 19:54:10 GMT",,,10,3,No,Crabapple ,Planted,61b89550-af47-4f2a-944b-7ece2b76fc02,,Good ,WA85,,,,43.7073884485696,-72.29311706505
+407,,"Thu, 30 Nov 2017 19:57:57 GMT",,,10,3,No,Crabapple ,Planted,e4f60106-6006-4183-923e-9e0c6d59d449,,Good,WA84,,,,43.7073503109102,-72.2930757422673
+408,,"Thu, 30 Nov 2017 19:58:57 GMT",,,8,3,No,Crabapple ,Planted,002b8957-39d2-4467-9723-8b653471222d,,Fair ,WA83,,,,43.7072984688391,-72.2930417955595
+409,,"Thu, 30 Nov 2017 20:00:01 GMT",,,10,3,No,Hophornbeam ,Planted,409eff4f-665d-484e-b28c-7874d07e2e48,,Fair ,WA81,,,,43.7071918510308,-72.2931021452623
+410,,"Thu, 30 Nov 2017 20:01:00 GMT",,,10,2,No,Hophornbeam ,Planted,dc55f1bd-308a-4eb4-be2d-05ef38b68476,,Poor ,WA82,,,,43.7071813736518,-72.29311966344
+411,,"Thu, 30 Nov 2017 20:03:07 GMT",,,10,3,No,Hophornbeam ,Planted,2d66bfd3-9317-44f2-aed9-058ba0a5c63f,,Fair ,WA80,,,,43.7070892565359,-72.2932402790266
+412,,,,,,,,,Planted,90464bb5-94d5-4f2e-97a8-aab8688bd733,,,,,,,43.7077951420199,-72.2849989461
+413,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Crabapple,Planted,358f6231-49b6-4b96-8925-dc965570db5a,Malus,Fair,BL01,"Hammerman for Hammerman, H&B",,,43.7042901264064,-72.2892356094678
+414,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,59,,No,Slippery elm,Planted,dc4b789b-43c6-4a5b-8709-c3d847b2df30,Ulmus rubra,Fair,BL02,SVP office/Kimball Family,,,43.7043648170721,-72.289328977157
+415,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,American elm,Planted,9caa73ce-69b7-4971-b411-d3ee4cbbcda4,Ulmus americana,Good,BL03,"Cook, Theresa for Oestreicher, David J.",2010,,43.7044825922725,-72.2893409130199
+416,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Red oak,Planted,8cc410dd-2d00-424a-a183-33f5b827256e,Quercus rubra,Fair,BL04,,,,43.7046578391787,-72.2892296279485
+417,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Crabapple,Planted,d17f0a07-227e-4c4c-95e5-9b6700c62d98,Malus,Fair,BL05,"1938 Class for Hobbs, Emily",,,43.7046564043389,-72.2893726970493
+418,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Kentucky Coffee Tree,Planted,84e9cdb6-28f1-484d-bada-17a07d367945,Gymnocladus dioicus,Good,BL07,"1950 Class for Leavitt, J. A.",,,43.704244191202,-72.2890905554766
+419,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Sugar maple,Planted,de469bfa-f978-474d-a5d6-21682dc4e2c6,Acer saccharum,Good,BL08,"Newdick, Lita for Newdick, E.L.",2010,,43.7043634016046,-72.2891521657391
+420,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Red oak,Planted,396e032e-d40f-4bd7-9500-6f5652f172d4,Quercus rubra,Fair,BL11,,,,43.7046607283264,-72.2890170360359
+421,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,65,30,No,American Elm,Planted,bc28129f-a48b-4117-b7b4-f4cf068e188f,Ulmus americana,Fair,BL14,"Perlow, Eliz.W. for Shumway, S. Brooks",,Arbotect 2022,43.7043461639122,-72.2888362552465
+422,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,60,20,No,American elm,Planted,f7a8c088-5de0-4e82-bed4-3a9a939ed0b8,Ulmus americana,Fair,BL15,"Rowan, Eliz. for Rowan, C.A.",,Arbotect 2022,43.7045300203048,-72.2888640697409
+423,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,35,17,No,American Elm,Planted,948ef103-e813-4f94-b4db-684da7d838a3,Ulmus americana,Fair,BL16,,,Arbotect 2018,43.7047081173705,-72.2888720091385
+424,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,65,25,No,American elm semi-mature,Planted,5d6a4c2a-baa1-4811-bbd9-bf0e858c4912,Ulmus americana,Fair,BL17,,,"arbotect june 2022,2025",43.7048560626729,-72.2888581151518
+425,,"Mon, 26 Mar 2018 04:00:00 GMT",Melendy,,20,10,No,Replaced 11-2020,Planted,16bd55c4-5eda-4836-a302-82ec9e079ce1,Ulmus americana,Good,BL18,Mark H. Smoller ‘ 53,,"Arbotect 2019,2025",43.705045637593,-72.2888839448377
+426,,,,,18,9,No,Replaced 11-2020,Planted,b2013a95-8239-4d01-af6d-43103e8a9d74,Ulmus americana,Good,BL23,,,Arbotect 2019,43.7050571357635,-72.288498484685
+1424,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,24,10,No,American elm young,Planted,e6145ed2-30fc-44b5-b353-a0a83b27f23a,Ulmus americana,Good,BL154,"Dore, Eliz. for Lebeau, Michelle",2015,,43.7048675414709,-72.2885163749733
+1425,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,16,4,No,American elm young,Planted,74964c14-5fde-429e-b7af-044b9ada47c4,Ulmus americana,Good,BL155,Dedicated to President Eisenhower ,,,43.7047181807673,-72.2885223295625
+1426,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,65,32,No,American elm,Planted,3c07fabb-13c2-4f2c-a4e7-cb4435a341a1,Ulmus americana,Fair,BL20,"Deland, Jane for Penberthy, Philip E.",,Arbotect 2017,43.7045558671763,-72.2885203445903
+1427,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,65,25,No,American elm,Planted,ad630488-66ee-45f5-bd8c-aa9fbf993f37,Ulmus americana,Fair,BL19,"Hammerman, Bob for Goldsmith, Caroline",,Arbotect 2022,43.7043921376494,-72.2885362500701
+1428,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,American Elm,Planted,4e46c78c-a99f-4729-b3c6-79b6ae7cf40e,Ulmus americana,Fair,BL202,"Pyne, Marjery for Nichols, H. Foster",,Arbotect 2022,43.7042528198272,-72.2883812721184
+1429,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,American elm semi-mature,Planted,ad52198f-83e2-47aa-914f-cbc5ff3aa6ba,Ulmus americana,Fair,BL26,"Nixon, Tamara for Nixon, Daniel",,Arbotect 2022,43.7042513655686,-72.2880315925423
+1430,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Sugar maple young,Planted,4cedf695-762e-4d3c-a483-16fa0dccc9ac,Acer saccharum,Good,BL10,1988 Class for 1988 Class,2013,,43.7044381114696,-72.2890846010512
+1431,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,55,28,No,Red oak mature,Planted,a0d51cbe-a969-4b76-88ea-28e9db239018,Quercus rubra,Fair,BL31,,,,43.7049005818945,-72.2880017932395
+1433,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,70,38,No,"American elm, confirmed DED 2022,confirmed DED 2024",Planted,6f202ae3-00a9-41da-9698-e16d30c40bb3,Ulmus americana,Fair,BL32,"McNerney, Cynthia for Fendrich, Robt.E.",,"Arbotect june 2022,July 2024",43.7049695129432,-72.2881428505198
+1434,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Red oak semi-mature,Planted,abd9f31e-3c81-4f70-a7d9-45ca8957f915,Quercus rubra,Fair,BL34,,,,43.7049200354241,-72.2893327128064
+1435,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Red oak mature,Planted,43150f34-3c43-4280-acb3-2aaa55152736,Quercus rubra,Fair,BL09,,,,43.7046543155887,-72.2891380111821
+1436,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,25,16,No,Crabapple mature,Planted,8344c7af-3b1e-4282-87d9-0c793aa00458,Malus,Fair,BL38,,,,43.7050492882969,-72.2892413030774
+1437,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,16,8,No,Crabapple young,Planted,ceadc9ee-d430-485f-a54d-33f60dd34f17,Malus,Fair,BL39,,,,43.7052130354377,-72.2892234396374
+1438,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,20,12,No,Crabapple mature,Planted,c0ab53a2-6dee-40ca-a635-3b23ea2756d4,Malus,Fair,BL148,,,,43.7050780240128,-72.2894002774125
+1439,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,20,10,No,Crabapple mature,Planted,13115a8c-85ea-4539-b911-c4f6cd2c81e8,Malus,Fair,BL40,,,,43.705214470205,-72.2894002774125
+1440,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,45,20,No,American elm young,Planted,e2a61357-c37c-4b75-8258-d24660616d30,Ulmus americana,Fair,BL41,"for Cohen, Wm. N.",,Arbotect 2023,43.7053308089125,-72.2893208035463
+1441,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,40,24,No,American elm young,Planted,86bf5cb6-de0c-4717-ad1b-ee2725ac7fa2,Ulmus americana,Fair,BL51,"Hammerman, Bob for Sachs, Jerald",,Arbotect 2017,43.7050449643373,-72.2879916350659
+1442,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,55,24,No,American elm semi-mature,Planted,a1172f4f-1e2b-47ab-a52a-9d4a2a8a7d38,Ulmus americana,Fair,BL55,"Hammerman, Bob for Elbert/Gamse",,arbotect june 2022,43.7053954155913,-72.2878724110061
+1443,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Blue spruce mature,Planted,2cd0a769-f7a2-44d9-900a-e4c7371593f7,Picea pungens,Good,BL110,,,,43.7077580482581,-72.2884406369203
+1444,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Austrian pine mature,Planted,ef84b823-b24f-46ab-bf93-643f6b7257e4,Pinus nigra,Fair,BL111,,,,43.7074937952716,-72.2885062169634
+1445,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Austrian pine mature,Planted,d12f0df9-1cc7-4078-be30-85b5ad08d2f0,Pinus nigra,Fair,BL113,,,,43.7075210756956,-72.2883969437944
+1446,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Amur maple mature,Planted,e76e32e8-1c77-4e97-bc00-357b966fd6fb,Acer ginnala,Fair,BL114,,,,43.7074320216444,-72.2884406369203
+1447,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,,,No,Honeylocust semi-mature,Planted,b5b525dc-f280-453f-98ec-07aedc4db542,Gleditsia triacanthos,Fair,BL117,,,,43.7077307679419,-72.2882816891879
+1448,,"Mon, 26 Mar 2018 18:28:38 GMT",Beaty,,,22,No,American elm semi-mature,Planted,ce5e4e15-a946-4e67-936a-91d6ffe07029,Ulmus americana ,Good,BL203,,,,43.7047774438222,-72.2880553175437
+1449,,"Mon, 26 Mar 2018 18:32:13 GMT",Beaty ,,20,6,No,Shad semi-mature ,Planted,76ea1ae8-d13b-4f07-8f67-a64e53fc4b33,Amelanchier canadensis ,Poor,BL157,,,,43.705052998889,-72.2881640308278
+1450,,"Mon, 26 Mar 2018 18:36:05 GMT",Beaty ,,20,8,No,Shad semi-mature,Planted,3ef32694-5c92-45a5-9fdb-87652115ad53,Amelanchier canadensis ,Poor ,BL158,,,,43.7051976297096,-72.2881660058138
+1451,,"Mon, 26 Mar 2018 18:39:21 GMT",Scott Melendy,,40,16,No,American elm young,Planted,b5cf1433-b80e-4c3b-8b92-9b12ae953d04,Ulmus americana ,Fair ,BL204,In honor of Gordon Cloud ,,,43.7055573799123,-72.2881852370429
+1452,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,80,30,No,Pin oak mature,Planted,335d37d6-b082-4dc1-9377-09c05c6ea237,Quercus palustris,Good,BL118,,,,43.7073115870144,-72.2874139237359
+1453,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,40,16,No,Honeylocust semi-mature removed 1-27-20,Planted,139e2ff4-bfa3-4060-8fdd-8fbe78dc01e3,Gleditsia triacanthos,Fair,BL120,,,,43.7066825229947,-72.2874496506159
+1454,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,90,32,No,White pine mature,Planted,c87d59ad-d97d-44cc-a4cf-ae6d4640f36e,Pinus strobus,Fair,BL121,,,,43.7068347677286,-72.2872907028835
+1455,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,85,32,No,"White pine mature, removed 1-2020",Planted,3830abec-c2a8-41f1-b223-229f8da2bbea,Pinus strobus,Poor,BL123,,,,43.706877850694,-72.287441711382
+1456,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,18,6,No,Hackberry young,Planted,4fca7257-e1ed-4a06-a5d6-a827620a4955,Celtis occidentalis,Fair,BL161,"Lehrer, Brian for Dennis, Victoria",,,43.7060247170657,-72.2881769048076
+1457,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,18,6,No,Hackberry young,Planted,e9593b74-f0af-46a3-b94e-03e5f7657403,Celtis occidentalis,Fair,BL162,,,,43.7061798331955,-72.2882245945624
+1458,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,20,6,No,Red oak young,Planted,a9daa55c-62b5-47b1-9f91-aa00082643f0,Quercus rubra,Fair,BL173,,,,43.7062976048301,-72.2882245945624
+1459,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,20,8,No,Red oak young,Planted,f2e69b7e-ea5c-48c0-8d45-78a12d4ca104,Quercus rubra,Fair,BL174,,,,43.7064010280171,-72.2881808744245
+1460,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,20,8,No,Red oak young,Planted,bd052513-3ec6-43d1-a0e2-750f8e43a9a1,Quercus rubra,Fair,BL175,,,,43.7064671071558,-72.2881450938479
+1461,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,15,8,No,Red oak young,Planted,cbe7d196-b643-43f6-876b-c7c924168d8a,Quercus rubra,Fair,BL176,,,,43.7065594006321,-72.2883388032319
+1462,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,16,3,No,American elm young,Planted,96041aa2-3b65-4127-b7cf-d977804bc90a,Ulmus americana,Good,BL163,,2015,,43.7059902423946,-72.2885583684951
+1463,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,18,4,No,Hackberry young,Planted,66a26e4b-54c1-44cf-b48a-a6df162fc763,Celtis occidentalis,Good,BL164,,,,43.7059543425991,-72.2883571895586
+1464,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,18,5,No,American elm young,Planted,6a3491e2-3257-44f6-9174-83df3aecbcb9,Ulmus americana,Fair,BL165,,,,43.7060125015736,-72.2883964639318
+1465,,"Mon, 26 Mar 2018 04:00:00 GMT",Beaty,,20,6,No,Hackberry young,Planted,e063ed15-f4c1-43de-b8a5-f9a2e28f3158,Celtis occidentalis,Fair,BL166,"1959 Class for Kemeny, John",,,43.7060695892763,-72.2883403050986
+1466,,"Tue, 27 Mar 2018 04:00:00 GMT",Beaty,,18,5,No,Hackberry young,Planted,4af959d1-8a9c-4b9e-9557-5ac396929a51,Celtis Occidentalis,Fair,BL167,,,,43.7060433672553,-72.288833836344
+1467,,"Tue, 27 Mar 2018 04:00:00 GMT",Beaty,,25,8,No,Red maple/Silver maple hybrid,Planted,39a10d1d-3253-427b-b0b2-76a13a05c7e4,Acer x freemanii (Jeffersred) 'Autumn Blaze',Good,BL168,In memory of Lamees M. Kareem 22 ,,,43.7061259520889,-72.2887513852242
+1468,,,Beaty,,25,8,,Hackberry young,Planted,2f7d918b-d5c8-4524-9cb0-09206d6bddd5,Celtis occidentalis,Fair,BL169,,,,43.7063191294461,-72.2888447663375
+1469,,"Tue, 27 Mar 2018 04:00:00 GMT",Beaty,,12,3,No,Hophornbeam young,Planted,4ae83328-86f7-42c6-a8d2-d9be9584a077,Ostrya virginiana,Fair,BL170,,,,43.7062203886343,-72.2887007249686
+1470,,"Tue, 27 Mar 2018 04:00:00 GMT",Beaty,,12,3,No,Hophornbeam young,Planted,e210bb19-a930-46df-9fdd-403ede2810ac,Ostrya virginiana,Fair,BL171,,,,43.7063047667246,-72.2886535382508
+1471,,"Tue, 27 Mar 2018 04:00:00 GMT",Beaty,,16,4,No,American elm,Planted,d7eb36de-3506-478b-b1d0-5aca929533f9,Ulmus americana,Fair,BL172,,2016,,43.7061507270508,-72.2886033674853
+1472,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,12,6,No,Hawthorn semi-mature,Planted,d0a7bec7-a9e2-43fa-82ab-17eb00ea25fa,Crataegus,Poor,BL177,,,,43.7069441842651,-72.2876742896082
+1473,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,20,8,No,Red oak young,Planted,278bf89f-b385-45d9-a1e4-522e90bf3563,Quercus rubra,Good,BL178,,,,43.7070446979549,-72.2883776183776
+1474,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,20,8,No,Red oak young,Planted,12cdfa5d-b7eb-43f4-840d-9d4fce4891c1,Quercus rubra,Good,BL179,,,,43.7069815279561,-72.2882107314112
+1476,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,20,6,No,Hornbeam young,Planted,e93ff503-62ad-494d-9ba5-0c395535e08a,Carpinus betulus,Fair,BL180,,,,43.7066224771002,-72.2885961647158
+1477,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,20,6,No,Hornbeam young,Planted,eafb7f29-74a1-465b-8cc5-d217738d271b,Carpinus betulus,Fair,BL182,,,,43.7067287306091,-72.2885325964931
+1478,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,18,5,No,American elm young,Planted,fe828209-426a-4fb1-9bc8-8cfdd7176138,Ulmus americana,Fair,BL183,,,,43.7057865575936,-72.289382964144
+1479,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,18,4,No,American elm young,Planted,c3f2e878-869a-46f5-b03c-efa6271f65a0,Ulmus americana,Fair,BL184,,,,43.70606739622,-72.2894686876031
+1480,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,18,4,No,American elm young,Planted,c791959c-224c-41f3-bb8e-6d5e5564f9c8,Ulmus americana,Fair,BL185,,,,43.7062334866009,-72.2894771633116
+1481,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,20,6,No,White pine young,Planted,21a113e6-4163-4a83-a225-09c0a7a9154c,Pinus strobus,Fair,BL187,,,,43.7060221021767,-72.2892041683268
+1482,,,Beaty,,20,6,No,White pine young,Planted,fbf8f6ab-c809-4a45-abd4-749388c32be1,Pinus strobus,Fair,BL188,,,,43.7060364504835,-72.2890610990622
+1483,,"Wed, 28 Mar 2018 04:00:00 GMT",Beaty,,20,6,No,White pine young,Planted,898650c6-9b27-4b0e-9474-bfff154ec1ee,Pinus strobus,Fair,BL189,,,,43.7060335808697,-72.2889618036321
+1484,,"Fri, 24 Aug 2018 04:00:00 GMT",Beaty,,15,10,No,Crabapple,Planted,3b39b4b5-c591-43a2-ba60-cf4d3ba3baaa,Malus,Fair,CH06,,,,43.7067086822583,-72.2897289892681
+1485,,"Fri, 24 Aug 2018 04:00:00 GMT",Beaty,,75,24,,"Norway spruce,Removed 2020",Planted,9e5db960-6fb3-4747-92d9-8b8f5f8a0292,Picea abies,Poor,CH07,,,,43.7068470830747,-72.2897172945487
+1486,,"Fri, 24 Aug 2018 04:00:00 GMT",Beaty,,65,32,No,Sugar maple,Planted,cdf22c2c-6e64-420b-92c9-53ed6e4fcd3b,Acer saccharum,Fair,CH13,,,,43.7070503987607,-72.2903523343813
+1487,,"Fri, 24 Aug 2018 04:00:00 GMT",Beaty,,65,38,No,Red oak,Planted,c574dd7d-8698-40b1-97fc-5ec2763f30ce,Quercus rubra,Fair,CH14,,,,43.7069536464796,-72.2904770030765
+1488,,"Fri, 24 Aug 2018 04:00:00 GMT",Beaty,,12,12,No,Cornel cherry dogwood,Planted,15f995c4-b03e-4b91-aa8e-11cc75cbae3e,Cornus mas,Fair,CH15,,,,43.7070081302926,-72.2906452316385
+1489,,"Fri, 24 Aug 2018 04:00:00 GMT",Beaty,,30,15,No,White pine,Planted,ec93fe13-2ec1-4842-b251-1a9005fb8c20,Pinus strobus,Poor,CH22,,,,43.7070542766024,-72.290996064545
+1490,,,,,65,45,No,American elm,Planted,748b9088-a52a-48d3-8efe-c7013bd8a7aa,Ulmus americana,Fair,DG01,"Dewitt Family for Dewitt, Gordon",,,43.702549736711,-72.2892777696039
+1491,,,,,60,32,No,Amerian elm,Planted,a0e16b87-1c75-4a90-bdd1-1e48097b09a1,Ulmus americana,Good,DG31,"Jaques Harlow for Harlow, John",,Arbotect 2022,43.7028956262919,-72.289237214453
+1492,,,,,60,32,No,American elm,Planted,346efd9c-5775-45f1-8f53-0f29c83c5fa5,Ulmus americana,Good,DG30,1932 for 1932,,Arbotect 2022,43.7029983961961,-72.2892430618127
+1493,,,,,16,5,No,American elm,Planted,62d19354-eebd-456b-856a-f1c5d37b930c,Ulmus americana,Good,DG29,Afro-Am multi for Willis-Starbuck,,,43.7030969387529,-72.2892460120134
+1494,,,,,16,3,No,American elm,Planted,0c84e57b-453a-495b-8c59-2a90d314370b,Ulmus americana,to be planted,DG28,Hammerman for Sachs,,,43.7034448417923,-72.2892633926755
+1495,,,,,50,34,No,Sugar maple,Planted,4e7caf62-9372-47a8-a2da-2ae21bbc1866,Acer saccharum,Fair,DG27,,,Cambistat 10-2-2019,43.7036173365582,-72.2892802718744
+1496,,"Fri, 16 May 2025 14:23:22 GMT",Melendy,,15,3,No,American elm (Princeton),Planted,b573c5ae-fa47-43d3-8e21-613cb2aef06c,Ulmus americana,Good,DG26,"Sargent Family for Sargent, Bert&M.",5/15/25,,43.703769286291,-72.2892974891155
+1497,,,,,18,5,No,American elm,Planted,d7bd8b17-8d5a-4b93-97ff-ad64846075b0,Ulmus americana,Good,DG25,,,,43.7038929961268,-72.2892945922839
+1498,,,,,55,22,No,Red oak,Planted,a9d2b27a-5594-45ce-8234-bacca446b8ed,Quercus rubra,Fair,DG24,,,,43.7040394577922,-72.2893183719537
+1499,,,,,65,24,No,Red oak,Planted,94699af9-4925-4d70-a407-fe185af7e778,Quercus rubra,Fair,DG23,"Class of 1952 for 1952, Class",,,43.7040813794039,-72.2891820620719
+1500,,,,,55,30,No,Sugar maple,Planted,5fba208b-15dc-47d8-af17-9800e431d9a6,Acer saccharum,Fair,DG22,"Madeleine Ferris for Ferris, Gregory Reed",,,43.70409394455,-72.2890398512973
+1501,,,,,65,26,No,Red oak,Planted,99228ef3-aa5d-44d3-8eaa-de77f7d43ee0,Quercus rubra,Fair,DG21,Forever treasured Allen E. Ferris parent of Greg Ferris 1994,,,43.7040876621549,-72.2888658832599
+1502,,,,,65,26,No,Red oak,Planted,897ba3d4-4337-42b0-b9d1-e4bc85c58204,Quercus rubra,Good,DG20,"Jaques Harlow for Knapp, John F.",,,43.7040939834274,-72.2885556588735
+1503,,,,,35,12,No,American elm,Planted,faf7bec3-801c-47f2-852d-c39bd2026b81,Ulmus americana,Good,DG19,"Kline for Kline, Roger",,,43.704077269156,-72.2882831462574
+1504,,,,,50,20,No,Red oak,Planted,df338d38-86de-4254-9dea-18deaba36222,Quercus rubra,Good,DG18,,,,43.7041023988552,-72.2880889549141
+1505,,,,,35,12,No,American elm,Planted,5188ccb8-dc1e-40e7-aaea-1fbd6d107e96,Ulmus americana,Good,DG17,,,,43.7039766340355,-72.2879323678661
+1506,,,,,35,12,No,American elm,Planted,50fa7ea8-d430-4c31-a8e4-15bd239a2b11,Ulmus americana,Fair,DG16,"P.M. Shannon for Shannon, Philip",,,43.7038550961884,-72.2879295248129
+1507,,,,,50,20,No,Red oak,Planted,bd0bca3f-05c1-4a3c-8226-183c64f9983d,Quercus rubra,Fair,DG15,,,,43.7037586879382,-72.2879265742848
+1508,,,,,55,20,No,Red oak,Planted,542da9ca-665c-464f-81d8-1bc8d523cfa9,Quercus rubra,Fair,DG13,"David and KarenTaylor for Taylor, David",,,43.703505062638,-72.2879149871222
+1509,,,,,64,34,No,American elm,Planted,34dc4e9b-f2e2-473b-9216-1624c05554c6,Ulmus americana,Good,DG12,,,,43.7032451536629,-72.2879091400899
+1510,,,,,77,40,No,American elm,Planted,b5e16d75-2bc1-4e57-ad1a-4ec59bd2e78f,Ulmus americana,Fair,DG11,,,,43.7030690493811,-72.2879062435858
+1511,,,,,68,32,No,American elm,Planted,7f3a2cc3-c5e3-483d-b7fc-75daf35708cb,Ulmus americana,Fair,DG09,,,,43.7028237978479,-72.2879119835523
+1512,,,,,68,32,No,American elm,Planted,9662fe2d-c580-4d8d-8a0f-4f826c8894cd,Ulmus americana,Fair,DG10,"1950 Class for Batty, W. Lawson",,,43.7028237978479,-72.2879119835523
+1513,,,,,25,8,No,American elm,Planted,770d1793-c645-4c6a-b255-672844f61471,Ulmus americana,Poor,DG08,"Gail and Nick Brekelmans for Brekelmans, Nina M.",,,43.7026896537027,-72.2880018910872
+1514,,,,,25,12,No,American elm,Planted,51fa7f07-5a91-4b65-a03a-473babe5c961,Ulmus americana,Good,DG10,,,,43.7029550474433,-72.2879347593584
+1515,,,,,48,13,Yes,"Sugar maple Removed 1-2-2020, Replaced 10-2020",Planted,5cb4d5af-a6b2-47ed-b922-36ab5c84a52a,Acer saccharum,Good,DG07,,,,43.7026881357584,-72.2881770167415
+1516,,,,,46,13,No,"Sugar maple Removed 1-2-2020, Replaced July 2020",Planted,5be1ddfd-5734-48b4-bd3c-2d1abcf26715,Acer saccharum,Good,DG07,"A tribute to the tribunal/Chadwell,McGrillis,Nichols,Spalding,Richardson",,,43.7026797783163,-72.2883741859523
+1517,,,,,60,32,No,Sugar maple,Planted,3df5086a-414c-49a1-bf25-c2477fc23c66,Acer saccharum,Removed August 2024,DG05,Tribunal,,Cambistat 10-2-2019,43.7026776647454,-72.2885452305553
+1518,,,,,60,32,No,Sugar maple,Planted,5c912ec7-b4c8-4758-a1c4-86ac9090e8a6,Acer saccharum,Fair,DG04,,,,43.7026640331377,-72.2887206468448
+1519,,,,,55,32,No,Sugar maple,Planted,618b28d9-be41-47fe-8a63-0d378fb8328a,Acer saccharum,Fair,DG03,,,,43.7026629860863,-72.288920685957
+1520,,,,,35,20,No,Red maple,Planted,c0b86b32-8477-4eaa-901f-fe5f1fac90b7,Acer rubrum,Fair,DG02,,,,43.7026189499394,-72.2890627626536
+1521,,,,,,,,American elm,Planted,2c709fe2-1a63-47bb-b22d-e4b13738a2fe,Ulmus americana,REMOVED,DG32,,,,43.7028044599295,-72.2892468695196
+1522,,,,,55,35,No,Englilsh Pedunculate oak,Planted,7e202850-69e7-42f2-a7c3-03c1c29fa12b,Quercus robur,Fair,OC03,,,,43.7028953349492,-72.2874066403804
+1523,,,,,25,6,No,Red oak,Planted,26b464d5-2537-47fb-a340-804a25ff669d,Quercus rubra,Fair,OC04,Clinton and Robt Mauk,,,43.7029543308035,-72.2872305712192
+1524,,"Wed, 10 Nov 2021 15:23:49 GMT",,,16,3,No,Red oak,Planted,a15909c8-9213-4703-baad-f3fb04009690,Quercus rubra,Fair,OC07,Shaver,2021,,43.7028201481314,-72.2872093641037
+1525,,,,,70,34,No,Red oak,Planted,bd407914-0239-4c9b-a57a-08a376524f82,Quercus rubra,Fair,OC09,,,,43.7028893335407,-72.2869367441764
+1526,,,,,70,34,No,Red oak,Planted,df4c6915-06a3-45a9-b4e3-25a86352bbfa,Quercus rubra,Fair,OC10,,,,43.702903992794,-72.2867946407952
+1527,,,,,50,36,No,American elm,Planted,8dc5f1a8-1d32-4854-aa98-c9d518eca9ce,Ulmus americana,Fair,OC14,,,,43.7030570227918,-72.2863335156308
+1528,,,,,70,28,No,Norway spruce Removed 10-21,Dead,9a06be71-cdf1-4c89-a544-4bdb5ea197c4,Picea abies,Poor,OC15,,,,43.7031534324071,-72.2864234228382
+1529,,,,,55,32,No,American elm,Planted,66fdacf5-dd6e-43cb-938e-38ed4ec2f3e9,Ulmus americana,Fair,OC17,,,,43.7030904909841,-72.2861566507618
+1530,,,,,70,32,No,Red oak,Planted,0a6d4fb5-4ae1-4124-9a9a-a284e51c2b3c,Quercus rubra,Good,OC20,,,,43.7031114715052,-72.2859072590199
+1531,,,,,20,5,No,Swamp white oak,Planted,c4235d8b-9b7b-4ed4-8815-0a8367566fbf,Quercus bicolor,Good,OC21,,,,43.7033491724857,-72.2861625514907
+1532,,,,,20,4,No,White oak,Planted,84b3b675-0993-4ae1-9594-a0aad2dd3284,Quercus alba,Good,OC22,,,,43.7032953187846,-72.2861787699822
+1533,,,,,70,24,No,Norway spruce,Planted,c6298e88-c329-4eb6-b25b-cde69caacdb2,Picea abies,Poor,OC26,,,,43.7031471110946,-72.2865249715597
+1534,,,,,45,28,No,White oak,Planted,81a95226-60dd-4cb7-8210-dee1f1f64e0c,Quercus alba,Good,OC29,,,,43.7033016142516,-72.2866107122901
+1535,,,,,55,38,No,Red oak,Planted,568eb035-70b4-421d-ada8-cac82f5d8dd2,Quercus rubra,Fair,OC33,,,,43.70318938251,-72.2870429557938
+1536,,,,,45,30,No,Red maple,Planted,081034ef-8930-4b0f-8391-1467f66250e3,Acer rubrum,Fair,OC34,,,,43.7032910369228,-72.287193709315
+1537,,,,,40,16,No,"Norway maple, 'Crimson King'",Planted,46c63bfd-de07-4085-be95-04bb9d32e7e5,Acer pseudoplatanoides,Fair,OC36,,,,43.7033099037955,-72.2873024594745
+1538,,,,,25,28,Yes,"Sugar maple, Removed 12-2020",Planted,1ea8f8ed-a218-4898-a557-a82b1c893a33,Acer saccharum,Poor,OC37,,,,43.7033277235931,-72.2874684614297
+1539,,,,,40,12,No,Honeylocust,Planted,f89eabd5-d27d-417d-81ed-26d282b23732,Gleditsia triacanthos,Fair,OC38,,,,43.7032878956832,-72.2876054686711
+1540,,,,,18,12,No,Crabapple,Planted,82d63ed4-b3b6-4287-bd17-4de65604c9a4,Malus,Faiar,OC39,,,,43.7032155790178,-72.28774609687
+1541,,,,,50,18,No,Red oak,Planted,9842c2e2-ee4c-41a6-94bb-c156cbe20bb0,Quercus rubra,Fair,OC41,Class of 1925 for Huberth,,,43.7030871753481,-72.2876011235056
+1542,,,,,55,20,No,Red oak,Planted,ed7bdbd6-d0de-468f-8f9d-ed1a16796221,Quercus rubra,Fair,OC42,"Harned, Jack for Vail, JD",,,43.7034308759229,-72.2877278244499
+1543,,,,,55,16,No,Red oak,Planted,bb21af9b-bb40-41b8-9f76-f1fdde374aed,Quercus rubra,Fair,OC45,"Smith Family for Smith, David P",,,43.7034392476175,-72.2872968740961
+1545,,,Melendy ,,20,4,No,Red maple,Planted,38b6ba25-060e-49b5-9aea-614d0588cc48,Acer rubrum,Good,OC49,Saghri for Rosenfield,October 2024,,43.704007877448,-72.2874694204841
+1546,,,,,55,18,No,Red oak,Planted,6cd8898d-ef44-4356-b4c0-264dfad5192a,Quercus rubra,Fair,OC51,"Harned, Jack for Harned, Sam C",,,43.7040466578228,-72.2877086332885
+1547,,,,,40,12,No,Honeylocust. Removed 1-20-21,Planted,d2e81df0-79c3-4722-9382-02b4dc94f009,Gleditsia triacanthos,Fair,OC52,,,,43.7041740221318,-72.2878021483977
+1548,,,,,20,10,No,American elm,Planted,7c146846-5729-4960-b992-6a64a3d49dac,Ulmus americana,Fair,OC53,"Class of 1993 for Brown, Melissa",,,43.7041252850207,-72.2875600254195
+1549,,,,,18,10,No,Sugar maple,Planted,2e9adb06-193d-486f-a87d-c065fc629edf,Acer saccharum,Good,OC54,"Gooding, John Q for Gooding, Willard M",,,43.7041457319477,-72.2875063811574
+1550,,,,,16,5,No,Korean Mountain Ash,Planted,4b54f962-6515-42d2-b233-81e55d1f550d,Sorbus alnifolia,Good,OC69,"1939 Class for Blunt, Albert",2013 as replacement for same,,43.7042405779395,-72.2872507601036
+1551,,,,,70,40,No,Red oak,Planted,a87ced37-800d-4b2f-9367-2a2cf8c805e2,Quercus rubra,Fair,OC70,,,,43.7042007118476,-72.2870515258668
+1553,,,,,75,40,No,Red oak,Planted,7274a1f6-cb3d-4811-9f30-bad9d53aee6d,Quercus rubra,Fair,OC73,,,,43.7043585878364,-72.2863936920908
+1554,,,,,20,8,No,Katsura,Planted,243d9ef3-2b8a-4bde-b11b-80cc15d36376,Cercidiphyllum japonicum,Fair,)C74,,,,43.7045247993465,-72.286372234255
+1555,,,,,25,5,No,American elm,Planted,5ac28569-a5a9-4302-b611-39e7bd826efa,Ulmus americana,Fair,OC76,,,,43.7046467624771,-72.2862802883788
+1558,,,,,35,18,No,American elm/found dutch elm 2022 and cut out,Planted,6ea03ec3-14db-4121-be49-9d2908d1d8e8,Ulmus americana,Good,OC81,,,Arbotect 2022,43.7046689445045,-72.2875554643067
+1559,,,,,16,12,No,Crabapple,Planted,54944768-a67a-401e-96ac-707d17edffa9,Malus,Fair,OC84,,,,43.7048439969254,-72.2874665758606
+1560,,,,,14,6,No,Crabapple,Planted,5324901a-a44e-4dff-a4ee-78b3fe630302,Malus,Fair,OC84,"Reeve, Marelyn",,,43.7049503700398,-72.286994507074
+1561,,,,,40,15,No,Red oak,Planted,ec0d553b-0ed9-4799-9f8e-487014a6727a,Quercus rubra,Fair,OC88,,,,43.7051298425773,-72.2869822762074
+1562,,"Fri, 12 Mar 2021 05:00:00 GMT",Beaty,,79,42,No,American elm,Planted,3c70ad7c-0bec-4f37-a18c-3f74df28ff44,Ulmus americana,Fair,OC89,,,Arbotect 2013,43.7052960519194,-72.2869485341358
+1563,,,,,20,8,No,Crabapple,Planted,6dea6883-6a4c-4052-92f0-abb3dc72988a,Malus,Fair,OC92,,,,43.7051054888905,-72.2875862023172
+1564,,,,,12,5,No,Red horsechestnut,Planted,a7d17366-c573-4ed7-8549-424442d37da4,Aesculus carnea,Fair,OC93,,2016,,43.7048905327823,-72.2876291179889
+1565,,,,,35,20,No,Paper birch,Planted,3479bbec-dcae-474d-840f-0137781e6d63,Betula papyrifera,Good,OC96,,,,43.705386912258,-72.28743905637
+1566,,,,,18,6,No,Swamp white oak,Planted,1f15d61e-4a22-4390-92ea-6e896fed8091,Quercus bicolor,Good,OC97,Class of 1937 for Class of 1937,,,43.7043401138189,-72.2868731710425
+1567,,,,,16,5,No,American elm,Planted,314c726a-929a-4592-9ccc-63d99df6b5c3,Ulmus americana,Fair,OC98,"For Pond, Scott",,,43.7043711378305,-72.2866892786352
+1568,,,,,12,5,No,American elm 'Princeton',Planted,e4f89469-0025-428a-b75c-b259e2655f6b,Ulmus americana,Good,OC99,"Saucier, Claude for Murray, L. Richard",2021,,43.7030481384472,-72.2866617057754
+1569,,,,,30,12,No,Red oak,Planted,96acee9d-8de1-4973-99e3-6ae4d912681a,Quercus rubra,Fair,OC100,Class of 1932 for Class of 1932,,,43.7031655575598,-72.2872533069678
+1570,,,,,35,16,No,Norway maple Removed 12-2020,Planted,8f4320de-4dc4-4f7a-a9be-79870dc79434,Acer platanoides 'Crimson King',Fair,OC35,,,,43.7030837588127,-72.2872086479994
+1571,,,,,12,6,No,Magnolia hedge,Planted,b9f7928f-5f0f-4eaa-b012-4a0ed2d4ad6f,Magnolia stellata,Fair,OC105,,,Transtect Summer 2019,43.7048298278015,-72.2869130819983
+1573,,,,,65,22,No,Red oak,Planted,47cdb58a-7b92-4590-8cb8-bbefd6fe9630,Quercus rubra,Good,OC58,"Chiu, Yanek for Chiu, Sin-Sing",,,43.7034981901921,-72.2868801974348
+1574,,,,,75,30,No,American elm,Planted,1de2b851-24af-4631-83ed-65b945fe5042,Ulmus americana,Poor,OC57,,,Arbotect 2022,43.7038969321089,-72.2865912162616
+1575,,,,,30,32,No,Zelkova,Planted,b876741a-8fc2-486b-959c-b765f5cacdac,Zelkova serrata,Poor,OC56,,,,43.7041274039947,-72.2868762274904
+1576,,,,,12,3,No,American elm,Planted,810448f4-d20f-4651-9997-e7907177eb2b,Ulmus americana,Fair,OC60,,2018,,43.7040985901866,-72.2862355547569
+1577,,,,,35,20,No,American beech,Planted,36d3a0be-0883-4e2f-ae6a-459b5a12fd43,Fagus grandifolia,Good,OC61,,,,43.7039612300531,-72.286189581655
+1578,,,,,70,36,No,Red oak,Planted,0dd19ae0-a9e4-40a4-8edd-a093862c6bd6,Quercus rubra,Good,OC62,,,,43.7038903005944,-72.2861374936929
+1579,,,,,35,12,No,Pagodatree,Planted,5b3f4476-9dd4-4d6e-813a-05bdcf06157c,Styphnolobium japonicum,Fair,OC64,,,,43.7037817540761,-72.286241670272
+1580,,,,,85,40,No,Red oak,Planted,5f4c7fc9-a14e-466f-9215-602cb2428b82,Quercus rubra,Fair,OC65,,,,43.7034581683025,-72.2862386131693
+1581,,,,,55,30,No,Littleleaf linden,Planted,23fff780-2c4e-4202-af1f-cf65a6263818,Tilia cordata,Fair,OC66,,,,43.7033429506376,-72.2859657786194
+1582,,,,,15,5,No,Dawn redwood ,Planted,89f383fe-91b6-42fb-a56b-4dd3a16be4d9,Meta sequoia ,Good,OC67,,Yes,,43.7043512435309,-72.2876486503176
+1584,,,,,65,42,No,Red Oak,Planted,327da5b9-4778-449b-8231-abe2e6745ca4,Quercus rubra,Fair,SC01,,,,43.7049728506614,-72.2866267181628
+1585,,,,,40,12,No,Honeylocust,Planted,99eae061-ea8b-4b29-aced-2ac7ff6998ef,Gleditsia triacanthos,Fair,SC06,,,,43.7054869518046,-72.2868198372119
+1586,,,,,55,30,No,"Sugar maple, removed August 2019",Planted,f038ebba-e4ec-4e71-8b29-63d9b53e52b0,Acer saccharum,Poor,SC08,,,,43.7055821939417,-72.2869516410022
+1587,,,,,10,,No,"Viburnum, doublefile",Planted,7ba56241-ea74-4513-871f-0693e787b9ca,Viburnum plicatum,Fair,SC10,,,,43.7055866148464,-72.2873715674753
+1588,,,,,10,,No,"Viburnum, doublefile",Planted,faf12e0d-3f8b-4954-8af6-76c07ff1e205,Viburnum plicatum,Fair,SC11,,,,43.7056287291663,-72.2873041367014
+1589,,,,,10,,No,"Viburnum, doublefile",Planted,ae6cffce-dc66-4ab5-9135-f4f00fa80fd6,Viburnmum plicatum,Fair,SC12,,,,43.7055755627024,-72.2872673368723
+1590,,,,,12,6,No,Crabapple,Planted,787c9f1c-65fd-4f87-ac0e-fd4b18cbe8cf,Malus,Fair,SC15,,,,43.7060597405351,-72.2868320949265
+1591,,,,,12,6,No,Crabapple,Planted,35e0bb6f-ff72-4bd5-aa07-858c1dd40687,Malus,Fair,SC16,,,,43.7060265068431,-72.2867907352275
+1592,,,,,12,6,No,Crabapple,Planted,372bf725-a756-451b-abfd-cbd58a7beba1,Malus,Fair,SC17,,,,43.7060553197245,-72.2867309487656
+1593,,,,,12,6,No,Crabapple,Planted,e47d199a-e46f-4693-9d02-1a987d985bcf,Malus,Fair,SC18,,,,43.7059899381866,-72.2867248065659
+1594,,,,,45,12,No,Hemlock,Planted,a3ec94f5-75d4-489c-8acd-a353131e704c,Tsuga canadensis,Fair,SC19,,,,43.705940087628,-72.2866543180344
+1595,,,,,45,12,No,Hemlock,Planted,5720b572-cf46-4661-96b7-30d81501e985,Tsuga canadensis,Fair,SC20,,,,43.7059256811318,-72.2865715449398
+1596,,,,,8,5,No,Crabapple,Planted,3dbe8adc-8e93-43c9-b590-ced47146fd23,Malus,Fair,SC21,,,,43.7060132056007,-72.2865500874314
+1597,,,,,8,5,No,Crabapple,Planted,6633a0df-f481-41f9-bc6f-9da9bd78702b,Malus,Fair,SC22,,,,43.7060774625469,-72.286588389291
+1598,,,,,8,5,No,Crabapple,Planted,7b0de077-35cf-4b2f-b539-5111ab2b0f08,Malus,Fair,SC23,,,,43.7060719365204,-72.2865010297238
+1599,,,,,8,5,No,Crabapple,Planted,7f701ec9-1f0b-4fa4-a783-e2da565cc2b3,Malus,Fair,SC24,,,,43.7061217869545,-72.2864565855008
+1600,,,,,35,12,No,Sugar maple,Planted,f643a670-679a-467d-83f7-57f06cf2ca4b,Acer saccharum,Poor,SC26,,,,43.7062115410044,-72.2865286297593
+1601,,,,,35,12,No,Sugar maple,Planted,ddfef113-fc3a-4b3c-92f5-8b05e67dcc6c,Acer saccharum,Fair,SC27,,,,43.7063877135403,-72.2863385684678
+1602,,,,,10,5,No,Crabapple,Planted,0c395791-f223-4c99-ba51-da85525b4f41,Malus,Fair,SC28,,,,43.7063566904836,-72.2862052357988
+1603,,,,,10,5,No,Crabapple,Planted,fa577559-eee6-4208-8ecc-f5f34c6dbea5,Malus,Fair,SC29,,,,43.7064320377481,-72.2862082933927
+1604,,,,,10,5,No,Crabapple,Planted,8254e396-050f-4620-bf37-cb308b99c65d,Malus,Fair,SC30,,,,43.7064397935114,-72.2861224627042
+1605,,,,,10,5,No,Crabapple,Planted,f63cb6d2-0b3d-4321-9672-6926e98c2ee4,Malus,Fair,SC31,,,,43.7064807827323,-72.2860611474454
+1606,,,,,10,5,No,Crabapple,Planted,b68402bc-7935-4115-8e5e-efe8672424b4,Malus,Fair,SC32,,,,43.706563885588,-72.2861500358915
+1607,,,,,25,12,No,London Planetree,Planted,22cec47f-38de-4f1d-b2d6-9f585844ac1f,Platanus acerifolia,Poor,SC33,,,,43.7066480935351,-72.2861347204191
+1608,,,,,10,6,No,Crabapple,Planted,9acb9b48-a864-4b72-8775-5b54fbdce302,Malus,Fair,SC34,,,,43.7066303522986,-72.2859339302915
+1609,,,,,10,6,No,Crabapple,Planted,18760231-3cb3-47df-813c-67c87d01ec63,Malus,Fair,SC35,,,,43.7066104394588,-72.285886455323
+1610,,,,,60,16,No,Norway spruce,Planted,2af18822-0426-4d63-9ecd-81d12e9f2799,Picea abies,Fair,SC39,,,,43.7066791165297,-72.2857577092903
+1611,,,,,10,8,No,Crabapple,Planted,d3b4287f-045c-436b-b68a-90f8bf3c9909,Malus,Fair,SC37,,,,43.7067466883172,-72.2859109705889
+1612,,,,,25,8,No,Red oak,Ingrowth,e0e1278b-e4a5-4bd0-a75a-74a8404cc3ec,Quercus rubra,Fair,SC58,,,,43.7060353873592,-72.2856427496875
+1613,,,,,,,No,White pine,Ingrowth,d24b476d-ba72-48ea-afe2-f41dcafc4bc1,Pinus strobus,Fair,SC59,,,,43.7061062949009,-72.2858159399432
+1615,,,,,45,16,No,Sugar maple,Ingrowth,fa69ef2a-e663-4475-91d0-0e38a70d43aa,Acer saccharum,Fair,SC65,,,,43.7057794837894,-72.2858159667915
+1616,,,,,40,16,No,Sugar maple,Ingrowth,3d24442a-ffd8-4fe2-867e-d1632990fb18,Acer saccharum,Fair,SC68,,,,43.7056631459528,-72.2860152281221
+1617,,,,,70,28,No,American elm,Planted,4246c7d5-fc1d-4627-813e-2b5f694b93cf,Ulmus americana,Poor,SC69,,,,43.7055335065859,-72.2858987397224
+1618,,,,,16,4,No,Paper birch,Planted,e064c27e-d4c6-40df-a110-60aea9f69c51,Betula papyrifera,Poor,SC82,,,,43.7051722947562,-72.2860121702826
+1619,,,,,16,4,No,Paper birch,Planted,9984a62b-c311-46df-a4df-0f93e9c82ef8,Betula papyrifera,Poor,SC83,,,,43.7052199548815,-72.2859968548102
+1620,,,,,16,4,No,Paper birch,Planted,baf9e88b-9afb-4bde-8eb2-4bdb1182b35c,Betula papyrifera,Poor,SC84,,,,43.7052896389384,-72.2859753589962
+1621,,,,,16,4,No,Paper birch,Planted,e75ec678-17ef-4e2f-8103-9d066f534137,Betula papyrifera,Poor,SC85,,,,43.7053627770837,-72.2859814745113
+1622,,,,,55,60,No,Red oak,Ingrowth,4c00d8ee-4466-4b6f-9611-b13f0c507ca8,Quercus rubra,Poor,SC86,,,,43.7052497734849,-72.2853070597063
+1623,,,,,16,5,No,Sugar maple,Planted,9e7268e1-b1ca-464d-ac94-7ad92981ff4b,Acer saccharum,Good,WH06,,,,43.7035391041486,-72.2845115154327
+1624,,,,,16,6,No,Sugar maple,Planted,c7572c93-0580-432e-aaff-1016256ae315,Acer saccharum,Good,WH07,,,,43.7036011532806,-72.284315338626
+1625,,,,,35,12,No,Austrian pine,Planted,0d2076bf-cbdf-4370-b7d7-5bd68235abd7,Pinus nigra,Fair,WH11,,,,43.7040399256561,-72.2841750858117
+1626,,,,,35,12,No,Austrian pine,Planted,798b2f50-d1ee-465b-9eb7-28cb68e7a76a,Pinus nigra,Fair,WH12,,,,43.7040482343562,-72.2841413570006
+1627,,,,,35,12,No,Austrian pine,Planted,a667cf93-b2ec-45c9-be40-6c2eeedd55d0,Pinus nigra,Fair,WH13,,,,43.7040598684634,-72.2841130060317
+1628,,,,,35,12,No,Austrian pine,Planted,6e68bf51-3623-4f04-9834-1a4c5270663a,Pinus nigra,Fair,WH14,,,,43.7040698447169,-72.2840785262872
+1629,,,,,35,12,No,Austrian pine,Planted,ebd4e947-1b65-42ca-a77b-d716f3991367,Pinus nigra,Fair,WH15,,,,43.7040870243798,-72.2840371398217
+1630,,,,,25,6,No,Crabapple,Planted,e43a869a-5bd9-476a-809b-1234ca7ac765,Malus,Fair,WH16,,,,43.704038830106,-72.2840379042612
+1631,,,,,25,6,No,Crabapple,Planted,1743688d-61ea-45fb-b3c4-a369d6e3c629,Malus,Fair,WH17,,,,43.7040055856482,-72.2840095398681
+1632,,,,,25,6,No,Crabapple,Planted,5add6c75-b5f1-4e38-8192-8e58110f0485,Malus,Fair,WH18,,,,43.704040487988,-72.2839965177139
+1633,,,,,20,5,No,Crabapple,Planted,2d54ecb1-2ab7-4ad7-81b2-b1642e48254a,Malus,Good,WH21,,,,43.7036623879147,-72.2839850381081
+1634,,,,,25,5,No,Sugar maple,Planted,32ae856b-c451-49cb-82d5-dcc8423a2a73,Acer saccharum,Good,WH23,,,,43.7037432648666,-72.2835926576467
+1635,,,,,18,4,No,Sugar maple,Planted,43347596-4a47-4605-a3c8-84bb490bc635,Acer saccharum,Fair,SC25,,,,43.7038418643082,-72.2832677349711
+1636,,,,,18,4,No,Sugar maple,Planted,0bae603e-290a-4439-90ee-48568d6a42f3,Acer saccharum,Fair,WH108,,,,43.7038872956855,-72.2830853447582
+1637,,,,,90,32,No,Tamarack,Planted,e33a050f-8687-4247-b170-72b53e238273,Larix laricina,Fair,WH42,,,,43.7047869568528,-72.2826010182569
+1638,,,,,90,32,No,Norway spruce,Planted,aa576b2e-2800-4bee-a00f-6c68e74e7203,Picea abies,Good,WH53,,,,43.7044036164566,-72.2830362602023
+1639,,,,,90,32,No,Norway spruce,Planted,cef9507f-0094-432d-b906-e5c2c04be249,Picea abies,Good,WH54,,,,43.7045110955096,-72.2830807312735
+1640,,"Fri, 02 Nov 2018 18:34:00 GMT",,,12,8,No,Crabapple ,Planted,d7c082c1-0d80-40cb-a5d7-6cf86e6b77cc,Fair,,WH66,,,,43.7044288404693,-72.2842072696167
+1641,,"Fri, 02 Nov 2018 18:35:27 GMT",,,12,6,No,Crabapple ,Planted,81dd51d8-71c5-4378-9dce-c07d3a8e44ee,Malus,Fair,WH65,,,,43.7044187821855,-72.284115487777
+1642,,,,,12,6,No,Crabapple ,Planted,f793f22e-1265-4e06-bea8-6724601b662d,Malus,Fair,WH63,,,,43.7044662656669,-72.2842112929302
+1643,,,,,12,8,No,Crabapple ,Planted,a27c66ea-485d-4ed7-95c9-ccb4904d41af,Malus,Fair,WH62,,,,43.7045159703527,-72.2841614206063
+1644,,,,,12,4,No,Sugar maple 2016,Planted,ee8a30e5-f324-40da-bc93-493301cddb8d,Acer saccharum,Good,WH68,,,,43.7042184127902,-72.2846453916955
+1645,,,,,12,4,No,Sugar maple 2016,Planted,5c209396-5e72-46dd-8982-4172610e4422,Acer saccharum,Good,WH70,,,,43.7041873997484,-72.2847190686243
+1646,,,,,55,36,No,Sugar maple,Planted,fd43c2fd-2c78-47b7-9f3f-2744c34dc335,Acer saccharum,Poor,WH71,,,,43.7040662276519,-72.2853384712962
+1647,,,,,45,13,No,American elm,Planted,d2d1340e-07c7-491e-b37d-2ae92c30ea3a,Ulmus americana,Poor,WH73,,,,43.7041031939342,-72.2856173740492
+1648,,,,,35,24,No,Yellowwood,Planted,969e6c99-0fc8-450b-801a-3f03d78b40e2,Cladrastis kentukea,Fair,WH75,2000 for Zantop,,,43.7039001727265,-72.2857416206207
+1649,,"Fri, 09 Nov 2018 05:00:00 GMT",,,10,3,No,Bald cypress 2018,Planted,7d806617-b792-43f1-a4b4-83ed292c8b05,Taxodium distichum,Fair,WH77,,,,43.7038915887458,-72.2858848373053
+1650,,,,,45,34,No,Katsura ,Planted,e0a6e8e6-2a27-4f1e-9672-d531569f90cd,Cercidiphyllum japonicum,Fair,WH78,,,,43.7037936179374,-72.2858922836112
+1651,,,,,35,16,No,Red maple,Planted,b9a8a919-41e3-4c86-abb6-ad18b55ea437,Acer rubrum,Poor ,WH80,,,,43.7037802907114,-72.2857973166483
+1652,,,,,65,36,No,Sugar maple,Planted,1c1066d1-0c61-4756-9aba-3714aaf72586,Acer saccharum,Fair,WH33,,,,43.7041777630765,-72.2827595783537
+1653,,,,,25,8,No,Red oak,Planted,4226fbd4-5517-425b-9399-92de06b49746,Quercus rubra,Good,WLH56,,,,43.7041954856299,-72.283216304656
+1654,,,,,30,8,No,Japanese larch,Planted,59fb2584-c42a-4cf3-b7fe-5b7eed9f6764,Larix kaempferi,Fair,WH58,,,,43.7042087872313,-72.2835749697306
+1655,,,,,30,8,No,Japanese larch,Planted,93aef582-f7ed-427c-8e7e-f13dc9565306,Larix kaempferi,Fair,WH59,,,,43.7042774669946,-72.2835780274882
+1656,,,,,25,6,No,Japanese larch,Planted,ca52886b-bb4f-4a81-bf7a-0b59672822bf,Larix kaempferi,Fair,WH60,,,,43.7042796774951,-72.2834983123148
+1657,,,,,65,28,No,Red oak,Planted,3ed0f62c-49eb-4424-8296-1f2cd439af9c,Quercus rubra,Good,WH90,,,,43.7032641315946,-72.2856984820871
+1658,,,,,25,6,No,Red maple,Planted,257983cd-74f1-4274-baaf-ab12fc15950d,Acer rubrum,Fair,WH96,"for Brown, Adam",,,43.7038380856411,-72.2855145631591
+1659,,,,,15,4,No,Red maple,Planted,444ac590-f962-4d4b-95c2-1fb8c10390a7,Acer saccharum,Fair,WH99,,,,43.7039356573659,-72.2828445850104
+1660,,,,,15,4,No,Sugar maple,Planted,164b0ec3-3d34-4781-a348-a4ebf03ea7e6,Acer saccharum,Fair,WH100,,,,43.704015389935,-72.2826760350876
+1661,,,,,12,4,No,Norway spruce,Planted,0367baf4-de7d-4517-ba89-036b7de94baa,Picea abies,Good,WH101,,,,43.7048308970251,-72.2827741501755
+1662,,,,,12,4,No,Norway spruce,Planted,50fdc72f-c431-4b97-ae45-8096531e3b11,Picea abies,Good,WHL102,,,,43.7048818536713,-72.282688319487
+1663,,,,,30,5,No,Swamp white oak,Planted,43c3d696-0552-44bf-acd9-48ccba4a8cef,Quercus bicolor,Good,WH105,2000 for my friend the elm,,,43.7037184090233,-72.2837611493966
+1664,,,,,25,8,No,Yellowwood,Planted,d13f622a-4e0e-49c4-bbbc-751b70f24f79,Cladrastis kentukea,Fair,WH106,"Cargen for Cargen, Peter A.",,,43.7038269945338,-72.2838408647336
+1665,,,,,25,8,No,Yellowwood,Planted,08faac64-f954-4b27-9c57-1fd6448c3ed4,Cladrastis kentukea,Poor,WH107,"Cargen for Cargen, Peter A.",,,43.7038691100899,-72.2837212918099
+1666,,,,,12,4,No,"Amerian hornbeam, 2016",Planted,a1522dfb-9a20-49cd-9f57-1a85aff3df6d,Carpinus caroliniana,Good,WH111,2000 for The Still North,,,43.7031467031329,-72.2857505975525
+1667,,,,,90,28,No,Norway spruce,Planted,990082af-75b7-490d-81f5-29a10436da5b,Picea abies,Good,WH55,,,,43.7044629914906,-72.2831511617137
+1668,,"Fri, 09 Nov 2018 19:39:32 GMT",,,15,4,No,American,Planted,f9c157c0-14c0-40b8-a5bb-6f5214c03a85,Ulmus americana,Good,WH109,,2020,,43.7043281319027,-72.2826947551894
+1669,,"Fri, 09 Nov 2018 19:40:25 GMT",,,18,5,No,Red maple,Planted,06bcb6a4-309c-41f4-b9a6-62b7a36d1538,Acer rubrum,Fair,WH109,,,,43.7043174983092,-72.2825687115019
+1670,,"Fri, 09 Nov 2018 05:00:00 GMT",,,80,26,No,Norway spruce,Planted,10e6c584-674a-45d9-8de8-d87c6e1287d5,Picea abies,Fair,WH35,,,,43.70438982271,-72.2825427912849
+1671,,,,,10,5,No,Crabapple,Planted,f83ace5d-f3dc-499f-9f64-71635b97a2f3,,,,,,,43.7045018468459,-72.2825602256435
+1672,,,,,10,5,,Crabapple ,Planted,60b2c3f2-4f6c-4726-9753-354bd013fe60,,,,,,,43.7046107696776,-72.2826599702912
+1673,,"Fri, 09 Nov 2018 05:00:00 GMT",,,18,6,No,Red oak,Planted,2145d7dc-9390-4517-bd69-a63ab40f1d7e,Quercus rubra,Fair,WH120,"Spignetti, for Karas, Katie",,,43.7046740111371,-72.2827177216041
+1674,,"Fri, 09 Nov 2018 05:00:00 GMT",,,8,3,No,"Crabapple, 2015",Planted,4eb9f26f-fe8f-452c-a099-dbe81b613709,Malus,Poor,WH103,,,,43.7047474785184,-72.2828472220081
+1675,,"Fri, 09 Nov 2018 05:00:00 GMT",,,11,4,No,"Crabapple, 2015",Planted,083f23a3-52c5-491b-bd9e-137bc8974e1a,Malus,Fair,WH104,,,,43.7047608057444,-72.2828959208655
+1676,,"Fri, 09 Nov 2018 05:00:00 GMT",,,11,4,No,"Crabapple, 2015",Planted,ef628cce-8217-4d63-b532-f39fe1a7d7c5,Malus,Fair,WH115,,,,43.704753303941,-72.2829704359847
+1677,,"Fri, 09 Nov 2018 05:00:00 GMT",,,11,4,No,"Crabapple, 2015",Planted,5f01d4e2-98d6-43dc-8e32-44f9bcdba9aa,Malus,Fair,WH116,,,,43.7047666710889,-72.2830601424848
+1678,,"Fri, 09 Nov 2018 05:00:00 GMT",,,16,7,No,Green ash,Planted,1fd7005b-d0ae-4c33-be0f-145d7b4aa0af,Fraxinus pennsylvanica,Fair,WH117,,,,43.7047471432422,-72.2832986713129
+1679,,"Fri, 09 Nov 2018 05:00:00 GMT",,,20,10,No,Green ash,Planted,2140cf64-7145-40fc-8092-3e3a6dcee047,Fraxinus pennsylvanica,Fair,WH118,,,,43.7046721252089,-72.2836715620488
+1680,,"Fri, 09 Nov 2018 05:00:00 GMT",,,16,4,No,"Sugar maple, 2014",Planted,32c5b415-141a-4f48-a49e-a07cb6d2446f,Acer saccharum,Fair,WH112,,,,43.7049266416987,-72.282754518159
+1681,,"Fri, 09 Nov 2018 05:00:00 GMT",,,12,4,No,"Sugar maple, 2014",Planted,97cf5000-f56f-4fb3-b2f3-59c6af02a9e7,Acer saccharum,Fair,WH113,,,,43.7050883286108,-72.2828188073563
+1682,,"Fri, 09 Nov 2018 05:00:00 GMT",,,12,4,No,"Sugar maple, 2014",Planted,b97120af-0976-4374-bf66-ebe7497fc3ff,Acer saccharum,Fair,WH114,,,,43.70520785455,-72.2828163766044
+1683,,,,,30,14,No,Austrian pine,Planted,107cf5db-eedb-4f32-9db6-93346ef5266f,Pinus nigra,Fair,WH83,,,,43.7036899868059,-72.2857070268529
+1684,,"Fri, 09 Nov 2018 05:00:00 GMT",,,35,15,No,Austrian pine,Planted,fddea9b5-ad58-4553-8db1-461735f008fd,Pinus nigra,Fair,WH81,,,,43.7037828471918,-72.2856609430837
+1685,,"Fri, 09 Nov 2018 05:00:00 GMT",,,35,14,No,Austrian pine ,Planted,41ebbced-3190-4730-a15c-f441a7cc1c89,Pinus nigra,Fair,WH83,,,,43.7035248941217,-72.2857735958624
+1686,,"Fri, 09 Nov 2018 05:00:00 GMT",,,60,26,No,Red oak,Planted,1a78f137-2121-4959-a208-917f80072d7b,Quercus rubra,Good,WH119,,,,43.703183373477,-72.2856052034276
+1687,,"Fri, 09 Nov 2018 05:00:00 GMT",,,16,6,No,Yellow birch,Planted,65ac8fe5-65a0-4567-bd08-558ea49a81f2,Betula alleghaniensis,Poor,WH89,,,,43.7036222416957,-72.2858690715649
+1688,,,,,80,42,No,American elm,Planted,a7551109-e88f-4439-b39f-a85d9df42555,Ulmus americana,Good,AW02,,,Arbotect june 2022,43.7028313709373,-72.2855079912562
+1689,,,,,80,40,No,American elm,Planted,55edaca9-0251-4e71-a150-90bf75c518c4,Ulmus americana,Good,AW06,,,Arbotect june 2022,43.7029754427069,-72.2854405069494
+1690,,,,,25,12,No,Sugar maple,Planted,9a9239d4-f6b7-4146-a8fa-c911ac2ace67,Acer saccharum,Fair,AW08,,,,43.702970982909,-72.2849010073888
+1691,,,,,90,40,No,Pin oak,Planted,a2d6eb8a-168f-45ff-aabf-b189a04d497c,Quercus palustris,Fair,AW10,"Hicks Family for Hicks, Orton",,,43.7024812537119,-72.2849163495458
+1692,,,,,90,20,No,Red pine,Planted,a35a61a0-1e8b-4565-ab13-089ca0974b43,Pinus resinosa,Poor,AW12,,,,43.7023992310716,-72.2848857189283
+1693,,,,,16,5,No,White pine,Planted,dc0bfb54-9c02-4ae5-ba23-ca38821ad434,Pinus strobus,Fair,AW15,,,,43.7029377473863,-72.2845853115186
+1694,,,,,12,4,No,White pine,Planted,0f4f280a-606e-4ad8-bf8c-676629e82f6d,Pinus strobus,Fair,AW16,,,,43.7029333262862,-72.284459622916
+1695,,,,,16,5,No,White pine,Planted,84587f15-11f5-4da9-a426-62741280becf,Pinus strobus,Fair,AW17,,,,43.7030108497004,-72.284496369376
+1696,,,,,70,26,No,White ash,Planted,f8ea555f-e545-4a90-b889-a098e06e3c98,Fraxinus americana,Fair,WC01,,,Mectinite 2021,43.7025551334206,-72.2902245312482
+1697,,,,,45,40,No,Yellowwood,Planted,83a10216-57ba-49cc-8605-ce7d2ca31482,Cladrastis kentukea,Fair,WC02,,,,43.7025551334206,-72.2897141335902
+1698,,,,,12,6,No,Crabapple,Planted,4238cf11-7b7a-467a-a72e-ff1217bc62a5,Malus,Fair,WC03,,,,43.7025407067605,-72.2895256011775
+1699,,,,,12,6,No,Crabapple,Planted,2b08d2b1-938e-4cd8-84f4-43a018228e9c,Malus,Fair,WC04,,,,43.7025839285609,-72.2895761877639
+1700,,,,,12,6,No,Crabapple,Planted,4f6d3472-b40c-4b99-b86a-834e4a582adb,Malus,Fair,WC06,"Class of 1994 for Boyer, Daniel B.",,,43.7026559453767,-72.2895624011703
+1701,,,,,10,6,No,Crabapple,Planted,959aa0c0-748a-439f-8f3b-ad093a990602,Malus,Fair,WC07,,,,43.7027711837714,-72.2896175742294
+1702,,,,,16,5,No,Sugar maple,Planted,e0eeb4cf-3209-451e-8ba6-3b892475516c,Acer saccharum,Good,WC08,"Ladson, John for Buletti, Maureen Therese",,,43.7029462418226,-72.2896236895808
+1703,,,,,65,38,No,"Sugar maple, removed August 2019",Planted,f847b8a0-7235-48ea-bfda-0f2d500cbfac,Acer saccharum,Poor,WC10,,,,43.7031989000826,-72.2895960630244
+1704,,,,,16,5,No,American elm,Planted,86cef3d3-de66-410f-ba28-282f3c9fa9b8,Ulmus americana,Fair,WC11,,,,43.7029284801696,-72.290370094826
+1705,,,,,25,6,No,Honeylocust,Planted,e30658d0-4acd-41ab-b720-294a2e09bb23,"Gleditsia, triacanthos",Fair,WC17,"Class of 1950 for Horky, Rudolph",,,43.7033351373447,-72.2911150248469
+1706,,,,,15,6,No,Crabapple,Planted,74925bc2-fa09-4c38-90a1-d396ca93faac,Malus,Fair,WC19,,,,43.7033473532198,-72.2904282985488
+1707,,,,,15,6,No,Crabapple,Planted,362c3dc2-8462-488d-8d9a-d7cf38a0210b,Malus,Fair,WC20,,,,43.7033395970563,-72.2903807965682
+1708,,,,,15,6,No,Crabapple,Planted,a18cc80c-dcd2-484b-b2c3-0a0a48689baf,Malus,Fair,WC21,,,,43.7033750620628,-72.2903991964828
+1709,,,,,38,9,No,Red Oak,Planted,7c9b2fa3-9ca9-4e64-9219-217db4bad09a,Quercus rubra,Good,WC22,,,,43.7035279358205,-72.2901938198826
+1710,,,,,40,20,No,Yellowwood,Planted,ef9547c3-7be3-406b-9867-d435c8e62881,Cladrastis kentukea,Fair,WC24,Ronald Lazar 1953,,,43.7033850287551,-72.289953198853
+1711,,,,,43,16,No,Honeylocust,Planted,ec0dbb8a-3217-4113-82c6-8483e6c17aa3,Gleditsia triacanthos,Fair,WC25,In memry of Anchie Y. Kuo ' 86,,,43.7033927655625,-72.2897876798395
+1712,,,,,57,27,No,Red Oak,Planted,5a9a833e-6a57-4490-8b58-631cdca19a08,Quercus rubra,Fair,WC26,,,,43.7033750427126,-72.2895960896693
+1713,,,,,65,36,No,English elm,Planted,6bf60317-7945-4e70-adaf-a30dc30570b3,Ulmus procera,Fair,WC29,Class of 1952 for the Parkhurst Family,,,43.7037750459222,-72.2896895916
+1714,,,,,24,8,No,Paper birch,Planted,d5b9c442-acf2-4b00-b705-2cbea050af6a,Betula papyrifera,Fair,WC30,,,,43.7039301678733,-72.2896252185836
+1715,,,,,80,38,No,American elm,Planted,df8a237f-69f0-4506-ad63-553f95f855a9,Ulmus americana,Fair,WC31,,,"Arbotect 2022,2025",43.7038902626974,-72.2898780971642
+1716,,,,,50,20,No,Paper birch,Planted,25306332-f980-4aa4-92b3-5a532a8d2948,Betula papyrifera,Fair,WC33,"Tuck Family for Tuck, John Jr.",,,43.703923517042,-72.2901233584449
+1717,,"Sat, 12 Sep 2020 18:45:20 GMT",,,36,24,No,Crabapple pruned march 2024,Planted,d905b7aa-a2ea-402d-a7d0-b2650478c7d5,Malus,Fair,WC34,,,,43.7037595142957,-72.2901601045774
+1718,,,,,85,34,No,American elm,Planted,4dbb1eb5-fcc9-4ebf-bbe6-c7708d558ea9,Ulmus americana,Fair,WC35,,,"Arbotect 2022,2025",43.7037218584049,-72.289991500958
+1719,,"Sat, 12 Sep 2020 18:39:04 GMT",,,52,45,No,Red Oak Removed Jan. '22,Dead,82804e8c-6495-421e-9ef9-879f94da8443,Quercus rubra,Poor,WC36,,,,43.7036719865067,-72.2902566909503
+1720,,,,,70,39,No,"Red Oak,Installed cable to support large over extended leader 3/7/25",Planted,3cdd02d3-b872-4f26-a3c1-d7d6f8573d2c,Quercus rubra,Fair,WC38,,,Cambistat 11/21/24,43.7039578377766,-72.290316450482
+1721,,,,,16,4,No,American elm,Planted,d6d7ed45-1445-4b98-b5d2-c25beaa97a60,Ulmus americana,Fair,BL186,,,,43.7063835151286,-72.2894741949669
+1722,,,,,12,5,No,American Hornbeam,Planted,cec1942e-6691-4dc7-b5aa-1b886f73b0bf,Carpinus caroliniana,Good,BL190,,,,43.7062317344883,-72.2893193776956
+1723,,,,,12,5,No,American hornbeam,Planted,42eea0ae-5d8c-4193-87a2-7f98e94dcb4a,Carpinus caroliniana,Good,BL191,,,,43.7062760588411,-72.289314764211
+1724,,,,,12,5,No,American Hornbeam,Planted,580de808-25a3-4d47-80a3-47593b9c39db,Carpinus caroliniana,Good,BL192,,,,43.7063103975483,-72.2893254932108
+1725,,,,,12,5,No,American Hornbeam,Planted,06eb21df-d207-4edc-bd64-eff569403eba,Carpinus caroliniana,Good,BL193,,,,43.7063525114189,-72.2893346930043
+1726,,"Sat, 12 Sep 2020 19:03:33 GMT",,,67,38,No,Red oak,Planted,20961c8a-e90b-44c1-91ee-f9a652e65d0d,Quercus rubra,Poor,WC39,,,Cambistat 11/21/24,43.7041531663147,-72.2903631057024
+1727,,"Sat, 12 Sep 2020 19:07:31 GMT",,,65,38,No,Red Oak,Planted,168a13e8-648c-4a6d-8d60-fabbdc627915,Quercus rubra,Poor,WC40,Class of 2000 for Class of 2000,,,43.7042460844913,-72.2901586258116
+1728,,,,,12,6,No,Fringe tree,Planted,dfdea73a-d721-4a97-8b52-e67f0792ab01,Chionanthus virginicus,Good,WC41,,,,43.704172983713,-72.2900421641783
+1729,,,,,100,54,No,American elm,Planted,c80d91a4-f5b4-420b-8ac6-8ce4724d9e4c,Ulmus americana,Fair,WC44,,,Arbotect 2022,43.7042748981988,-72.2897448145262
+1730,,,,,35,16,No,Norway Maple,Planted,1acb04fa-88b8-463c-bfa3-0ec32d728866,Acer platanoides,Fair,WC46,"Class of 1950 for Edelson, Kenneth",,,43.7041153562452,-72.2896405839231
+1731,,,,,50,20,No,Paper Birch,Planted,c55520b9-b4c9-47de-8694-7eb990fc806b,Betula papyrifera,Fair,WC48,,,,43.7044056649446,-72.2896436416807
+1732,,,,,25,12,No,Yellowwood,Planted,2e660a63-b994-45cf-a224-8cdc7cbdb554,Cladrastis kentukea,Fair,WC50,,,,43.7044078753812,-72.2899655604591
+1733,,,,,15,5,No,Crabapple,Planted,04a090ae-095a-4257-b213-cc38d26ea8c5,Malus,Fair,WC51,"Frank Harrington Jr. for Harrington, Frank",,,43.7042793967178,-72.2908115829446
+1734,,,,,12,5,No,Crabapple,Planted,e8fe74c8-3624-4c29-8bba-656bcac299e9,Malus,Fair,WC52,"Class of 1985 for the ""Sisters""",,,43.7043343802418,-72.290733284612
+1735,,,,,12,5,No,Crabapple,Planted,373be0a8-40cb-4df6-838a-496422512206,Malus,Fair,WC53,"Class of 1985 for ""The Sisters""",,,43.7043033560929,-72.2906720230498
+1736,,,,,12,5,No,Crabapple,Planted,461272dc-7404-4add-a674-e4d034a1d6c6,Malus,Fair,WC54,"Class of 1985 for ""The Sisters""",,,43.7043454326147,-72.2905984230641
+1737,,,,,12,5,No,Crabapple,Planted,433e831a-9b97-47b3-82c6-9277f6128583,Malus,Fair,WC55,"Wall family for Wall, Allen",,,43.7043654043747,-72.2904298194447
+1738,,,,,35,12,No,White Pine,Planted,da08e2de-c233-495f-8bc0-64d7724e3c3d,Pinus strobus,Fair,WC57,,,,43.7038002972725,-72.2907363960661
+1739,,,,,35,12,No,White Pine,Planted,4d809ecc-7138-4923-b7ae-13496925ad6b,Pinus strobus,Fair,WC58,,,,43.7038889495409,-72.290748626769
+1740,,,,,35,12,No,White Pine,Planted,52daaf40-7ca6-4a8c-b3a0-4e9ae0f91dd3,Pinus strobus,Fair,WC59,,,,43.7039687209312,-72.2907394538237
+1741,,,,,15,3,No,American Elm/Princeton replaced may of 2023 due to storm damage,Planted,4b40ac40-88f6-4438-ad67-eb58bf775e18,Ulmus Americana/Princeton,Good,WC60,"Edelson/Fink for Gammie, John G.",,,43.7038357427156,-72.2909049995218
+1742,,,,,75,32,No,American elm,Planted,dfeb661c-7780-4a71-9b6a-5ef91e160c84,Ulmus americana,Fair,WC63,,,Arbotect june 2022,43.7035964278136,-72.2906965383157
+1743,,,,,80,30,No,Red Oak,Planted,4ef4c770-2587-4536-b2c3-720e67fcdafc,Quercus rubra,Fair,WC72,,,,43.7045404578003,-72.2905279346963
+1744,,,,,16,4,No,American elm,Planted,414a7043-7f4d-4e1f-8494-7699be303cbf,Ulmus americana,Fair,WC73,,,,43.7044983425975,-72.2903287001321
+1745,,,,,28,5,No,,Planted,96da0172-9b2d-461f-bdbf-dabda54a05b8,Ulmus americana,Fair,,,,,43.7044983425975,-72.2903287001321
+1746,,,,,70,36,No,American elm,Planted,4883668a-0b88-412b-beb0-f9dfe6376200,Ulmus americana,Poor,WC74,,,Arbotect 2013,43.7045337876279,-72.2900803813394
+1747,,,,,14,4,No,Paper Birch,Planted,2134b187-a45b-4b0b-b07f-1b1bbb757372,Betula papyrifera,Fair,WC75,,,,43.7045666458739,-72.2900304921522
+1748,,,,,,,,Paper Birch,Planted,32d04f5e-ac12-4989-ac9a-945334f9d6f5,Betula papyrifera,Fair,WC77,,,,43.7046032153987,-72.2900105633589
+1749,,,,,45,28,No,Paper Birch,Planted,1b6a1b55-d0ee-4ba7-a5f7-013e45a8d09d,Betula papyrifera,Good,WC77,,,,43.7046297990678,-72.2899155325494
+1750,,,,,45,16,No,Paper Birch,Planted,28c5ae9d-e61d-4b65-bfff-46a1b31553fa,Betula papyrifera,Good,WC80,,,,43.7046486461399,-72.289840430697
+1751,,,,,70,34,No,Red Oak,Planted,cc36e884-7ebb-466d-a116-f0bdfc7793ad,Quercus rubra,Fair,WC81,,,,43.7045367270316,-72.289907861471
+1752,,,,,88,34,No,American elm,Planted,3a7cbf7f-5c1f-42ec-89ba-accf6c1218ae,Ulmus americana,Fair,WC82,"Russell, Wm.",,Arbotect 2022,43.7046364498206,-72.2897408135787
+1753,,,,,45,16,No,Green Ash,Planted,1e366aaf-04b2-4b04-aaf2-2db1c99d787a,Fraxinus pennsylvanica,Fair,WC84,"Crawford, Keith",,Mectinite 6-13-24,43.7048009833792,-72.289691755871
+1754,,,,,12,6,No,Toba Hawthorn,Planted,b013ea34-e7a5-4a38-9395-05b60fb9437a,Crataegus x mordenensis,Good,WC85,,,,43.704806528843,-72.2898465999087
+1755,,,,,65,22,No,Sugar Maple,Planted,e44c86ca-7c9a-41fc-81d5-68dbd48ca202,Acer saccharum,Fair,WC87,,,,43.7050558247374,-72.2897546269387
+1756,,,,,91,39,No,Kentucky Coffee Tree,Planted,4fe95a9b-4eeb-44ff-8df8-80c1932e4893,Gymnocladus dioicus,Fair,WC88,,,,43.7049793705058,-72.2898373999515
+1757,,,,,90,38,No,Red Oak,Planted,6f0813ef-0319-4dae-a3a5-90c98f74209d,Quercus rubra,Fair,WC89,,,,43.7049727391407,-72.2899293728396
+1758,,,,,90,36,No,Ginkgo,Planted,237e14e2-db59-4f14-8a74-1ae2d6ac943f,Ginkgo biloba,Fair,WC91,Class of 1950,,,43.7049760548529,-72.2900872208565
+1759,,,,,14,6,No,European Hornbeam,Planted,0f71f359-18e6-42d0-bf41-766620bf0376,Carpinus betulus,Fair,WC95,For Ellie Smith,,,43.7048140846131,-72.2902092316694
+1760,,,,,16,5,No,American elm,Planted,8abe13eb-1854-4c13-8c27-5a94f71ecd18,Ulmus americana,Fair,WC96,"Class of 1937 for Fenn, Francis T.",,,43.7049526061383,-72.2906445541597
+1761,,,,,12,10,No,Crabapple,Planted,29211a11-01e0-417e-ad4b-5eed2ab7b512,Malus,Fair,WC97,,,,43.705035691763,-72.2906583406714
+1762,,,,,90,40,No,American elm,Planted,daa0e787-43f2-4014-910c-71252da96816,Ulmus americana,Fair,WC98,,,Arbotect 2022,43.7049226875477,-72.2910277345001
+1763,,,,,20,8,No,American Elm planted 2014,Planted,0248bc77-b1db-43be-8530-f9cb61cc0bdf,Ulmus americana,Fair,WC100,"Student Assembly for ""The Still North""",,,43.7049492904544,-72.2913802303629
+1764,,,,,75,32,No,Red Oak,Planted,d1ad5fba-b6a2-45f2-9ce5-69ea62d26349,Quercus rubra,Fair,WC101,,,,43.7047952763515,-72.2914829320871
+1765,,,,,75,32,No,Red Oak,Planted,b75c74ea-b5f5-4426-90c1-2d2c820a12cc,Quercus rubra,Fair,WC103,,,,43.7047808696689,-72.2917971260903
+1766,,,,,20,6,No,American Elm,Planted,fee407ba-199d-4113-94ff-9adaf349aedf,Ulmus americana,Fair,WC105,"Hampton, Harry for Class of 1945",,,43.7049060510096,-72.2919718721549
+1767,,,,,12,10,No,Crabapple,Planted,61f7dbb2-4271-4964-b912-a929d9e2e9c4,Malus,Fair,WC108,,,,43.7049958068206,-72.2920561471163
+1768,,,,,12,10,No,Crabapple,Planted,49818657-7983-4b82-8895-471f214cc186,Malus,Fair,WC107,,,,43.7049825053939,-72.2921251334536
+1769,,,,,86,60,No,removed,,603b1aa5-780e-450b-be4c-22b3b6744792,Ulmus americana,Fair,WC118,,,arbotect june 2022,43.7054268034202,-72.2910706498853
+1770,,,,,16,4,No,Americn Elm,Planted,fb7771f8-2b19-4912-8c36-aa78ec173688,Ulmus americana,Good,WC126,,2013,,43.7052085327651,-72.2918691971562
+1771,,"Mon, 01 Jul 2024 18:04:22 GMT",Scott Melendy,,30,12,No,American Elm,Planted,4cfbae10-28a6-4f94-aa4e-68c1d8211f19,Ulmus americana,Good,WC127,Class of 1986 for Class of 1986,2013,Arbotect 7/2024,43.7052063029493,-72.2916423627203
+1772,,,Scott Melendy,,25,10,No,American Elm,Planted,55f56894-35be-49a7-9568-921290bb3f8f,Ulmus americana,Good,WC128,"Deckbar, Jason for Banerjee",2013,Arbotect 7/2024,43.7052129536382,-72.2913373419079
+1773,,"Wed, 10 Nov 2021 15:10:55 GMT",Scott Melendy ,,25,13,No,American Elm,Planted,2e5fe50c-1978-45ca-b252-79b450623f3f,Ulmus americana,Good,WC130,"For Igoe, Brian",2014,Arbotect 7/2024,43.705229570712,-72.2910783209638
+1774,,,,,16,4,No,American Elm removed 6/2024 Dutch elm disease ,Planted,e310a694-9ba3-4499-9290-bc80df1d62e9,Ulmus americana,Good,WC129,,2014,,43.7052373266309,-72.2908453441644
+1775,,,Scott Melendy ,,30,13,No,American Elm,Planted,748b4564-4b4a-4bac-ae6f-002d9edc470f,Ulmus americana,Fair,WC132,,2014,Arbotect 7/2024,43.7052428720839,-72.2906598963576
+1776,,,,,25,10,No,American Elm,Planted,986682ed-9aa6-455f-810c-fbc6e03f6213,Ulmus americana,Fair,WC156,"Huntley, Larry for Karnan, Bob",,Arbotect 7/2024,43.7052528384657,-72.2903855330928
+1777,,"Fri, 21 Jun 2024 15:11:06 GMT",,,30,14,No,American Elm planted 2015,Planted,6612b222-834c-41d5-be32-f73c13bc3753,Ulmus americana,Good,WC157,"Class of 2000 for 2000, Fifth Year",2013,Arbortect June 2024,43.7052483981868,-72.2901096679611
+1778,,"Wed, 10 Nov 2021 15:00:39 GMT",,,15,4,No,American Elm,Planted,fce4ad56-0858-4b70-af4a-e9dad583361e,Ulmus americana,Good,WC158,"Seiffert, Thomas for Bieneman",2020,,43.7052539436979,-72.2899517796719
+1779,,,,,30,12,No,Honeylocust,Planted,495325aa-92ad-45b6-b1dc-dcd9bca21f58,Gleditsia triacanthos,Poor,WC131,"Class of 1950 for Harlow, Alison",,,43.7053542178944,-72.2903756089685
+1780,,,,,35,12,No,Black Walnut,Planted,1f7ddd58-2c8b-476c-bf95-76d0adbec9e0,Juglans nigra,Poor,WC154,Robert C. Keene for Keene Rob and Louise,,,43.7052085133711,-72.2898062028349
+1781,,,,,25,8,No,Crabapple,Planted,76633f66-ef05-422e-8a02-4989639088b0,Malus,Poor,WC133,,,,43.7054855058162,-72.2905189060342
+1782,,,,,25,12,No,Crabapple,Planted,458029cf-83ca-4c5b-bd87-ee8347e2393f,Malus,Poor,WC134,,,,43.7055204072944,-72.2905189060342
+1783,,,,,25,12,No,Crabapple,Planted,d046ef7c-ca48-4660-9a9b-e1a43e775eec,Malus,Poor,WC135,,,,43.7055530983283,-72.2905227281493
+1784,,,,,25,12,No,Crabapple,Planted,637cfb90-c230-4887-910d-773f0922a780,Malus,Poor,WC136,,,,43.7055924303017,-72.2905311637491
+1785,,,,,50,38,No,American Elm,Planted,567ff5ee-21f3-4776-8ebc-003bc73d4eb6,Ulmus americana,Fair,WC137,,,arbotect 2022,43.7056866059232,-72.2902644717264
+1786,,,,,18,8,No,Crabapple,Planted,4dfe0c01-a8ab-41fb-9603-87256bc02c05,Malus,Poor,WC138,,,,43.7056921416599,-72.2907150828408
+1787,,,,,18,8,No,Crabapple,Planted,515b4f63-5fb5-42c4-a2e8-4f35e6c36f78,Malus,Poor,WC139,,,,43.7056677688521,-72.2906062656014
+1788,,,,,65,32,No,Pin Oak,Planted,720342cc-7269-4649-89fb-fcec6e83894f,Quercus palustris,Fair,WC143,,,,43.7060383816046,-72.290451461959
+1789,,,,,20,10,No,Yellowwood,Planted,fec2339f-19f8-4fa4-9dc6-4572921e230b,Cladrastus kentukea,Fair,WC144,"Adkins, Laura for Adkins, Laura",,,43.7059630338157,-72.2902851650001
+1790,,,,,20,10,No,Yellowwood,Planted,5eb80579-fd92-4596-8324-0c21bc8a617d,Cladrastus kentukea,Fair,WC145,"Adkins, Laura for Adkins, Leslie",,,43.7059502948584,-72.2901977920087
+1791,,,,,70,34,No,Pin Oak,Planted,67777709-54e4-426f-bf4c-c371185ae056,Quercus palustris,Fair,WC146,,,,43.7059242546807,-72.2900391662102
+1792,,,,,80,40,No,American Elm,Planted,807f728f-6746-4fd6-b84c-5c608871b5fb,Ulmus americana,Fair,WC148,,,arbotect june2022,43.7056927136214,-72.28974642992
+1793,,,,,70,40,No,American Elm,Planted,9a306c0f-a27e-415a-a51a-cf979d3c719d,Ulmus americana,Poor,WC149,,,arbotect june 2022,43.7055381488743,-72.2897441366018
+1794,,,,,18,5,No,Kentucky Coffee Tree,Planted,8d7e00ce-9c4a-4f4a-9570-f63d4596544e,Gymnocladus dioicus,Good,WC165,Class of 2000 for Class of 2000,,,43.7055604422911,-72.2903459676176
+1795,,,,,16,5,No,Sugar Maple removed for construction ,Planted,355f51e4-b76c-4b18-be79-e89bb925f753,Acer saccharum,Poor,AW24,,,,43.7031462264938,-72.2843561038443
+1796,,,,,26,8,No,,Planted,6ce025e2-fe81-4737-8681-cf63efecbbfe,Acer 'Armstrong',Good,AW23,,,,43.7031772900604,-72.284567622808
+1798,,,,,14,4,No,Sugar maple planted 2017,Planted,cb9a2531-7235-470d-aaf5-2c8b13087a07,Acer saccharum,Good,AW32,Carpenter Family,,,43.7033545573717,-72.2836112545318
+1799,,,,,14,4,No,Sugar maple,Planted,ffa21745-a5e4-437f-bb59-86901268aa95,Acer saccharum,Fair,AW33,"Class of 1950 for Carpenter, Russell",,,43.7032503920824,-72.2836265429922
+1801,,,,,55,18,No,White Pine,Planted,b6110b93-3092-4f58-82ed-660f5aa6327e,Pinus strobus,Fair,AW35,,,,43.7031196615171,-72.2837001429778
+1802,,,,,55,18,No,White pine,Planted,c596ee08-4a85-4758-a680-720b38436471,Pinus strobus,Fair,AW34,,,,43.7030930575914,-72.2838962664153
+1803,,,,,12,4,No,White ash,Planted,915f57b4-12a8-4795-b1b6-ba3aa6220967,Fraxinus americana,Poor,AW36,"Chen Family for Chen, George",,Mectinite 7-29-2020,43.7033080201449,-72.2837338320076
+1804,,,,,45,22,No,Paper Birch,Planted,e23dbbad-6c61-4ebd-838c-bf59cb2ee018,Betula papyrifera,Fair,AW37,,,,43.7028049918503,-72.2833046785652
+1805,,,,,45,24,No,Paper Birch,Planted,5cddf6dc-b956-4bce-bc13-38fd02233e8c,Betula papyrifera,Poor,AW38,,,,43.7026520774299,-72.2832372481187
+1806,,,,,40,16,No,Paper birch,Planted,7474a271-0513-41c3-9976-3560d6688d60,Betula papyrifera,Poor,AW39,,,,43.7025966977635,-72.2831207327888
+1807,,,,,40,14,No,Paper birch,Planted,a8e938cf-d2d3-472e-95f0-f654a048fa79,Betula papyrifera,Poor,AW41,,,,43.7027252189114,-72.2831575329453
+1808,,,,,40,14,No,Paper birch,Planted,c588b284-4506-42e8-8296-da35db634321,Betula papyrifera,Poor,AW42,,,,43.7028980665752,-72.2832434173304
+1809,,,,,45,14,No,Paper birch,Planted,e565683a-f725-4e82-9c8c-fbe083741ee9,Betula papyrifera,Poor,AW43,,,,43.7031196613396,-72.2835131400987
+1810,,,,,45,16,No,Littleleaf linden,Planted,a0658bc1-a6c5-410b-844e-27e455db66d7,Tilia cordata,Fair,AW50,,,,43.7036515398492,-72.2827989754275
+1811,,,,,45,16,No,Littleleaf linden,Planted,b95341d7-2981-4641-8e67-6f0f06934d72,Tilia cordata,Fair,AW51,,,,43.7035850310763,-72.282749837175
+1812,,,,,45,16,No,Littleleaf linden,Planted,6da67d34-724b-4efd-b88a-a59612590e8b,Tilia cordata,Fair,AW52,,,,43.7035384942652,-72.2827406642297
+1813,,,,,45,16,No,Littleleaf linden,Planted,300474ac-846b-4690-abe9-3a307ec1355e,Tilia cordata,Fair,AW53,,,,43.7034853258291,-72.2827130910425
+1814,,,,,35,12,No,Red maple,Planted,3801cc86-48d7-4cfd-8020-2636e5bfc2ae,Acer rubrum,Fair,AW55,,,,43.7037512447016,-72.2824923988061
+1815,,,,,35,14,No,Red maple,Planted,ec5d1a05-6f46-4520-b3cb-1f5fc7cbc0fe,Acer rubrum,Fair,AW56,,,,43.7036692626173,-72.2824770029525
+1816,,,,,35,16,No,Red maple,Planted,af2a349a-161a-4746-88d1-9fa5f1aff0e9,Acer rubrum,Fair,AW57,,,,43.7036005821572,-72.2824678300073
+1817,,,,,18,10,No,Paper birch,Planted,9759dc36-c32f-419f-86f3-e1607d61d377,Betula papyrifera,Fair,AW60,,,,43.7033989224338,-72.2824095721786
+1818,,,,,8,4,No,Canadian hemlock,Planted,1f2d6d9d-7bca-4305-921b-655ae4290322,Tsuga canadensis,Fair,AW123,,,,43.7002853265647,-72.2843192514646
+1819,,,,,8,4,No,Canadian hemlock,Planted,548ead14-fc69-4b41-bf54-7b3be5966b06,Tsuga canadensis,Fair,AW124,,,,43.7002520509691,-72.284221190237
+1820,,,,,8,4,No,Canadian hemlock,Planted,4f1ac797-97fc-4ecf-a1a8-3108be9ff977,Tsuga canadensis,Fair,AW125,,,,43.7003274059066,-72.2841751634386
+1821,,,,,8,4,No,Canadian hemlock,Planted,f6951765-85db-4b93-80fa-d6347c3a2335,Tsuga canadensis,Fair,AW126,,,,43.7002808278644,-72.284083217235
+1822,,,,,8,4,No,Canadian hemlock,Planted,9640c19e-f098-44a0-902d-11107630c625,Tsuga canadensis,Fair,AW127,,,,43.7003651027501,-72.2840709862047
+1823,,,,,8,4,No,Canadian hemlock,Planted,3d896a81-877b-4b6d-9de3-099203e3b805,Tsuga canadensis,Fair,AW128,,,,43.7003118927973,-72.2839973865465
+1824,,,,,8,4,No,Canadian hemlock,Planted,aee98806-ff56-41be-bbd2-31fee8a626ca,Tsuga canadensis,AW129,,,,,43.7003961289371,-72.2839851555162
+1825,,,,,8,4,No,Canadian hemlock,Planted,1f89c249-692a-4f9e-ab4f-d4b9f5f4e966,Tsuga canadensis,Fair,AW130,,,,43.700356221468,-72.2839054403429
+1826,,,,,8,4,No,Canadian hemlock,Planted,04b93789-7c9d-40e2-8b57-b77efb692d59,Tsuga canadensis,Fair,AW131,,,,43.700427155108,-72.2839023825853
+1827,,,,,65,30,No,Red Oak,Planted,b7a1071a-2ba1-42d3-9681-f07a7bc42665,Quercus rubra,Fair,AW134,"Class of 1950 for Pinkham, Gordon",,,43.7005865657395,-72.2850066934265
+1828,,,,,35,12,No,Beech,Planted,18fdd13d-f912-45b9-8fa9-457176d11c7f,Fagus grandifolia,Poor,AW135,,,,43.7007394854282,-72.2850864089273
+1829,,,,,75,32,No,Red Oak,Planted,0b5c1dc3-98c8-457d-bab0-1e5d9a3599c6,Quercus rubra,Fair,AW136,,,,43.7006685521577,-72.2851630126465
+1830,,,,,75,32,No,Red Oak,Planted,84cf7b2f-9e5c-4524-954a-842714eedc2b,Quercus rubra,Poor,AW138,,,,43.7008657998129,-72.2853745316101
+1831,,,,,75,34,No,Red Oak,Planted,574bbe4c-e64f-46c9-b758-338bba70f21c,Quercus rubra,Poor,AW139,,,,43.7008879833577,-72.2851293242715
+1832,,,,,75,38,No,American elm - removed,Dead,a0cfbda5-eda8-400b-bb32-ef89608a14a5,Ulmus americana,Poor,AW141,,,,43.7010896515272,-72.2851814125611
+1833,,,,,25,18,No,Crabapple,Planted,01251091-c435-493d-bda3-da9a1a2b4480,Malus,Fair,AW171,,,,43.7024990216345,-72.2854787622132
+1834,,,,,16,5,No,Crabapple,Planted,4722a6e3-b5d3-4f3e-9b66-42962e9fde08,Malus,Good,AW182,,,,43.702747222024,-72.2855645929017
+1835,,,,,12,4,No,Arborvitae hedge planted 2015,Planted,21ff627f-a2a0-4ee6-a681-75e86e099e40,Thuja occidentalis,Fair,AW147,,,,43.7020801428639,-72.2847584286577
+1836,,,,,18,5,No,Red Oak,Planted,d5ab8a3e-33f5-4921-997c-de0218d0abcc,Quercus rubra,Fair,AW177,,,,43.7014951190907,-72.2820577653765
+1837,,,,,18,5,No,Red Oak,Planted,ced366a5-99c4-40f0-b6b3-9905c1b39b47,Quercus rubra,Fair,AW178,,,,43.7015527491955,-72.2819749924456
+1838,,,,,12,4,No,Crabapple,Planted,c0333a5e-3387-426d-9f80-7587f9c9ef2c,Malus,Good,AW179,,,,43.7024503122909,-72.2834096525805
+1839,,,,,12,4,No,Crabapple,Planted,c6ce6125-be53-48f0-825e-5de61e62b72c,Malus,Good,AW180,,,,43.7024747058165,-72.283375856485
+1840,,,,,12,4,No,Crabapple,Planted,e5e4fbdd-aa63-4c70-8fd5-4c98bfcbb7ba,Malus,Good,AW181,,,,43.702452561737,-72.2832701508632
+1841,,,,,12,4,No,Crabapple,Planted,a1e4be93-2a53-4342-a061-7a3fa3d9e5d0,Malus,Good,AW182,,,,43.7025168223816,-72.2832456354335
+1842,,,,,20,6,No,Sugar Maple,Planted,e7a644a0-d23b-4a45-9b98-84f0ca831ba5,Acer saccharum,Poor,AW183,,,,43.7005732635118,-72.281915259762
+1843,,,,,20,5,No,Sugar Maple,Planted,d926d265-46b6-4ed8-a925-42e41969b2e0,Acer saccharum,Poor,AW184,,,,43.7005666317184,-72.2817772870874
+1844,,,,,30,24,No,Paper birch,Planted,5a5d1067-0486-4019-8538-852af6d53307,Betula papyrifera,Poor,CH23,,,,43.7070776664375,-72.2911166237658
+1845,,,,,35,16,No,White Pine Removed 10-21,Planted,dbbebbd8-07ce-417c-9ff3-383aede7f264,Pinus strobus,Poor,CH26,,,,43.7070942441486,-72.2912070407633
+1846,,,,,35,16,No,White Pine,Planted,d6ec44c8-2613-49f5-96c3-0305b96b7c8a,Pinus strobus,Poor,CH25,,,,43.707118716413,-72.2912996007479
+1847,,,,,40,16,No,White Pine,Planted,f36a8e8a-3caa-47fc-9322-adeb2107cfd3,Pinus strobus,Poor,CH24,,,,43.707130912168,-72.2914023026358
+1848,,,,,50,21,No,Zelkova,Planted,fcfd6cf6-b53a-45de-bf8b-8280270ef9c9,Zelkova serrata,Fair,CH32,,,,43.7076073219153,-72.2917210831116
+1849,,,,,45,20,No,Paper Birch,Planted,57a2ed04-e070-4bf2-ab69-1f315b166bf6,Betula papyrifera,Fair,CH34,,,,43.7078832077665,-72.2916674389313
+1850,,,,,16,8,No,White Pine,Planted,4bcea1a6-0e7b-41ca-a39a-698405290882,Pinus strobus,Good,CH62,,,,43.707789035596,-72.2915877505244
+1851,,,,,16,8,No,White Pine,Planted,822d6b14-769e-43e9-970c-9d62d50a8075,Pinus strobus,Good,CH63,,,,43.7078289187095,-72.2915417505744
+1852,,,,,16,8,No,White Pine,Planted,cdc6d0a6-7559-41ea-b358-97436095da3d,Pinus strobus,Good,CH64,,,,43.7077857201577,-72.2915049775936
+1853,,,,,70,35,No,Pin Oak,Planted,6fc0306c-faa2-4f33-9acd-941224ef6ba9,Quercus palustris,Good,CH41,,,,43.7075674580919,-72.2907708034208
+1854,,,,,35,18,No,Hemlock,Planted,c8f26b62-816b-40ff-82c1-65e61a9acd37,Tsuga canadensis,Fair,CH42,,,,43.7074422435226,-72.2905960572743
+1855,,,,,50,20,No,White Pine,Planted,bf05cf57-04b8-4d3e-ad68-4b9fa6f07fae,Pinus strobus,Poor,CH43,,,,43.7074677208003,-72.2904902977926
+1856,,,,,12,15,No,Hawthorn,Planted,b295edca-301d-4db6-ac51-19ce85011831,Crataegus,Poor,CH50,,,,43.7073170481293,-72.2901853039103
+1857,,,,,24,6,No,Red oak,Planted,f5334d1b-b4c1-4d82-95db-2b0f3bd51eab,Quercus rubra,Poor,AET01,,,,43.7002414327522,-72.2800998068143
+1858,,,,,24,5,No,Red Oak,Planted,6bf4c193-a810-4236-a5a5-b6481ca8bc8f,Quercus rubra,Poor,AET02,,,,43.700236934167,-72.2799894603687
+1859,,,,,24,5,No,Red Oak,Planted,805f71ce-de39-4187-a28d-44990a80ad66,Quercus rubra,Poor,AET03,,,,43.700223631566,-72.2798882875232
+1860,,,,,20,6,No,Red Oak,Planted,74b408a4-16b3-4b03-bf0b-93cea08d6278,Quercus rubra,Poor,AET04,,,,43.700236972751,-72.2797932298654
+1861,,,,,24,6,No,Red Oak,Planted,de1b2ce1-e045-4987-a7b5-0561270e4180,Quercus rubra,Poor,AET05,,,,43.7002458152301,-72.2797043414194
+1862,,,,,18,4,No,Red Oak,Planted,ce733ddb-3612-4cfb-b4c1-d84d1fcb6734,Quercus rubra,Poor,AET06,,,,43.7002324740471,-72.2795816572052
+1863,,,,,24,6,No,Red Oak,Planted,2bd5e5f5-074a-4394-983b-9eec5ce503da,Quercus rubra,Poor,AET07,,,,43.7002192102658,-72.2789901233791
+1864,,,,,14,4,No,Red Oak,Planted,61bd3cfe-a73d-4b29-b26c-c648650873ce,Quercus rubra,Poor,AET08,,,,43.7002170384363,-72.2788858384246
+1865,,,,,24,6,No,Red Oak,Planted,f5c22db9-b196-47a4-b30e-a9d1d646c74b,Quercus rubra,Poor,AET09,,,,43.7002125783149,-72.278763261931
+1866,,,,,24,6,No,Red Oak,Planted,891bd456-d92b-4ed4-8246-66a5baa7d2db,Quercus rubra,Poor,AET10,,,,43.7002059077793,-72.2786253426256
+1868,,,,,24,5,No,Red Oak,Planted,d10a9f3c-edb5-4760-bf8a-012797e8f7f0,Quercus rubra,Poor,AET13,,,,43.7003931704024,-72.2790176961979
+1869,,,,,24,5,No,Red Oak,Planted,a0298aa8-4008-46d2-bc22-6363800cf96b,Quercus rubra,Poor,AET14,,,,43.7003975916898,-72.2791050827772
+1870,,,,,24,5,No,Red Oak,Planted,f5c7feca-e8ef-4307-b846-ed5427d89fa3,Quercus rubra,Poor,AET16,,,,43.7004186506761,-72.2793242191226
+1871,,,,,24,5,No,Red Oak,Planted,4e7aa67a-21b2-49b3-822c-ad3815a14ab1,Quercus rubra,Poor,AET15,,,,43.700415334771,-72.2792276864464
+1873,,,,,16,5,No,Red Oak,Planted,acda9a45-995f-4fdf-9f64-69b61f3be580,Quercus rubra,Poor,AET17,,,,43.7004104976678,-72.2796494505741
+1874,,,,,16,5,No,Red Oak,Planted,e2869204-b347-47ae-9377-0e2ece478c67,Quercus rubra,Poor,AET18,,,,43.7004248860496,-72.2797981252364
+1875,,,,,16,5,No,Red Oak,Planted,2601fa26-07d6-4432-8067-3b249b5cb01e,Quercus rubra,Poor,AET19,,,,43.7004027217733,-72.2799881866915
+1876,,,,,16,5,No,Red Oak,Planted,eaf38bce-d083-4961-89a1-3b29af122ff2,Quercus rubra,Poor,AET20,,,,43.7004182348591,-72.2802012076856
+1877,,,,,16,5,No,Red Oak,Planted,386b07f0-ff1f-40e5-b3fd-de2a61e50a84,Quercus rubra,Poor,AET21,,,,43.7004215507641,-72.2803897401801
+1878,,,,,65,18,No,Pin Oak,Planted,e1a099a1-8c20-42ca-90a4-4e77ebfe30d0,Quercus palustris,Fair,AET22,"David Taylor for Lindenthal, Walt",,,43.7006398388485,-72.2807161918163
+1879,,,,,65,16,No,Pin Oak,Planted,1915b094-b513-4eb9-8d31-d280b3593a7b,Quercus palustris,Poor,AET23,,,,43.7006343123208,-72.2805782725928
+1880,,,,,65,18,No,Pin Oak,Planted,da1e09c6-695d-4486-8bc4-fa0e5080490c,Quercus palustris,Poor,AET24,,,,43.7006353982872,-72.2804556150632
+1881,,,,,70,18,No,Pin Oak,Planted,7cec05df-f9be-46a6-85d6-0133053e135f,Quercus palustris,Fair,AET25,,,,43.7006420495128,-72.2803191978702
+1882,,,,,65,18,No,Pin Oak,Planted,218663cf-78d4-4abe-9032-cc76dcce9187,Quercus palustris,Fair,AET26,,,,43.7006342929993,-72.2801889229587
+1883,,,,,70,18,No,Pin Oak,Planted,7b6f2094-e106-49fc-b37b-a219e18abf78,Quercus palustris,Fair,AET27,,,,43.7006209905457,-72.2800203461877
+1884,,,,,65,18,No,Pin Oak,Planted,edbd4586-72b8-4d0d-b441-57e1ae936cfd,Quercus palustris,Fair,AET28,,,,43.7006276417433,-72.2798640001195
+1885,,,,,65,18,No,Pin Oak,Planted,25e31e7c-fc56-4a7c-98e3-f244487b3502,Quercus palustris,Fair,AET29,,,,43.7006331876819,-72.279722996372
+1886,,,,,14,10,No,Crabapple,Planted,db3e2988-b137-4a8b-b140-21e70dff2bc5,Malus,Fair,AET32,,,,43.7012872454082,-72.2808993662009
+1887,,,,,14,6,No,Crabapple,Planted,b058e76d-a7b8-43f8-b558-03a44deca9bc,Malus,Fair,AET33,,,,43.7012141409924,-72.2809085934976
+1888,,,,,14,8,No,Crabapple,Planted,24def0ea-474b-4e28-9c91-4d1cefa171da,Malus,Poor,AET36,,,,43.7008396202006,-72.2808779088562
+1889,,,,,16,12,No,Crabapple,Planted,4fffaa76-1c82-4fa2-a11d-c15428f8af61,Malus,Poor,AET37,,,,43.7007642659069,-72.2808993665283
+1890,,,,,16,4,No,Arborvitae hedge,Planted,9294212f-2101-4e5a-8b2e-9e3fea535fba,Thuja occidentalis,Good,AET45,,,,43.6999354397123,-72.2797621099058
+1891,,,,,75,22,No,Pin Oak,Planted,cdfd05be-b97e-44ef-b8c0-79b4f6034975,Quercus palustris,Good,AET46,,,,43.7007354893028,-72.2795873372384
+1892,,,,,12,5,No,Crabapple,Planted,84a05915-be94-47b6-a389-e2916a9f4256,Malus,Good,AET47,,,,43.6999265583666,-72.2802924366849
+1893,,,,,12,5,No,Crabapple,Planted,a3024ecd-1e8d-40fc-96b1-8c920d754a0a,Malus,Good,AET48,,,,43.6999309796883,-72.28014223298
+1894,,,,,12,5,No,Crabapple,Planted,83e9d8eb-836a-486f-a13f-74e065469270,Malus,Good,AET49,,,,43.7000152163633,-72.2801177175503
+1895,,,,,12,5,No,Crabapple,Planted,93c7b9de-5f67-4698-aca5-a0122cb6f714,Malus,Good,AET50,,,,43.699990821837,-72.2800104288623
+1896,,,,,12,5,No,Crabapple,Planted,abef1244-d096-4d1f-bcf8-d9ba2e82e6d6,Malus,Good,AET51,,,,43.7000174270209,-72.2798602254849
+1897,,,,,30,10,No,Pin Oak,Planted,b72af7e0-d8c3-469f-ac91-6e6e76f934d4,Quercus palustris,Good,AET52,"Louise Rogers for Rogers, Scotty",,,43.7016786245713,-72.2795001973608
+1898,,,,,35,10,No,Pin Oak,Planted,503cc995-4804-46fe-a5a4-83afc691a429,Quercus palustris,Good,AET53,"Louise Rogers for Rogers, Scotty",,,43.7017739116378,-72.2794971396033
+1899,,,,,40,12,No,Pin Oak,Planted,8acecf63-7d01-4a31-9744-50bd26206b18,Quercus palustris,Good,AET54,,,,43.7015855479533,-72.279420535884
+1900,,,,,45,12,No,Pin Oak,Planted,add3f649-da01-4911-872f-331be988a2eb,Quercus palustris,Good,AET55,,,,43.7016099030109,-72.2792611052099
+1901,,,,,20,6,No,American Elm,Planted,4ce97e35-0c65-4d95-b699-14b31633117f,Ulmus americana,Fair,AET56,,,,43.701536760287,-72.2788564671971
+1902,,,,,20,4,No,Miscellaneous Larch and Spruce,Planted,d1bc2506-c7c2-4ec9-ba0d-98099abee9c4,Miscellaneous conifers,Fair,AET58,,,,43.6992341908267,-72.2804014195899
+1903,,,,,10,3,No,Ginkgo,Planted,5e5bf96e-d505-40af-b724-2883258abdf0,Ginkgo biloba,Fair,AET79,"Mens Lacrosse 2001 for Demaine, Matt",2017,,43.6995715868201,-72.2788009992984
+1904,,,,,40,8,No,Callery Pear,Planted,28707a7f-a13a-4310-82ea-69da89bc0d53,Pyrus calleryana,Good,NC03,,,,43.7083870503433,-72.2855877948637
+1905,,,,,40,8,No,Callery Pear,Planted,680f610b-7339-460d-aa5f-01fc387e8859,Pyrus calleryana,Good,NC04,,,,43.7084313730432,-72.2855295370351
+1906,,,,,40,8,No,Callery Pear,Planted,557273bc-d396-4054-bae6-ed9eb9ceaa3a,Pyrus calleryana,Good,NC05,,,,43.708500086784,-72.2854498221891
+1907,,,,,40,8,No,Callery Pear,Planted,85ec67e2-879e-41ac-8cb6-4b12905a05c6,Pyrus calleryana,Good,NC06,,,,43.7085710107883,-72.285409964275
+1908,,,,,40,8,No,Callery Pear,Planted,14d892db-afff-40a9-8c3f-a4af396ee9d6,Pyrus calleryana,Good,NC08,,,,43.7086418957751,-72.285336417986
+1909,,,,,40,8,No,Callery Pear,Planted,2e45f62a-0f07-45d1-843d-3fd681542fd2,Pyrus calleryana,Good,NC09,,,,43.7087083990558,-72.2852781604847
+1910,,,,,10,6,No,Kousa Dogwood,Planted,a0112ce9-9b4d-4eca-bf45-1157719d0298,Cornus kousa,Poor,NC10,,,,43.7088125161643,-72.2851586410939
+1911,,,,,35,10,No,Red Maple,Planted,a385b210-a95d-4908-b68a-3c725b920f5e,Acer rubrum,Fair,NC15,,,,43.7094174774211,-72.2850849874116
+1912,,,,,30,12,No,Red Maple,Planted,d3442573-5e91-41e8-a2e5-e89a8df07e91,Acer rubrum,Fair,NC13,,,,43.7092756701466,-72.2851647562816
+1913,,,,,35,10,No,Red Maple,Planted,6ab1b555-7a9e-4e59-964e-e86cb8e7da59,Acer rubrum,Fair,NC12,,,,43.7092136269473,-72.2852812716114
+1914,,,,,30,8,No,Red Maple,Planted,2a7dad63-737f-4fec-9442-6c6c8b3677f5,Acer rubrum,Fair,NC11,,,,43.7090983815296,-72.285391564033
+1915,,,,,10,6,No,Shad,Planted,b6311698-04dd-40ee-998c-0578697a8837,Amelanchier,Poor,NC16,,,,43.7092019840774,-72.2848582470674
+1916,,,,,10,6,No,Shad,Planted,e7286c53-c63e-4a72-9e75-01923a398ae2,Amelanchier,Poor,NC17,,,,43.7092424188005,-72.2847632164217
+1917,,,,,10,6,No,Shad,Planted,ebde2cec-aa3c-4d20-9a01-145b08ba7a2c,Amelanchier,Poor,NC18,,,,43.7092579295988,-72.2847088077202
+1918,,,,,10,6,No,Shad,Planted,80f9b90e-7c9c-4d57-b0af-56dccf25335b,Amelanchier,Poor,NC19,,,,43.7092817580568,-72.2847701230199
+1919,,,,,10,6,No,Shad,Planted,cfc66c4f-6855-4b23-983b-14e9319c34cb,Amelanchier,Poor,NC20,,,,43.7093271755781,-72.2847501942265
+1920,,,,,10,6,No,Shad,Planted,71e89eaa-c8e4-4131-ada8-85e6178c82cc,Amelanchier,Poor,NC21,,,,43.7092950391813,-72.284699621228
+1921,,,,,16,6,No,Honeylocust ,Planted,2bc6c0d6-6253-4035-93d8-0298c5f67e58,Gleditsia triacanthos,Good,AET80,,,,43.6999649836563,-72.2786059790032
+1922,,,,,45,12,No,White Pine,Planted,9e6d90d9-2cf5-4d8e-bd54-fc8c0b1c68b1,Pinus strobus,Poor,AET44,,,,43.7004616018791,-72.2807074897664
+1923,,,,,40,12,,White Pine,Planted,e1b2bb78-cbf5-4340-82ed-a005097aa433,,,,,,,43.7003507512097,-72.280666586079
+1924,,,,,40,12,,White Pine,Planted,e96d074a-5d2b-414e-bef3-8264911577a0,,,,,,,43.7002952630107,-72.2806552705097
+1925,,,,,40,12,,White Pine,Planted,be7ce148-d785-49cf-9bfe-4e1640a6e2d7,,,,,,,43.7002130365406,-72.2806447093117
+1926,,"Tue, 02 Jul 2024 12:25:32 GMT",Scott Melendy,,30,12,No,American elm,Planted,aeffcf83-7a28-4db0-8a61-982e1d560337,Ulmus americana,Fair,TC136,"E. King for Landsberger, Mark",2013,Arbotect 7/2024,43.7052123652561,-72.2921494147195
+1927,,,Scott Melendy ,,30,12,No,American Elm,Planted,33f6699c-3661-402d-b7fd-dc47a52d9a7e,Ulmus americana,Fair,TC135,Michael Lazar for Class of 1991,2013,Arbotect 7/2024,43.70521015479,-72.292406906703
+1930,,,,,65,35,No,American Elm,Planted,040e4deb-17fa-4f19-95d1-4b84b0fbc863,Ulmus americana,Fair,TC56,,,"Arbotect 2016, 2020",43.704936467053,-72.2928360601453
+1931,,,,,60,31,No,American Elm,Planted,75a6c6ba-3f0f-4e08-af10-d9c11cd92caf,Ulmus americana,Good,TC85,,,"Arbotect 2017,2020,2023",43.7052179106818,-72.2930598098935
+1932,,,,,18,5,No,Honeylocust,Planted,1e5690c6-3348-490c-8cdc-95e27c307633,Gleditsia triacanthos,Good,TC129,,,,43.7041309667563,-72.2944116697575
+1933,,,,,18,5,No,Honeylocust,Planted,477eb9e4-1a74-4532-ad00-207fbff14582,Gleditsia triacanthos,Good,TC130,,,,43.704173082158,-72.2944254563511
+1934,,,,,18,5,No,Honeylocust,Planted,b4e1cf7c-8fcb-4626-8838-24ee8a129b73,Gleditsia triacanthos,Good,TC131,,,,43.7042196184765,-72.2943993852762
+1935,,,,,18,5,No,Honeylocust,Planted,20002b50-e412-4b19-b3c0-bd7369228a71,Gleditsia triacanthos,Good,TC132,,,,43.7042772264942,-72.2944193140695
+1936,,,,,18,5,No,Honeylocust,Planted,7c3369f1-f5c5-44e1-b968-ba98a6ef598c,Gleditsia triacanthos,Good,TC133,,,,43.7043902319558,-72.2944300429056
+1937,,,,,18,5,No,Honeylocust,Planted,8312c3bc-295d-497c-84a8-aac4fa324f50,Gleditsia triacanthos,Good,TC134,,,,43.704434557611,-72.2944070295064
+1938,,,,,12,4,No,Yellowwood,Planted,5cfb4601-f102-4d10-923f-8a5da467b9f4,Cladrastis kentukea,Fair,NC125,,,,43.7094671396723,-72.2848331215244
+1939,,,,,16,4,No,Green Ash,Planted,bf437d9f-095b-4ba1-828d-5d46a1d4f68b,Fraxinus pennsylvanica,Fair,NC23,,,,43.7097657109533,-72.2845434024736
+1940,,,,,20,6,No,Green Ash,Planted,92b502f6-f9d3-4261-8b49-e096b93143d0,Fraxinus pennsylvanica,Fair,NC24,,,,43.7098648724699,-72.2844453141113
+1941,,,,,16,8,No,Green Ash,Planted,1ba72a4f-940d-488f-bdef-804bb0b70bfc,Fraxinus pennsylvanica,Fair,NC29,,,,43.7099568213843,-72.2841019913575
+1942,,,,,24,8,No,Green Ash,Planted,b0d259dd-ca0f-4fca-b9fb-ab8c6b088a96,Fraxinus pennsylvanica,Fair,NC28,,,,43.7101058394386,-72.2839264944413
+1943,,,,,12,4,No,Green Ash,Planted,be6175e6-fe10-484c-bcfe-4e398832aa64,Fraxinus pennsylvanica,Fair,NC26,,,,43.7106065962911,-72.2837479264253
+1944,,,,,20,8,No,Green Ash,Planted,4200019b-ff06-4a16-a0cd-b8c766a6cc56,Fraxinus pennsylvanica,Fair,NC27,,,,43.7105329216209,-72.28349043436
+1945,,,,,14,6,No,Green Ash,Planted,1562a633-1971-41cd-a17a-80e2d4725d4a,Fraxinus pennsylvanica,Poor,NC126,,,,43.7096227702474,-72.2826980292066
+1946,,,,,14,6,No,Green Ash,Planted,8b430398-15ef-4a84-9b8c-6f04bab3530f,Fraxinus pennsylvanica,Poor,NC127,,,,43.7096416060312,-72.2826076119228
+1947,,,,,14,6,No,Green Ash,Planted,6143da82-5c1d-4bc6-af5f-83a6f4aa3a10,Fraxinus pennsylvanica,Poor,NC128,,,,43.7097086316077,-72.2824022352408
+1948,,,,,14,6,No,Green Ash,Planted,7a9f5287-b40a-46c2-ba60-d18e4605020f,Fraxinus pennsylvanica,Poor,NC129,,,,43.7097535059197,-72.2822849690594
+1949,,,,,14,6,No,Green Ash,Planted,098c013e-0fff-404c-85ce-371f031cdf52,Fraxinus pennsylvanica,Poor,NC130,,,,43.7097839746735,-72.282197596068
+1950,,,,,16,6,No,Green Ash,Planted,d1a274ec-4424-47fc-8d5e-ab52dacc243d,Fraxinus pennsylvanica,Poor,NC131,,,,43.7093136605194,-72.2825401543824
+1951,,,,,16,6,No,Green Ash,Planted,a9294c99-82d2-420b-ad43-1b3559865e66,Fraxinus pennsylvanica,Poor,NC132,,,,43.7093347066997,-72.2824167727678
+1952,,,,,12,5,No,Green Ash,Planted,c0c2a923-84d6-4394-83e4-ccdbdc44ccf5,Fraxinus pennsylvanica,Poor,NC133,,,,43.7093635179613,-72.2822857334988
+1953,,,,,18,6,No,Green Ash,Planted,4def0595-3179-4ee0-b6b2-c197a67799f6,Fraxinus pennsylvanica,Poor,NC134,,,Mectanite 6-13-24,43.7093878989553,-72.2822060317496
+1954,,,,,18,6,No,Green Ash,Planted,ea7cc1f7-4e3f-43d2-9831-daf6faffb963,Fraxinus pennsylvanica,Poor,NC135,,,,43.709410612517,-72.2820642501386
+1955,,,,,14,5,No,Green Ash,Planted,c5a9c2ad-8c08-463f-a62d-8e28fd32c29c,Fraxinus pennsylvanica,Poor,NC136,,,,43.709182371315,-72.2826734870105
+1956,,,,,14,5,No,Green Ash,Planted,0b2e4189-2bed-422b-b93b-c1d1cce35ae8,Fraxinus pennsylvanica,Poor,NC137,,,,43.7091995398386,-72.282591478519
+1957,,,,,14,5,No,Green Ash,Planted,de462a49-bdcd-4d2d-92f7-faf7b5ed2209,Fraxinus pennsylvanica,Poor,NC138,,,,43.7092294466204,-72.2824635103499
+1958,,,,,14,,No,Green Ash,Planted,d2382c29-4811-4051-b7cc-a6a103cdee6d,Fraxinus pennsylvanica,Poor,NC139,,,,43.7092421945549,-72.2823677151829
+1959,,,,,14,4,No,Green Ash,Planted,5fdd2d15-7a79-4b22-8da8-279f4896d6d0,Fraxinus pennsylvanica,Poor,NC140,,,Mectanite 6-13-24,43.7092738041389,-72.2822267832055
+1960,,,,,14,4,No,Green Ash,Planted,75b8524b-0b93-4ae5-9111-547e6cb24df9,Fraxinus pennsylvanica,Poor,NC141,,,,43.7093026347484,-72.282157796704
+1961,,,,,14,4,No,Green Ash,Planted,55526adb-dfb7-43a1-8d0e-92d81a66f4a8,Fraxinus pennsylvanica,Poor,NC143,,,,43.7093480619576,-72.281940135377
+1962,,,,,14,4,No,Green Ash,Planted,32184d77-242b-4680-b20b-6d8d8b6d15d0,Fraxinus pennsylvanica,Poor,NC144,,,,43.7086018946534,-72.2818671357125
+1963,,,,,14,4,No,Green Ash,Planted,ec665345-f03f-4ed0-bc51-0e05dbc4df29,Fraxinus pennsylvanica,Poor,NC145,,,,43.7086140901067,-72.2817690204609
+1964,,,,,15,8,No,Crabapple,Planted,2211f316-ed3b-42d5-9983-7a618eb9e346,Malus,Fair,NC32,,,,43.7096909871594,-72.2840128759936
+1965,,,,,14,6,No,Crabapple,Planted,6b91b265-c05c-4a84-98db-efc51ed3795c,Malus,Fair,NC31,,,,43.7097541156065,-72.2840772488462
+1966,,,,,14,6,No,Crabapple,Planted,d20b38b3-3afc-4a8b-860b-10c08a7105cb,Malus,Fair,NC30,,,,43.7098172827425,-72.2841324219053
+1968,,,,,25,10,No,Honeylocust,Planted,7836f49d-e92c-4d70-bff2-f52dd8d87326,Gleditsia triacanthos,Poor,TC51,,,,43.7046811816219,-72.2944553465361
+1969,,,,,55,18,No,Littleleaf linden,Planted,4089dc68-530e-4846-b3da-03cf9d7ab4d3,Tilia cordata,Fair,TC49,Dartmouth Institute 1985 for Dartmouth Institute,,,43.7048096982419,-72.2945028752831
+1978,,,,,85,22,No,White Pine,Planted,067efdd9-210e-49d8-93dc-15a1fc009e9d,Pinus strobus,Fair,TC88,,,,43.7053262629451,-72.2930086093689
+1979,,,,,90,28,No,European Larch,Planted,1913f51a-589a-4a8c-b940-c07c4479697a,Larix decidua,Fair,TC94,,,,43.7054659078647,-72.292809428665
+1980,,,,,90,30,No,White Pine,Planted,6b6088cd-c03d-4b7c-bfca-d1de78f082b7,Pinus strobus,Fair,TC96,,,,43.7052929900881,-72.2927480592185
+1982,,,,,18,6,No,Paper Birch,Planted,930aa73e-7730-4453-820f-85cb11d4b47e,Betula papyrifera,Good,TC86,,2016,,43.7052952005512,-72.2933213010144
+1983,,,,,40,18,No,Sugar Maple,Planted,70645ed3-5cef-4da9-9cec-7c9dcac3ca6d,Acer saccharum,Fair/ root zone was exposed and left dug up during construction ,TC77,"Multi for Utts, Thomas",,,43.7052043400144,-72.2934653892041
+1984,,,,,50,30,No,Red Oak ,Planted,d020bf82-2459-4e3d-82bd-261542103464,Quercus rubra,Good/needs cable update,TC76,"Longell, Michael C.",,,43.7052132205783,-72.2936278237755
+1986,,,,,55,24,No,Red Oak,Planted,e4309ea9-2ee7-4ad2-8bad-3676d8356e9c,Quercus rubra,Good,TC71,,,,43.7054835525802,-72.2940202309217
+1989,,,,,45,32,No,Red Oak,Planted,328a1514-8ffe-4fd9-b6af-7e6fa196b41c,Quercus rubra,Good,TC68,"Tuck 1987 for Barclay, Stuart",,,43.7054082427041,-72.2944218648734
+1994,,,,,10,10,No,Magnolia,Planted,ba47590a-c0eb-4e95-9d7a-7ad6e9074734,Magnolia stellata,Good,TC58,,,,43.7049760537943,-72.2923964689669
+1995,,,,,16,5,No,"Oak, Swamp White",Planted,afcc0930-ad84-4b1f-b133-a1ac9314b82b,Quercus bicolor,Good,WC166,,,,43.7053217356441,-72.2919948883843
+1996,,,,,18,6,No,Red Oak,Planted,fae51ebe-1353-4fcc-85bd-0283eb932c83,Quercus rubra,Good,WC168,,,,43.7054679730385,-72.2921543192221
+1997,,,,,55,18,No,Red Oak,Planted,d8879fe1-5be5-42e2-a2fe-5e9b79f267e6,Quercus rubra,Fair,RV02,,,,43.7037416814879,-72.2975339720165
+1998,,,,,35,16,No,Yellowwood,Planted,bc0c5939-a314-402f-a0b4-8621b3d5950b,Cladrastis kentukea,Fair,RV03,,,,43.7038546879886,-72.2975952872753
+1999,,,,,50,18,No,Linden,Planted,c66d3015-5fe8-432e-8897-e6b75efe74ae,Tilia cordata,Fair,RV04,,,,43.7039057730399,-72.2974164925893
+2000,,,,,65,32,No,Pin oak,Planted,9de9d254-a849-4847-83ac-5b0384882e30,Quercus palustris,Fair,RV05,,,,43.7038947012361,-72.2972126447861
+2001,,,,,24,24,No,Red maple,Planted,b6c62aa1-fd22-4a00-8f61-67a1a952a189,Acer rubrum,Poor,RV09,,,,43.7037706036339,-72.2965842299314
+2002,,,,,65,32,No,"Red oak , (cabled large lead over parking march 2024)",Planted,4c7c0c2c-58e7-474e-9e9c-294ff890095a,Quercus rubra,Fair,RV60,,,,43.7040157347791,-72.2966606724804
+2003,,,,,65,34,No,Red oak,Planted,6980d245-70cf-49f7-88dd-b0f1cfbba005,Quercus rubra,Fair,RV10,,,,43.7036257579371,-72.296403180415
+2004,,,,,20,12,No,Crabapple,Planted,591dcb42-c173-4241-ab1e-f66d3f74b834,Malus,Fair,RV21,,,,43.7037365153175,-72.2958145959711
+2005,,,,,24,14,No,Crabapple,Planted,ff31602f-e788-41c0-9ddc-12162554de3b,Malus,Fair,RV22,,,,43.7038251675619,-72.2960230571772
+2006,,,,,20,12,No,Crabapple,Planted,27b9191d-7500-4353-99c5-d89ef0093688,Malus,Fair,RV24,,,,43.7036301789861,-72.2961150033807
+2007,,,,,24,12,No,Crabapple,Planted,f1a6d3cd-8b2e-4eda-b799-e37c655e715a,Malus,Fair,RV25,,,,43.7037897223493,-72.2962437494135
+2008,,,,,35,18,No,Red maple,Planted,61bed952-3b5b-4e43-a520-1c55ec003c65,Acer rubrum,Fair,RV27,,,,43.7039404232366,-72.2963356956171
+2009,,,,,35,28,No,Linden,Planted,0ec0e1ad-1778-473f-aa6d-cfceb5d58a5b,Tilia cordata,Fair,RV30,,,,43.7041620142664,-72.2959923728632
+2010,,,,,35,24,No,Linden,Planted,1415afc8-171d-41b9-bc40-09caf45690e6,Tilia cordata,Fair,RV33,,,,43.704188617481,-72.2957409963129
+2011,,,,,35,24,No,Linden,Planted,1fa8a756-f716-4119-988c-af246b670f0a,Tilia cordata,Fair,RV39,,,,43.7043481593579,-72.2958206040931
+2012,,,,,35,24,No,Linden,Planted,9bbb2640-e935-4ead-957d-34ab5e7d9012,Tilia cordata,Fair,RV42,,,,43.7044013656101,-72.296053634098
+2013,,,,,45,24,No,Sugar maple,Planted,158539ec-bf84-4960-b47b-7d38e34ea1eb,Acer saccharum,Poor,RV59,,,,43.7041044641879,-72.2966298806101
+2014,,,,,25,8,No,Hybrid maple,Planted,3c1074db-1139-4b6c-b263-16c03ed33a1b,Acer 'Freeman',Good,RV63,,,,43.7041576319566,-72.2968843147543
+2015,,,,,20,12,No,Crabapple,Planted,f980a3d2-85c8-48e4-9e7f-c4a4c86d9530,Malus,Fair,RV64,,,,43.7042928199582,-72.2969241188081
+2016,,,,,45,20,No,Norway maple,Planted,aa120628-40b9-4b89-950a-07dcf4a4b90f,Acer platanoides,Fair,RV67,,,,43.7045228220497,-72.2969779327455
+2017,,,,,20,8,No,Hybrid maple,Planted,eeb8b09d-b7b6-4ac2-a82f-e06b7dfa3d07,Acer x freemanii,Good,RV71,,,,43.7045526632336,-72.2965042815473
+2018,,,,,20,8,No,Hybrid maple,Planted,1e673afa-6a23-49e2-84bc-fe4337dcada7,Acer x freemanii,Good,RV72,,,,43.7045116727239,-72.296510423747
+2019,,,,,20,8,No,Hybrid maple,Planted,e336a2bf-e00d-4542-9c30-c3b33cd13153,Acer x freemanii,Good,RV73,,,,43.7044717874033,-72.296485908481
+2020,,,,,20,8,No,Hybrid maple,Planted,e8cb3c4a-b8c9-411c-b635-2dfbb0d63915,Acer x freemanii,Good,RV74,,,,43.7044274617756,-72.2964245930585
+2021,,,,,20,8,No,Hybrid maple,Planted,d8bad753-dbc8-40d2-9a31-2682643a5153,Acer x freemanii,Good,RV75,,,,43.7043975622727,-72.2963709488782
+2022,,,,,20,8,No,Hybrid maple,Planted,7a2d0777-1071-49c8-bed1-7fcdad381f1a,Acer x freemanii,Good,RV76,,,,43.7044429738199,-72.2962253318098
+2023,,,,,12,6,No,Star magnolia,Planted,d7105d70-62ac-4c78-99ef-81d73400c806,Magnolia stellata,Poor,RV77,,,,43.7047055727174,-72.2962943181471
+2024,,,,,14,6,No,Star magnolia,Planted,22fd2017-95e2-4ca7-bcd9-35241840b8b1,Magnolia stellata,Poor,RV78,,,,43.7046789890523,-72.2960705147022
+2025,,,,,16,5,No,Yellowwood,Planted,a8055be8-1de5-4c7c-9a99-763657a5198b,Cladrastis kentukea,Good,RV112,,,,43.7045881275224,-72.2961425856453
+2026,,,,,14,5,No,Red oak,Planted,f5748e23-e466-408c-9c1d-511cdfb77365,Quercus rubra,Good,RV79,,,,43.7045925678502,-72.2958728360289
+2027,,,,,14,5,No,Swamp white oak,Planted,019d00cd-8b49-4d81-a053-b370a28b1b94,Quercus bicolor,Good,RV80,,,,43.7046346635187,-72.2959448532754
+2028,,,,,12,4,No,Juniper hedge,Planted,577d5e9c-3f76-435e-b18c-21d9f2ef0c07,Juniperus virginiana,Fair,RV101,,,,43.7046036395548,-72.295356269241
+2029,,,,,,,,Silver Maple,Planted,ddda69f7-c8d5-48be-bbdc-1de7fddf7d3e,Acer saccharinium,,,,,,43.7065833167212,-72.2904844302455
+2030,,,,,65,48,No,Silver maple,Planted,6cb5845d-92e3-4911-814b-b2dd65835be9,Acer saccharinum,Poor,TC100,,,,43.7054698141948,-72.2926378954244
+2031,,,,,35,10,No,Honeylocust,Planted,98f915b9-c6ad-4e05-96a1-01acc27d80d1,Gleditsia triacanthos,Good,BL102,,,,43.707301260245,-72.287573429406
+2032,,,,,35,10,No,Honeylocust,Planted,74d96215-d538-4078-9bbe-01c035fde440,Gleditsia triacanthos,Good,BL105,,,,43.7072503055371,-72.2874753139907
+2033,,,,,50,32,No,Norway maple,Planted,7aceb5ff-def1-4136-affc-64d14b436770,Acer psuedoplatanum ,Fair,,,,,43.7048907250971,-72.2857743505437
+2034,,,,,45,9,No,,Ingrowth,848cfb5a-505e-4d65-9b19-c331cbe60cae,Picea abies ,Fair,,,,,43.7048877079871,-72.2857341167988
+2035,,,,,90,20,No,Tamarack,Ingrowth,423655ca-17dc-44c8-b776-ff3917eea98c,Larix larcinia ,Good,,,,,43.7049071120407,-72.2857094742139
+2036,,,,,65,36,No,Red oak,Ingrowth,e07f89c7-e5e4-4f0c-93f7-1fae5f6083be,Quercus rubra ,Fair ,,,,,43.7047494902895,-72.2859018385505
+2037,,"Tue, 16 Jul 2019 15:05:06 GMT",,,90,40,Yes,White pine removed 2019,Ingrowth,227d9b78-3aa2-497f-b830-9985c9f663d4,Pinus strobus ,Poor,OC108,,,,43.7046068719218,-72.2858785371504
+2038,,,,,80,25,No,Norway spruce,Ingrowth,a6513091-bf5a-445e-8b7a-9f784fb6be99,Picea abies ,Good ,,,,,43.7045745595913,-72.2860458402872
+2039,,,,,50,23,No,,Ingrowth,1d308676-9a58-497f-98f1-266a3499418f,Picea abies ,Good,,,,,43.7045444688518,-72.2860561502517
+2040,,,,,90,18,No,Tamarack ,Ingrowth,2802dbf2-acde-4d45-bf7f-e1d62648588f,Larix larcina ,Good ,,,,,43.7048678006424,-72.2856114060326
+2041,,"Tue, 16 Jul 2019 04:00:00 GMT",Beaty,,70,32,Yes,Norway maple,Ingrowth,ef99e474-484a-4e54-a777-76d7f4cd8676,"Acer pseudoplatanus, removed 2020.",Poor,WH121,,,,43.7035413663331,-72.2852625039109
+2042,,,,,70,24,No,American elm,Planted,c94d9bea-0211-494a-99ef-705b9e070e46,Ulmus americana,Poor,OC75,,,,43.7043094391856,-72.2859527176303
+2043,,,,,,,,,Planted,3782dcbc-f785-4bb6-a999-e276002f2b75,Pinus strobus,,OP100,,,,43.712842323057,-72.2860139192234
+2044,,,,,16,10,No,Crabapple,Planted,db33db49-fd5d-41fe-a218-1ac553fcd0b3,Malus,Fair,WH112,,,,43.704173955471,-72.2860062285425
+2045,,,,,16,10,No,Crabapple,Planted,326a7619-1c39-4efa-9808-5551a2bc3aff,Malus,Fair,WH113,,,,43.7041185385106,-72.2860460861292
+2046,,,,,16,10,No,Crabapple,Planted,23467bb6-05f4-4957-b5d5-3361fa333887,Malus,Fair,WH114,,,,43.7041185385106,-72.2859633131982
+2047,,,,,16,10,No,Crabapple,Planted,521eee9a-1e00-4551-b244-5885b3b5178a,Malus,Fair,WH115,,,,43.7040697916055,-72.2860092863
+2048,,,,,16,10,No,Crabapple,Planted,bfefa84f-bb2b-4646-b42e-2fc1838ba765,Malus,Fair,WH116,,,,43.7040808827269,-72.2858989401819
+2049,,,,,75,26,No,White pine,Ingrowth,75133c17-bd34-45c6-84e4-9276116a0d97,Pinus strobis ,Good,TC106,,,,43.7053193337012,-72.2924828900338
+2050,,"Fri, 31 Jan 2020 05:00:00 GMT",,,85,30,No,White pine,Ingrowth,d7698046-11d8-427f-88ac-a5da5ed6ef01,Pinus strobis ,Good,TC101,,,,43.7053843918542,-72.2924249345277
+2051,,,,,35,10,No,White pine,Ingrowth,3767384c-39a4-480d-93dd-1e7fd431705d,Prunus serotina ,Fair ,TC98,,,,43.7054209223424,-72.2924775261932
+2052,,,,,85,30,No,White pine,Ingrowth,a63c084c-0529-4d4a-b2d3-82fbf444fbde,Pinus strobis ,Good ,TC97,,,,43.7054107801105,-72.2925451675375
+2053,,,,,80,24,No,White pine,Ingrowth,e4f8a143-6808-48a7-b48e-459e29630328,Pinus strobis ,Fair ,TC97,,,,43.7053877298723,-72.2927777656191
+2054,,,,,40,10,No,Sweet birch,Ingrowth,0539f3b0-6f50-41ce-9da2-0e76b37e646c,Betula lenta ,Good ,TC99,,,,43.7054145102285,-72.2927987206197
+2055,,"Fri, 31 Jan 2020 05:00:00 GMT",,,12,4,No,White pine,Planted,b023a8aa-62be-471f-9f6e-f22c6e0315ec,Pinus strobis,Fair,TC122,,,,43.7053683154979,-72.2929363984835
+2056,,,,,65,18,No,Canadian hemlock,Planted,0093a7ea-6c09-4be8-87d3-e7840d683403,Tsuga canadensis,Fair ,TC83,,,,43.7053175566187,-72.2933935102748
+2057,,,,,90,24,No,European larch,Planted,59956e8c-a338-4ffc-ace8-3eaf53b3fe7c,Larix decidua,Good ,TC79,,,,43.7052790588707,-72.2934704457548
+2058,,,,,85,16,No,European larch,Planted,e8166df2-7aca-48a7-90ee-e01dd6beb438,Larix decidua,Fair ,TC80,,,,43.7053103649087,-72.2934697756116
+2059,,,,,85,30,No,Canadian hemlock,Planted,1fe449f1-c9c8-4ae8-92cb-f04b6892653a,Tsuga canadensis,Good ,TC82,,,,43.7053391149134,-72.2935039735762
+2060,,,,,12,4,No,Norway spruce,Planted,80cec5cd-6cbe-490b-98c9-780109646e21,Picea abies,Good,TC140,,,,43.7053643108394,-72.2930638438997
+2061,,,,,12,4,No,Fraser fir,Planted,67fe17f1-435a-462c-b6b7-67ed8cf85c6b,Abies fraseri,Good,TC141,,,,43.7053371651763,-72.2931121236619
+2062,,,,,12,4,No,Fraser fir,Planted,964d7c9c-8009-4d14-9734-3705af638503,Abies fraseri,Good,TC142,,,,43.7053578540175,-72.2933553195074
+2063,,,,,12,4,No,Fraser fir,Planted,367cc6f8-4a7e-4390-866e-8e97bd2030a5,Abies fraseri,Good,TC144,,,,43.7053423615298,-72.2933016220398
+2064,,,,,12,4,No,Fraser fir,Planted,72719afd-8080-4b0c-9d1c-ba796bb507e2,Abies fraseri,Good,TC145,,,,43.7053358853561,-72.2932551125454
+2065,,"Sat, 12 Sep 2020 18:32:06 GMT",,,20,3,No,American elm ‘Princeton’,Planted,d778c554-6481-48f3-bd7e-d2dcf077bc2c,Unmusical americana ,Good,,,,,43.7033653858536,-72.2901849609094
+2066,,"Sat, 12 Sep 2020 18:46:36 GMT",,,40,8,,Red oak   Pruned for structure march 2024,Planted,03b34f12-add2-49c2-b972-fbc907cbe506,Quercus rubra ,Good,,,,,43.7037771304076,-72.2902847826021
+2067,,"Sat, 12 Sep 2020 18:52:08 GMT",,,34,6,No,Red oak,Planted,0e838c36-90b2-42b5-a51b-598bbd90a351,Quercus rubra,Good,,For Tina Overman,,,43.7038419669694,-72.2902914516948
+2072,,,,,20,5,No,Group,Planted,7b9a14c1-dd0f-45ca-bfcd-49d71e3e5409,Betula nigra,Fair,AW202,,2017,,43.7022389706266,-72.2851052566799
+2073,,,,,12,6,No,Amelancier ,Planted,de7c9785-ae10-4803-975f-9d82e5155ad5,Amelanchier canadensis,Fair,WC160,Conorroe for Mc Cullough,2015,,43.7046223783535,-72.2907378613904
+2074,,"Tue, 27 Jul 2021 04:00:00 GMT",Beaty,,4,3,No,Dawn Redwood,Planted,58caae5a-df7f-40ee-a13e-c47ea93d620a,Metasequoia glyptostroboides,Fair,WF01,Wright,2019,,43.7042193559545,-72.2987465426491
+2075,,,,,11,3,No,American elm,Planted,bbddf101-f770-470a-b74e-9630e900acf6,Ulmus americana ,Good ,ML400,,2020,,43.708120166236,-72.2866778918894
+2076,,,,,12,3,No,Red oak,Planted,01190c64-106f-49cd-afd4-e599ecb9e3d9,Quercus rubra ,Good,ML401,,2020,,43.7079996567199,-72.2865958607693
+2077,,"Tue, 28 Sep 2021 13:36:17 GMT",,,12,4,No,,Planted,99f7ec3f-8491-485a-bcc9-1b168f91d323,Ulmus americana ,Good ,ML402,,2020,,43.7080614410817,-72.2865536440812
+2078,,"Tue, 28 Sep 2021 13:41:14 GMT",,,14,4,No,Elm hybrid ,Planted,68850735-4ebf-4a95-945e-6e639a6637aa,Ulmus X,Fair ,AN01,,2020,,43.707966590356,-72.2862787734403
+2079,,"Tue, 28 Sep 2021 13:43:14 GMT",,,14,4,No,Red oak,Planted,bf241e82-1062-48a8-bf63-4023bda3b805,Quercus rubra ,Good,AN02,,2020,,43.7080541391332,-72.2862858135372
+2080,,"Tue, 28 Sep 2021 14:10:15 GMT",,,12,2,No,American elm ,Planted,7306d528-cd33-41e3-a233-03b22c5c2e7e,Ulmus americana ,Good ,AN03,,2020,,43.7081077854165,-72.286204168998
+2081,,"Tue, 28 Sep 2021 14:12:20 GMT",,,11,2,No,,Planted,40a5fb3f-8e07-493e-8fef-50a3391b6c75,Ulmus americana ,Good ,AN04,,2020,,43.7081408501028,-72.2859690621782
+2082,,"Tue, 28 Sep 2021 14:15:24 GMT",,,15,4,No,Hybrid elm,Planted,5a00d794-df58-4119-873f-e8dd3615c665,Ulmus X,Fair ,AN05,,2020,,43.7080716667959,-72.2859783336902
+2083,,"Tue, 28 Sep 2021 14:18:19 GMT",,,14,4,No,Hybrid elm,Planted,737b5a67-ba8e-41da-90ed-31396c256e61,Ulmus X,Poor ,AN06,,2020,,43.7079983333124,-72.2860516667601
+2084,,"Tue, 28 Sep 2021 14:19:57 GMT",,,12,4,No,Hybrid elm,Planted,4cbaaf6e-a34a-4b53-8627-a657d3dd0cc3,Ulmus X,Poor,AN07,,2020,,43.7079450002268,-72.2860916669431
+2085,,"Tue, 28 Sep 2021 14:21:31 GMT",,,12,3,No,Hybrid elm ,Planted,017bfc71-be5b-4e38-906b-c408d945bf4e,Ulmus americana ,Poor,AN08,,2020,,43.7078883332437,-72.2860766668745
+2086,,"Tue, 28 Sep 2021 14:23:50 GMT",,,12,3,No,,Planted,c901914b-96dc-4bbb-930f-7ef2f07d1b74,Ulmus americana ,Good ,AN09,,2020,,43.7080000002344,-72.285836666675
+2087,,"Tue, 28 Sep 2021 14:25:11 GMT",,,9,3,No,Red oak,Planted,b5cd2ffa-403c-441e-89d4-1caa96347511,Quercus rubra ,Fair ,AN10,,2020,,43.7080449999669,-72.2856616667728
+2088,,"Tue, 28 Sep 2021 14:27:00 GMT",,,12,3,No,Red oak,Planted,345d2a6b-d158-4852-b88d-997f759f1507,Quercus rubra ,Poor ,AN11,,2020,,43.7079933331956,-72.2856133329189
+2089,,"Tue, 28 Sep 2021 14:28:35 GMT",,,14,4,No,American elm ,Planted,f2d5c269-d8d0-4066-8388-50c14fbb9c90,Ulmus americana ,Good ,AN12,,2020,,43.7080416667748,-72.2854966669163
+2090,,"Tue, 28 Sep 2021 14:30:45 GMT",,,10,2,No,Red maple,Planted,d30b90dc-84e1-46af-a092-7803805a4412,Acer rubrum ,Poor ,AN13,,2020,,43.7081233334997,-72.2853383334576
+2091,,"Tue, 28 Sep 2021 14:32:44 GMT",,,12,2,No,Red maple ,Planted,17bc73d7-cc20-478a-b3b4-57e7a0b8d1fd,Acer rubrum,Poor ,AN14,,2020,,43.7080600003032,-72.2853149997181
+2092,,"Tue, 28 Sep 2021 14:34:59 GMT",,,14,4,No,Red oak,Planted,c79288f8-4c4f-41d2-8aca-e83187a0a328,Quercus rubra ,Fair ,AN15,,2020,,43.7078733335138,-72.2849483334703
+2093,,"Tue, 28 Sep 2021 14:37:24 GMT",,,16,3,No,American elm ,Planted,40ed80cc-5e55-4917-88b1-246546e59936,Ulmus americana ,Good ,AN16,,2020,,43.7078033336426,-72.2848483330129
+2094,,"Tue, 28 Sep 2021 14:38:46 GMT",,,12,3,No,American elm ,Planted,bd2086df-00a0-4f36-b5f0-3651eed1ad0a,Ulmus americana ,Fair,AN17,,2020,,43.7077249996917,-72.2849233333559
+2095,,"Tue, 28 Sep 2021 14:40:42 GMT",,,16,4,No,American elm ,Planted,5b548afc-87b2-42f6-9685-76cd1f57eb5b,Ulmus americana ,Good ,AN18,,2020,,43.707740000108,-72.2850283329379
+2096,,"Tue, 28 Sep 2021 14:43:50 GMT",,,6,3,No,White pine,Planted,bf372090-ccf0-4596-8a7a-26510a8939b3,Pinus strobus,Good ,AN19,,2021,,43.7077466665256,-72.2851416670891
+2097,,"Tue, 28 Sep 2021 14:45:43 GMT",,,12,2,No,Swamp white oak ,Planted,3802e23b-3354-46ee-9772-968c2c5ca2f8,Quercus bicolor ,Poor ,AN20,,2021,,43.7077799999012,-72.2851933336927
+2098,,"Tue, 28 Sep 2021 14:47:35 GMT",,,8,3,No,,Planted,2812f9a0-1899-4b93-8ba2-f6034148e4d4,Pinus strobus,Good ,AN21,,2021,,43.7077783336224,-72.2852533330688
+2099,,"Tue, 28 Sep 2021 14:48:53 GMT",,,8,3,No,White pine,Planted,643d82d6-6f06-44bd-acd0-27fa36916ba5,Pinus strobis ,Poor ,AN22,,2021,,43.7078583331309,-72.2854000001069
+2100,,"Tue, 28 Sep 2021 14:50:45 GMT",,,7,3,No,White pine,Planted,1516efac-4edf-40c9-9d5b-525163c2b398,Pinus strobis ,Good ,AN23,,2021,,43.7078766667153,-72.2853749999926
+2101,,"Tue, 28 Sep 2021 14:52:33 GMT",,,14,2,No,Pin oak,Planted,274fade9-2e64-48dd-9f23-426861c06b1f,Quercus palustris,Poor ,AN24,,2021,,43.707893981866,-72.2854455057747
+2102,,"Tue, 28 Sep 2021 14:54:20 GMT",,,7,3,No,White pine,Planted,53cb9aa8-72f4-4301-ad2f-09c0eaf8acf5,Pinus strobus,Fair ,AN25,,2021,,43.7079135079325,-72.2854837168655
+2103,,"Tue, 28 Sep 2021 14:57:04 GMT",,,12,3,No,Red oak ,Planted,0b41cc86-a4c7-417d-9fdb-37582a6c73f7,Quercus rubra ,Fair ,AN26,,2020,,43.707959899797,-72.2857489067258
+2104,,"Tue, 28 Sep 2021 14:58:59 GMT",,,12,3,No,Red oak ,Planted,5521cb09-aab1-4dfd-81ec-033b37ad831f,Quercus rubra ,Poor ,AN27,,2020,,43.7079215670481,-72.2858064577435
+2105,,"Tue, 28 Sep 2021 15:00:43 GMT",,,15,4,No,Hybrid elm ,Planted,15f9c1d3-2c3b-4cd9-a042-a968e26d0ccb,Ulmus X,Fair ,AN28,,2020,,43.7078249997989,-72.2859566663255
+2106,,"Tue, 28 Sep 2021 15:02:20 GMT",,,14,3,No,Hybrid elm ,Planted,e12fd46f-d0b4-4b04-90ac-249f1c44712d,Ulmus X,Poor ,AN29,,2020,,43.707761733265,-72.2857975701309
+2107,,"Tue, 28 Sep 2021 15:05:14 GMT",,,12,4,No,American elm,Planted,b24ad3ee-5b5c-499a-a55c-55e623d479ee,Ulmus americana ,Fair ,AN30,,2020,,43.7078283336524,-72.2857183333992
+2108,,"Tue, 28 Sep 2021 15:08:21 GMT",,,14,3,No,Hybrid elm ,Planted,fc20d0b1-f959-40ea-89f7-53ed12eb6a13,Ulmus X,Poor ,AN31,,2020,,43.7076366666444,-72.285543333497
+2109,,"Tue, 28 Sep 2021 15:11:15 GMT",,,14,4,No,American elm ,Planted,5e5e224a-7a07-4b95-8d61-bae7b197169f,Ulmus americana ,Poor ,AN32,,2020,,43.7076500001512,-72.2854783331997
+2110,,"Tue, 28 Sep 2021 15:15:15 GMT",,,16,3,No,Hybrid elm ,Planted,624497c3-ffb1-4eb0-9fe5-a7e3cf452046,Ulmus X,Fair ,AN33,,2020,,43.7076116665547,-72.2852766668083
+2111,,"Tue, 28 Sep 2021 15:17:00 GMT",,,14,3,No,Hybrid elm ,Planted,b56ceb23-6d0f-49ec-835c-a2b5e2e4027d,Ulmus X,Fair ,AN34,,2020,,43.7076116665547,-72.2853316670599
+2112,,"Tue, 28 Sep 2021 15:18:20 GMT",,,15,3,No,Hybrid elm ,Planted,969a505c-4e8e-4fee-a9a8-56a1d4883a68,Ulmus X,Fair,AN35,,2020,,43.7075233333404,-72.2854150001755
+2113,,"Tue, 28 Sep 2021 15:20:04 GMT",,,18,3,No,Hybrid elm ,Planted,3c7e177f-637b-47fc-ab66-a8554d83adba,Ulmus americana ,Fair ,AN36,,2020,,43.7074733330561,-72.2854400002899
+2114,,"Tue, 28 Sep 2021 15:21:25 GMT",,,10,4,No,White pine ,Planted,216f757c-827e-4fd4-b93a-26373fc122a1,Pinus strobus,Poor ,AN38,,2019,,43.7074333330583,-72.2855566662925
+2115,,"Tue, 28 Sep 2021 17:50:06 GMT",,,14,2,No,Red maple,Planted,0bbb1010-68f6-4e6b-8cea-ab43a6fc8f8f,Acer rubrum ,Good ,AN39,,2021,,43.7074683335448,-72.2856500003522
+2116,,"Tue, 28 Sep 2021 17:53:49 GMT",,,12,3,No,Red oak,Planted,f11f1df5-bc16-416b-9df4-bb2ddd965c3a,Quercus rubra ,Poor ,MB299,,2021,,43.7077683333517,-72.2859333334844
+2117,,"Tue, 28 Sep 2021 18:05:25 GMT",,,8,2,No,Ironwood ,Planted,25e6146c-8d5c-47d1-a577-9bd3f78ff265,Carpinus caroliniana ,Poor,AN41,,2021,,43.7081883335459,-72.2859750000422
+2118,,"Tue, 28 Sep 2021 18:18:16 GMT",,,16,3,No,American elm ,Planted,be9fcf02-c14a-4967-8662-56bfb2203b00,Ulmus americana ,Good ,AN52,,2021,,43.7080850002059,-72.284630000178
+2119,,"Tue, 28 Sep 2021 18:19:42 GMT",,,14,2,No,American elm ,Planted,d68b3333-bb4f-4026-b825-ef76c9055788,Ulmus americana ,Fair ,AN53,,2021,,43.7080633334943,-72.284630000178
+2120,,"Tue, 28 Sep 2021 18:21:16 GMT",,,20,3,No,American elm ,Planted,2766b3ea-4c8b-4952-b804-6eb69a0bb1c3,Ulmus americana ,Good ,AN54,,2021,,43.708053333271,-72.2847166669416
+2121,,,,,65,34,Yes,Norway maple,Planted,d12570f5-0167-4b7e-a366-1a47850c77f5,Acer platanoides,Poor,CHT53,,,,43.7073322141727,-72.2899802979418
+2122,,,,,16,10,No,Maackia,Planted,5c343f68-35b4-4d24-b708-b7eee04f794b,Maackia amurensis,Good,CHT001,,,,43.7071383226752,-72.2893043812699
+2123,,"Wed, 13 Oct 2021 14:55:53 GMT",,,45,15,No,,Planted,2e218f54-75fe-4d0a-a7b0-a5961ec3cfcc,Fraxinus americana ,Fair,SP1841,,,Mectinite 2021,43.7029603307489,-72.2820019069491
+2124,,"Wed, 13 Oct 2021 16:45:57 GMT",,,55,16,,,Planted,7a26b0d5-9213-4ec1-9f44-f266aaf4b659,Fraxinus americana ,Fair ,SP1842,,,Mectinite 2021,43.7030406666967,-72.2820383399936
+2125,,"Wed, 13 Oct 2021 16:50:38 GMT",,,50,16,No,,Planted,3e3e09c2-9ef1-4edf-8c28-bb4139a895a7,Fraxinus americana ,Fair ,SP1843,,,Mectinite 2021,43.703112881348,-72.2820479240478
+2126,,"Wed, 13 Oct 2021 16:53:00 GMT",,,55,17,No,,Planted,854024f0-6d27-4a86-b8e1-36ac6cdb7703,Fraxinus americana ,Fair,SP1844,,,Mectinite 2021,43.7031482532268,-72.2820904197506
+2127,,"Wed, 13 Oct 2021 16:54:27 GMT",,,55,16,No,,Planted,e3f8dbb2-c34d-469f-a094-9e47455661e0,Fraxinus americana ,Fair ,SP1845,,,Mectinite 2021,43.7033058762417,-72.282053176441
+2128,,"Wed, 13 Oct 2021 16:56:11 GMT",,,50,15,No,,Planted,94ab0257-0b63-44a4-913b-1468c41ef07f,Fraxinus americana ,Fair ,SP1846,,,Mectinite 2021,43.7034003499302,-72.2820885200628
+2129,,"Wed, 13 Oct 2021 16:58:05 GMT",,,50,18,No,,Planted,cfd4250d-f60f-427e-9a4c-d71da82e5284,Fraxinus americana ,Fair ,SP1847,,,Mectinite 2021,43.7036262310083,-72.2821257918133
+2130,,"Wed, 13 Oct 2021 17:01:25 GMT",,,50,14,No,,Planted,cc4a53cd-2e7a-4bde-83ab-6e8074c86fbe,Fraxinus americana ,Fair ,SP1848,,,Mectinite 2021,43.7037387586167,-72.2821835427062
+2131,,"Wed, 13 Oct 2021 17:05:35 GMT",,,55,,No,,Planted,6580d76d-6c73-40e0-9a7b-b6ab97966ba2,Fraxinus americana ,Fair ,SP1849,,,Mectinite 2021,43.703864277474,-72.2821046688277
+2132,,"Wed, 13 Oct 2021 17:08:29 GMT",,,45,10,No,,Planted,e912b331-4077-4a4d-9ea7-62956b73e7e1,Fraxinus americana ,Fair ,SP1850,,,Xytect 2021,43.7039383336129,-72.2819883334051
+2133,,"Wed, 13 Oct 2021 17:12:29 GMT",,,45,12,No,,Planted,34e3e3e6-a9cf-460a-9922-47e3568122fd,Fraxinus americana ,Fair ,SP1851,,,Xytect 2021,43.7039933334003,-72.2819100003124
+2134,,"Wed, 13 Oct 2021 17:15:13 GMT",,,45,11,No,,Planted,5522f3b8-b38c-44c3-978f-ecc17d113b40,Fraxinus americana ,,SP1852,,,Xytect 2021,43.7039965648603,-72.2818485492587
+2135,,"Wed, 13 Oct 2021 17:22:51 GMT",,,50,12,No,,Planted,476dee1a-fd74-4c29-80bc-f2a136ab2c6a,Fraxinus americana ,Fair ,SP1853,,,Xytect 2021,43.7040316667131,-72.2805416667086
+2136,,"Wed, 13 Oct 2021 17:24:26 GMT",,,55,13,No,,Planted,94ba6b9f-6a4b-4f35-bd8f-17d3f621a108,Fraxinus americana ,Fair ,SP1854,,,Xytect 2021,43.7039350001924,-72.2805500003796
+2137,,"Wed, 13 Oct 2021 17:26:11 GMT",,,50,12,No,,Planted,91d6bd31-342f-4c30-8b55-65fa1bbf2d19,Fraxinus americana ,Good ,SP1855,,,Xytect 2021,43.7038583334187,-72.2805683331978
+2138,,"Wed, 13 Oct 2021 17:28:07 GMT",,,60,14,No,,Planted,71b75051-a392-4031-aa82-c9a0d9bed52a,Fraxinus americana ,Good,SP1856,,,Xytect 2021,43.7036666667048,-72.280498333776
+2139,,"Wed, 13 Oct 2021 17:29:47 GMT",,,45,12,No,,Planted,b4125507-1c8d-4d15-baf3-2a0593454538,Fraxinus americana ,Fair ,SP1857,,,Xytect 2021,43.70355666648,-72.2804766664113
+2140,,"Wed, 13 Oct 2021 17:31:23 GMT",,,45,12,No,,Planted,07e0e028-fabb-4743-a0f8-91cdf4a63f8c,Fraxinus americana ,Fair ,SP1858,,,Xytect 2021,43.70355666648,-72.2804766664113
+2141,,"Wed, 13 Oct 2021 17:32:51 GMT",,,35,10,No,,Planted,1a43af33-b617-4be0-8780-2eec9f494832,Fraxinus americana ,Fair ,SP1859,,,Xytect 2021,43.703439999807,-72.2804416662512
+2142,,"Wed, 13 Oct 2021 17:34:17 GMT",,,35,10,No,,Planted,93da70e1-e2dc-48b8-95a4-1f21d895545e,Fraxinus americana ,Fair ,SP1860,,,Xytect 2021,43.703338333126,-72.2804249998077
+2143,,"Wed, 13 Oct 2021 17:36:44 GMT",,,50,12,No,,Planted,66f88d75-bb1e-49d1-9886-13eb52af3599,Fraxinus americana ,Fair ,SP1861,,,Xytect 2021,43.7032516665131,-72.2803783332271
+2144,,"Wed, 13 Oct 2021 17:38:21 GMT",,,50,12,No,,Planted,ec37c676-afee-484d-a626-f5610f06da3e,Fraxinus americana ,Fair ,SP1862,,,Xytect 2021,43.7031483331052,-72.2804366662283
+2145,,"Wed, 13 Oct 2021 17:40:42 GMT",,,35,11,No,,Planted,5417f801-1ad2-43ab-b277-613163ca88a2,Fraxinus americana ,Fair ,SP1853,,,Xytect 2021,43.7031233330919,-72.2805733332207
+2146,,"Wed, 13 Oct 2021 17:42:24 GMT",,,35,12,No,,Planted,560c2e6c-01b2-4d1f-bee5-5bd3df44f2fe,Fraxinus americana ,Fair ,SP1864,,,Xytect 2021,43.7031016665351,-72.2807050001902
+2147,,"Wed, 13 Oct 2021 17:44:21 GMT",,,35,11,No,,Planted,528a0aa1-9c98-4d21-8154-27bb39b766f7,Fraxinus americana ,,SP1865,,,,43.7030950002503,-72.2808483335803
+2148,,"Wed, 13 Oct 2021 17:45:48 GMT",,,55,16,Yes,,Planted,0cd4fc5a-62ea-418a-90fe-ab98c590cee6,Fraxinus americana ,,SP1866,,,,43.7031066664105,-72.2809666668561
+2149,,"Wed, 13 Oct 2021 17:47:21 GMT",,,50,12,No,,Planted,e1f6e60a-ea58-4813-ac0a-d6e8615c59a0,Fraxinus americana ,Fair ,SP1867,,,,43.703066666746,-72.2811150002691
+2150,,"Wed, 13 Oct 2021 17:49:14 GMT",,,35,11,No,,Planted,3fad8026-10c7-4013-ae4d-d8065a50299c,Fraxinus americana ,,SP1868,,,,43.7030700002147,-72.2811633332246
+2151,,"Wed, 13 Oct 2021 17:50:49 GMT",,,55,18,No,,Planted,61b1037d-bc0a-4ded-b645-5cb140e4121b,Fraxinus americana ,Poor,SP1869,,,,43.703043333109,-72.2813100002627
+2152,,"Wed, 27 Oct 2021 15:13:45 GMT",,,144,28,No,,Ingrowth,cc7f393c-6296-4823-9a62-b674b1b3d06d,Pinus strobis ,Fair ,Pp04,,,,43.721199017117,-72.2807063162221
+2153,,"Mon, 15 Nov 2021 16:00:21 GMT",,,10,2,No,Red oak,Planted,145581a1-5c46-4330-a3ab-25b36d3dccbe,Quercus rubra ,Fair,AN58,,2020,,43.7083295264845,-72.2850009882207
+2154,,"Mon, 15 Nov 2021 16:02:14 GMT",,,12,3,No,Swamp white oak,Planted,df82ce81-8666-420f-8464-c08607cb8805,Quercus bicolor,Fair,AN59,,2020,,43.7082712916537,-72.2850637939337
+2155,,"Mon, 15 Nov 2021 16:03:39 GMT",,,12,3,No,Swamp white oak,Planted,97890577-306a-49c6-8275-d1dff04054f6,Quercus bicolor ,Fair,AN57,,2020,,43.7083735772521,-72.2851206231553
+2156,,"Mon, 15 Nov 2021 16:05:07 GMT",,,12,2,No,Swamp white oak ,Planted,1612f24c-922d-433a-8322-d3e9d57c3af0,Quercus bicolor ,Fair,AN62,,2020,,43.7081022927894,-72.2851788986644
+2157,,"Mon, 15 Nov 2021 16:06:45 GMT",,,12,3,No,Swamp white oak ,Planted,595f402b-2cef-42f0-89e1-54281a609a13,Quercus bicolor ,Fair ,AN61,,2020,,43.7081986473892,-72.2853446387326
+2158,,"Mon, 15 Nov 2021 16:08:00 GMT",,,15,4,No,Pin oak,Planted,c4047167-eb8c-46c8-8116-eff96280171e,Quercus palustris ,Fair ,AN60,,2020,,43.7083036110826,-72.2853188472025
+2159,,"Mon, 15 Nov 2021 16:11:43 GMT",,,10,4,No,Yellowwood ,Planted,e2316445-8faa-45d0-963e-ad9089644dd0,Cladrastis kentukea ,Fair ,AN56,,2021,,43.7084158234356,-72.2849959555708
+2160,,"Mon, 15 Nov 2021 16:14:21 GMT",,,20,28,No,Witchhazel ,Planted,1c9be01b-17ad-474d-9511-3fcae74c0057,Hamemalis,Fair ,MC206,,,,43.7082874998871,-72.2852209938937
+2161,,"Mon, 15 Nov 2021 16:15:24 GMT",,,12,4,,Yellowwood ,Planted,101682c2-9f68-4629-9c75-2d3840026baa,Cladrastis kentukea,Fair ,AN55,,2021,,43.7084556615505,-72.2850769753642
+2162,,"Tue, 16 Nov 2021 13:39:39 GMT",,,18,4,No,Freeman maple,Planted,8c919466-bdad-4423-aa4e-41bd3fce5d6b,Acer Freeman,Good,,,2020,,43.705711061011,-72.2896043384188
+2163,,"Tue, 30 Nov 2021 18:08:41 GMT",,,18,4,No,Sugar maple,Planted,e0223998-62f8-4ca9-863f-0fc45ab50575,Acer sacharrum ,Good ,,,,,43.7067733506706,-72.2886452224613
+2164,,"Tue, 30 Nov 2021 18:11:51 GMT",,,18,4,No,,Planted,2a170b4a-2499-48ed-877e-e49a8014d20a,Gleditsia triacanthos,Poor,,,,,43.7067593026517,-72.2878234741821
+2165,,"Tue, 30 Nov 2021 18:13:15 GMT",,,24,12,No,,Planted,6353a0dc-b5aa-4700-b4f1-d80d9a9ae6d9,Gleditsia triacanthos,Fair ,,,,,43.7065684920063,-72.2878251746929
+2166,,"Tue, 30 Nov 2021 18:14:25 GMT",,,35,12,No,,Planted,d82a8543-f6ae-4ea1-8db3-fb92aa58be8f,Gleditsia triacanthos ,Fair,,,,,43.7065565329994,-72.2879830185698
+2167,,"Tue, 30 Nov 2021 18:16:01 GMT",,,30,10,No,,Planted,8f17a66d-0ae2-48dd-a981-fa6c78691c1b,Gleditsia triacanthos ,Good,,,,,43.7066591832288,-72.2876596753732
+2168,,"Tue, 30 Nov 2021 18:16:48 GMT",,,30,8,No,,Planted,bbac501a-de4d-45c9-b055-f721859c47f5,Gleditsia triacanthos ,Good,,,,,43.7066200561048,-72.2876196841734
+2169,,"Tue, 30 Nov 2021 18:17:34 GMT",,,35,8,No,,Planted,17a3ff1a-578e-47e8-aef8-0007a593c791,Gleditsia triacanthos ,Good,,,,,43.7066594066156,-72.2875876852846
+2170,,"Tue, 11 Jan 2022 19:02:45 GMT",,,50,16,No,,Planted,61c5249f-1877-4568-b4be-9e62ec1945e4,Fraxinus americana ,Fair,SP1870,,,Mectinite 21,43.7030628280289,-72.281570582662
+2171,,"Tue, 11 Jan 2022 19:04:43 GMT",,,50,15,No,,Planted,2993adaf-38db-4358-9fab-bea15725cf48,Fraxinus americana ,Fair,SP1871,,,Mectinite 21,43.7030445208971,-72.2817069882447
+2172,,"Tue, 11 Jan 2022 19:05:56 GMT",,,50,16,No,,Planted,d0e68da0-65e9-4567-ae94-67bcb5237020,Fraxinus americana ,Fair ,SP1872,,,Mectinite 21,43.702999794713,-72.2818456405138
+2173,,,,,50,20,No,Catalpa,Planted,76554aaf-e2e7-4676-ae4e-796578ae9c58,Catalpa speciosa,Good,SC87,,,,43.7056168812995,-72.2871442459823
+2176,,"Thu, 12 Oct 2023 18:08:12 GMT",Melendy ,,15,4,No,Planted to deep,Planted,14de479a-d6ce-4d67-b8d1-b33e375f7b01,Betula papyrifira (white birch),Good,,Null,Yes,No,43.7039856034824,-72.2867789688653
+2177,,"Fri, 13 Oct 2023 17:05:37 GMT",Melendy ,,20,4,No,Elm,Planted,87a600e6-2a19-4de5-bd0b-3e88576c18de,Ulmus Americana,Good,,None,Yes,No,43.7049567430096,-72.2933794715694
+2178,,"Fri, 13 Oct 2023 17:08:54 GMT",Melendy ,,20,4,No,Irving planting (Elm),Planted,7218eb38-ca38-43df-b9d6-b80b3d0692f7,Ulmus Americana,Good,,No,Yes,No,43.7049009804124,-72.2936345463977
+2179,,"Fri, 13 Oct 2023 17:35:45 GMT",Melendy ,,15,3,No,Birch,Planted,94625789-13be-473b-8f63-91d747da5517,Betula papyrifera ,Fair ,,No,Yes,No,43.7039487423518,-72.2867701519008
+2180,,"Fri, 13 Oct 2023 17:39:29 GMT",Melendy ,,15,3,No,,Planted,40dde436-af12-497a-a838-0a2e0f36d30b,Birch,Fair,,Mayo/Cohen 1934,Yes,No,43.7038977474364,-72.2868118723575
+2181,,"Fri, 13 Oct 2023 17:42:20 GMT",Melendy ,,15,,No,Birch,Planted,56d81950-4a3f-4e12-85cf-166f66dd5263,Birch ,Fair,,No,Yes,No,43.7039251298119,-72.2868470045699
+2182,,"Fri, 13 Oct 2023 17:47:35 GMT",Melendy ,,15,3,No,Birch planted to deep ,Planted,bfdfcc92-48ce-48f4-bd45-b944338419bb, (Birch),Fair,,No,Yes,No,43.7036326381181,-72.2868167852438
+2183,,"Fri, 13 Oct 2023 17:49:55 GMT",Melendy ,,15,,No,Birch,Planted,c315c268-5aef-4735-b869-a8b438464ad8,Betula (birch),Fair,,No,Yes,No,43.7036123991559,-72.2868727772354
+2184,,"Fri, 13 Oct 2023 17:51:52 GMT",Melendy,,15,3,No,Planted to deep,Planted,17ae06db-f813-49b6-9afd-0593bde03bb3,Betula (birch),Fair ,,No,Yes,No,43.7035659680347,-72.286788239479
+2185,,"Mon, 16 Oct 2023 12:43:52 GMT",,,15,3,No,Winter king hawthorn ,Planted,bb596814-6a81-4c85-b304-61761933afcc,Crataegus,Good,,"Dedicated to all students,staff,and faculty who died while at Dartmouth ",Yes,No,43.7046402674378,-72.287068728545
+2186,,"Fri, 10 Nov 2023 13:22:48 GMT",,,18,3,No,Red maple ,Planted,0e357fb0-ed3e-47c5-812e-93c6c7f8836e,Acre rubrum,Good,,In memory of Sam Gawel 23,,No,43.7127893574488,-72.2857690909077
+2187,,"Thu, 28 Dec 2023 15:22:37 GMT",,,15,3,No,Honey locust ,Planted,0ce276ce-447a-4371-9976-8505e4cb6cee,Gleditsia triacanthos,Good,,Gail S . Wittreich,,,43.7052706972568,-72.2944144619307
+2188,,"Thu, 28 Dec 2023 15:26:13 GMT",,,15,3,No,Honey locust ,Planted,1097263d-96d8-4fae-9631-73ea8ab4557c,Gleditsia triacanthos,Good,,No,,No,43.7052966185156,-72.2944409496552
+2189,,"Thu, 28 Dec 2023 15:28:01 GMT",,,15,3,No,Honey locust ,Planted,83e81ac2-c6a5-457a-8e4f-73fb2506b582,Gleditsia triacanthos ,Good,,No,,No,43.705278055555,-72.2944672316655
+2190,,"Thu, 28 Dec 2023 15:31:18 GMT",,,12,2,No,Hornbeam,Planted,f67f4257-de8a-42f3-b717-271647bbdcb6,Carpinus,Good,,No,,No,43.7053260932514,-72.2945321681824
+2191,,,,,12,2,No,Hornbeam,Planted,e7fcdbd2-95ab-43e4-831c-a12cee3c4714,Carpinus,Good,,Peter Kalustian,,No,43.7052068207487,-72.2945032073959
+2192,,"Thu, 28 Dec 2023 15:36:36 GMT",,,15,3,No,Honey locust ,Planted,f371ad1e-d849-4d22-ad96-ea2cfaedfe30,Gleditsia triacanthos ,Good,,No,,No,43.7051654483625,-72.2944507502749
+2193,,"Thu, 28 Dec 2023 15:43:34 GMT",,,18,3,No,Honey locust ,Planted,f4b940bb-b4df-46eb-a144-cbe526de9d10,Gleditsia triacanthos ,Good,,Harrie Lila Irving,Yes ,No,43.7049768113756,-72.2945001603105
+2196,,"Fri, 19 Jan 2024 18:50:54 GMT",,,14,2,No,Columnar Hornbeam,Planted,3f000dd5-68c3-41cc-8867-118055c81bcd,Carpinus ,Fair ,,Null ,Yes,No,43.7128039319465,-72.2859804061036
+2197,,"Fri, 19 Jan 2024 18:52:20 GMT",,,14,2,No,Columnar Hornbeam,Planted,4ca82836-178a-46db-87a8-e7dafaff9aef,Carpinus ,Fair ,,Null ,Yes,No,43.7128148131449,-72.2859578862377
+2198,,"Tue, 19 Mar 2024 12:00:08 GMT",,,15,4,No,Sugar maple (planted to close to sidewalk and light),Planted,765bfd11-8779-4b06-91fd-0b89702748e2,Acer,Good,,Null ,,No,43.7039027355561,-72.2873713035906
+2199,,"Tue, 19 Mar 2024 12:03:23 GMT",,,15,4,No,Sugar maple ( to close to sidewalk and light,Planted,a9c758c2-3785-406a-8b7d-01d8532694e7,Acer,Good,,Null,,No,43.7036012441825,-72.2873607025719
+2200,,"Fri, 29 Mar 2024 10:47:02 GMT",,,30,12,No,Green ash,Planted,7b61f008-7e07-49df-b5e9-6f53111d58f8,Fraxinus pennsylvanica ,Good,,No,Yes,Mectanite 2023,43.6842732295506,-72.2884269776613
+2201,,"Fri, 29 Mar 2024 10:48:35 GMT",,,30,14,,Green ash,Planted,d5320e6f-0553-4973-95f3-585b3d13f6c4,Fraxinus pennsylvanica,Good,,No,Yes,Mectanite 2023,43.6843274567865,-72.2886153256303
+2202,,"Fri, 29 Mar 2024 10:50:43 GMT",,,30,14,No,Green ash,Planted,1de7b5fb-2d23-4bfc-9587-a4b4a54eeb0f,Fraxinus pennsylvanica ,Good,,No,Yes,Mectanite 2023,43.6843698751508,-72.2887787597232
+2203,,"Fri, 29 Mar 2024 10:52:22 GMT",,,30,14,No,Green ash,Planted,8c5b5bd3-253c-4461-85b4-77b5660dc0ff,Fraxinus pennsylvanica ,Good,,No,Yes,Mectanite 2023,43.684414598991,-72.2889422297487
+2204,,"Fri, 29 Mar 2024 10:54:18 GMT",,,30,14,No,Green ash,Planted,d780e59d-8fd1-48eb-9ddb-904e5624e022,Fraxinus pennsylvanica ,Good,,No,Yes,Mectanite 2023,43.6844550937667,-72.2891137639506
+2205,,"Fri, 29 Mar 2024 10:56:12 GMT",,,30,16,No,Green ash,Planted,2b9e063d-2330-43d3-b3c6-dbed487e74a2,Fraxinus pennsylvanica ,Good ,,No,Yes,Mectanite 2023,43.6844898757533,-72.2892526300188
+2206,,"Fri, 29 Mar 2024 10:59:16 GMT",,,30,18,No,Green ash,Planted,85a548de-093c-4004-b981-f314d3dada37,Fraxinus pennsylvanica ,Good,,No,Yes,Mectanite 2023,43.6846260828112,-72.289434693374
+2207,,"Thu, 25 Apr 2024 12:49:03 GMT",,,20,8,No,White Oak,Planted,40182573-042a-41cf-b62c-a179445f8da7,Quercus alba,Good,,No,Yes ,No,43.7037692264194,-72.2964384776569
+2208,,"Thu, 25 Apr 2024 12:58:04 GMT",,,20,8,No,Swamp white oak,Planted,d59b8fd2-da12-4865-9499-29480180819b,Quercus bicolor,Good,,No,Yes,No,43.707566056738,-72.2920694736619
+2209,,"Tue, 07 May 2024 10:11:39 GMT",,,18,3,No,White oak,Planted,76254535-d5d1-41d4-850a-1add60b6b70f,Quercus alba,Good,,No,Yes,No,43.7052196632033,-72.2940098750998
+2210,,"Tue, 07 May 2024 10:13:47 GMT",,,15,3,No,Maple,Planted,ee8c4d8e-c4f6-4a85-9f0f-13bf628e7d26,Acer,Good,,No,Yes,No,43.7051532981531,-72.2939561639306
+2211,,"Tue, 07 May 2024 10:16:02 GMT",,,20,3,No,White oak,Planted,9368d29a-20c1-42e9-9a44-7185f1227a02,Quercus alba,Good,,No,Yes,No,43.7051183073546,-72.2938310025604
+2212,,"Tue, 07 May 2024 10:17:37 GMT",,,12,3,No,Swamp white oak,Planted,c3dddd1c-0da5-421e-8309-1707560907da,Quercus bicolor ,Good ,,No,Yes,No,43.704980465541,-72.2938305345381
+2213,,"Tue, 07 May 2024 10:19:33 GMT",,,15,3,No,Maple,Planted,53405abb-cb3a-4260-99c9-40ee575831ed,Acer,Good,,No,Yes,No,43.7048137264032,-72.2940871086547
+2214,,"Tue, 07 May 2024 10:21:46 GMT",,,15,3,No,White Oak,Planted,7b99fc63-cd8a-4899-8710-80f7e00c49e6,Quercus ,Good,,No,Yes,No,43.7047947476767,-72.2941846261686
+2215,,"Tue, 07 May 2024 10:25:45 GMT",,,15,4,No,White oak,Planted,9ae686e4-a9ef-43a7-8df9-070409051f4c,Quercus alba,Good,,No,Yes,No,43.7048124379931,-72.2942503819491
+2216,,"Tue, 07 May 2024 10:27:07 GMT",,,18,3,No,Swamp white oak,Planted,be51b35b-8460-4b3e-bafa-a98e6d981bbc,Quercus bicolor,Good ,,No,Yes,No,43.704845314524,-72.2943120432085
+2217,,"Tue, 07 May 2024 10:35:45 GMT",,,20,5,No,Elm,Planted,7ca71736-6b1d-4224-871c-8d4245427fcd,Ulmus Americana ,Good,,Michael D “ROO” Keenan,Yes,No,43.7052771236728,-72.2938901979444
+2218,,"Tue, 07 May 2024 10:39:59 GMT",,,20,5,No,Elm,Planted,5a1114c3-b065-49a5-a9ea-afad5c7c946e,Ulmus Americana,Good ,,No,Yes,No,43.705286121693,-72.2937363066548
+2219,,"Thu, 13 Jun 2024 14:14:48 GMT",,,30,10,No,Green ash,Planted,033dd839-d6c3-4b40-90a0-c8b0bca6d8b5,Fraxinus pennsylvanica ,Poor,,No,,Mectanite 6-13-24,43.7084806140475,-72.286472964052
+2220,,"Fri, 09 Aug 2024 10:43:46 GMT",Melendy ,,40,18,No,Green ash ,Planted,d9b54fe1-9594-4ca6-9e03-e2b8b050eebc,Fraxinus Pennsylvanica,Fair  codominant with bark inclusion crack on both sides of main stem ,,,,Mectanite 2023,43.6846557625942,-72.2895672559639
+2221,,"Fri, 09 Aug 2024 11:10:43 GMT",Melendy ,,40,18,No,,Planted,4dc95507-4d79-41c3-8994-fa7ded87b2ed,Fraxinus pennsylvanica ,Good / poorly pruned by utility contractor ,,,,Mectanite 2023,43.6846800394869,-72.2896648561228
+2222,,"Fri, 09 Aug 2024 11:21:53 GMT",Melendy,,40,15,No,Green ash,Planted,db58e021-6644-4ea2-806e-34561c863f8d,Fraxinus Pennsylvanica,Good,,,,Mectanite 2023,43.6847192835688,-72.2898015482681
+2223,,"Fri, 09 Aug 2024 11:25:05 GMT",Melendy ,,40,16,No,Green ash ,Planted,e896debb-e2b4-470b-9065-d41190e85371,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6847579013938,-72.2899539169133
+2224,,"Fri, 09 Aug 2024 11:27:41 GMT",Melendy ,,40,17,No,Green ash,Planted,a2dc7d05-48b5-4a7e-b9c5-b0e0271ff287,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6848047660824,-72.2901136346759
+2225,,"Fri, 09 Aug 2024 11:30:22 GMT",Melendy ,,40,15,No,Green ash ,Planted,6700e9b1-f00d-4914-97d5-d170c0ab3612,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6848397791297,-72.2902756664986
+2226,,"Fri, 09 Aug 2024 11:33:12 GMT",Melendy ,,40,14,No,Green ash ,Planted,de95ae55-067d-4f29-b2ab-6ddc0994f5f2,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6848803769074,-72.2904391140662
+2227,,"Fri, 09 Aug 2024 11:35:17 GMT",Melendy ,,40,14,No,Green ash,Planted,162739de-8b4d-4338-a37f-62e55e4d294e,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6849664600855,-72.2907160682616
+2228,,"Fri, 09 Aug 2024 11:37:54 GMT",Melendy ,,40,16,No,Green ash,Planted,2b698d70-0f58-4f5f-be7d-921d0ccf89fb,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6850174249794,-72.2909293606494
+2229,,"Fri, 09 Aug 2024 11:40:38 GMT",Melendy ,,40,14,No,Green ash,Planted,512e3240-3edb-4841-bf98-00075f4335a4,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6850521046505,-72.2910589974263
+2230,,"Fri, 09 Aug 2024 11:42:50 GMT",Melendy ,,40,16,No,Green ash,Planted,9434ea5a-404b-48c9-81d9-9963c189cea6,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6850782106959,-72.2911770441395
+2231,,"Fri, 09 Aug 2024 11:45:01 GMT",Melendy ,,40,15,No,Green ash ,Planted,7d4a3ea8-5eca-4eda-8ae5-b5a8024d490e,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6851054606998,-72.2913052840362
+2232,,"Fri, 09 Aug 2024 11:47:03 GMT",Melendy ,,40,16,No,Green ash,Planted,7b0c5892-e412-4099-88f3-683fdf354d51,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6851580969303,-72.2914972207748
+2233,,"Fri, 09 Aug 2024 11:50:07 GMT",Melendy ,,40,18,No,Green ash ,Planted,2f267f51-77c5-4dca-a165-7b7a9cfb1e68,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6851885611824,-72.2916124315066
+2234,,"Fri, 09 Aug 2024 11:51:53 GMT",Melendy ,,40,16,No,Green ash ,Planted,519f02e5-70f4-4532-b4dd-7e8ed958d4cc,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6852100087966,-72.2917259893383
+2235,,"Fri, 09 Aug 2024 11:54:09 GMT",Melendy ,,40,14,No,Green ash,Planted,9cc91db5-ed32-4b7b-87f9-65b2f2ba09f7,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6852494915891,-72.291858990306
+2236,,"Fri, 09 Aug 2024 11:56:27 GMT",Melendy ,,40,13,No,Green ash,Planted,97f18fd2-a42b-44c3-9dc2-462b63a5472e,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6852886722861,-72.2920047581305
+2237,,"Fri, 09 Aug 2024 11:59:08 GMT",Melendy ,,40,15,No,Green ash,Planted,d49c86ad-3192-46ac-bcdf-4c2b8d26de70,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6853186109363,-72.2921451306734
+2238,,"Fri, 09 Aug 2024 12:01:06 GMT",Melendy ,,40,15,No,Green ash,Planted,0c33bdb9-7227-4cf3-b858-e231b625a71e,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6853459446308,-72.2922982314456
+2239,,"Fri, 09 Aug 2024 12:05:31 GMT",Melendy ,,40,13,No,Green ash,Planted,21ee6e03-1697-4aa2-b8b9-da02e2012ed3,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6854006899358,-72.2924437962509
+2240,,"Fri, 09 Aug 2024 12:07:34 GMT",Melendy ,,40,14,No,Green ash,Planted,4579f25e-e4c6-4ad6-a1f2-b0eaa7655759,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6854287758417,-72.2925792163817
+2241,,"Fri, 09 Aug 2024 12:09:31 GMT",Melendy ,,40,16,No,Green ash,Planted,2f211328-b07e-4a3d-9284-ad2acc511e85,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.685460585948,-72.2927269066009
+2242,,"Fri, 09 Aug 2024 12:11:50 GMT",Melendy ,,40,15,No,Green ash ,Planted,98e5af2d-be03-421c-aea6-1e48db1b1c0e,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6854955219587,-72.2928804682088
+2243,,"Fri, 09 Aug 2024 12:13:57 GMT",Melendy ,,40,15,No,Green ash,Planted,564b13ac-32e7-4a9e-ae6e-aeb022a1e04c,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2023,43.6855547104522,-72.2931779381287
+2244,,"Fri, 09 Aug 2024 12:16:06 GMT",Melendy,,40,15,No,Green ash ,Planted,4e7a8318-e7a8-46b3-917a-afc4d8218bde,Fraxinus pennsylvanica ,Good,,,,Mectanite 2023,43.6855849055649,-72.2933116631385
+2245,,"Fri, 09 Aug 2024 12:34:28 GMT",Melendy ,,40,16,No,Green ash,Planted,1e12e6f2-fb33-4d5c-b60b-dd11596e4253,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.685493160628,-72.2933441138798
+2246,,"Fri, 09 Aug 2024 12:36:24 GMT",Melendy,,40,14,No,Green ash,Planted,323f53b9-f53e-4c9f-8d7f-2e245a022b2d,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6853559051177,-72.2934030900748
+2247,,"Fri, 09 Aug 2024 12:38:22 GMT",Melendy ,,40,12,No,Green ash ,Planted,0a06a65c-a753-4641-9565-c59a8fd6996e,Fraxinus pennsylvanica ,Fair ,,,,Mectanite 2024,43.685238389066,-72.2934488790015
+2248,,"Fri, 09 Aug 2024 12:40:04 GMT",Melendy ,,40,13,No,Green ash,Planted,f69ef889-668c-4184-9856-5beb161ef19a,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2024,43.6851223012844,-72.2934816630178
+2249,,"Fri, 09 Aug 2024 13:42:05 GMT",Melendy ,,40,12,No,Green ash,Planted,5128d8df-2678-4aa6-9733-5d259776d85d,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6850318983933,-72.2935316695347
+2250,,"Fri, 09 Aug 2024 13:43:46 GMT",Melendy ,,40,10,No,Green ash,Planted,cfe6dea5-7292-4830-a5e1-15084ce3d410,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6849402500529,-72.2935589612513
+2251,,"Fri, 09 Aug 2024 13:45:25 GMT",Melendy ,,40,9,No,Green ash,Planted,f9f789ce-5bbe-4eef-956c-b4cef47658d0,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6848460063544,-72.2935967749349
+2252,,"Fri, 09 Aug 2024 13:48:09 GMT",Melendy ,,40,12,No,Green ash,Planted,7985e012-d613-4fa5-8fac-8fa9a167d045,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6847456203734,-72.293636538861
+2253,,"Fri, 09 Aug 2024 13:49:49 GMT",Melendy ,,40,11,No,Green ash,Planted,6b48de18-b1c3-496a-aaec-30a2d6bca776,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2024,43.684633697644,-72.2936560673369
+2254,,"Fri, 09 Aug 2024 13:51:29 GMT",Melendy ,,40,12,No,Green ash,Planted,ceeea67e-31b2-4ceb-8cdb-3ce4fae7731c,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6845330176794,-72.2936871131132
+2255,,"Fri, 09 Aug 2024 13:53:25 GMT",Melendy ,,40,12,No,Green ash,Planted,0beaafd9-5c14-45c5-bd14-1fc452b4409f,Fraxinus Pennsylvanica,Good,,,,Mectanite 2024,43.6844385784549,-72.2937275561655
+2256,,"Fri, 09 Aug 2024 13:55:09 GMT",Melendy,,40,11,No,Green ash,Planted,b74d1052-77a4-4047-a2f5-d149376e9728,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2024,43.6843448270314,-72.2937514800982
+2257,,"Fri, 09 Aug 2024 13:56:58 GMT",Melendy ,,40,12,No,Green ash ,Planted,577b4f22-d96e-444e-a4a4-0942027ecc88,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6842486471705,-72.2937874306759
+2258,,"Fri, 09 Aug 2024 13:58:41 GMT",Melendy ,,40,12,No,Green ash,Planted,e872ac59-710d-4f58-a27c-b21f7d66f1c8,Fraxinus pennsylvanica ,Good ,,,,Mectanite 2024,43.6841702915381,-72.2938146954431
+2259,,"Fri, 09 Aug 2024 14:00:54 GMT",Melendy ,,40,11,No,Green ash ,Planted,75d82615-6952-4fd1-90f7-b4e112e5df52,Fraxinus pennsylvanica ,Good,,,,Mectanite 2024,43.6840708061057,-72.2938483858595
+2261,,"Mon, 16 Dec 2024 12:03:40 GMT",Melendy ,,30,15,No,,Planted,e5d1dc85-0fd1-44dd-bde6-9105dc55f540,Acer rubrum,Good,,Ernest M Evans 2nd class of 2016,,No,43.7032658270538,-72.2843034742503
+2262,,"Fri, 07 Mar 2025 14:48:38 GMT",Melendy,,40,18,No,Sugar maple,Planted,5be8e92b-3210-4188-bb33-87e844934686,Acer saccharum ,Poor,,No,,No,43.7078581058523,-72.2910722745263
+2263,,"Fri, 07 Mar 2025 14:51:00 GMT",Melendy,,40,16,No,Sugar maple,Planted,df0f446d-601d-4ec1-b11f-68ba31b00ae7,Acer saccharum ,Good,,,,No ,43.7079903967632,-72.2914481952182
+2264,,"Fri, 07 Mar 2025 14:55:48 GMT",Melendy ,,35,10,No,,Planted,3637f180-e3fa-4172-8b71-73e8f799184c,Quercus rubrum,Good,,,,,43.7081530834746,-72.2910232902921
+2265,,"Fri, 07 Mar 2025 14:57:34 GMT",Melendy,,35,10,No,,Planted,54396690-df79-4c28-bc4d-1467bab25b8a,Quercus rubrum,Good,,,,,43.7081845977563,-72.2910812567808
+2266,,"Fri, 07 Mar 2025 14:58:43 GMT",Melendy,,35,10,No,Red oak,Planted,74560343-e002-4393-823e-461117fad1e0,Quercus rubrum ,,,,,,43.7082215244653,-72.2911368310558
+2267,,"Fri, 07 Mar 2025 14:59:54 GMT",Melendy,,35,10,No,Red oak,Planted,99922113-7368-4195-b036-c6276328fe8e,Quercus rubrum ,Good ,,,,,43.7082532861183,-72.2912030656384
+2268,,"Fri, 07 Mar 2025 15:01:20 GMT",Melendy,,35,10,No,Red oak ,Planted,09b38245-dc99-4839-8553-aad76169e7da,Quercus rubrum ,Good,,,,,43.7082969745977,-72.291220684296
+2269,,"Fri, 07 Mar 2025 15:02:59 GMT",Melendy,,35,10,No,Red oak,Planted,e0a874e7-d361-4485-8fa4-c1b9370f6ee4,Quercus rubrum ,Good ,,,,,43.7083198087783,-72.2911694560703
+2270,,"Fri, 07 Mar 2025 15:04:30 GMT",Melendy,,35,10,No,Red oak ,Planted,dbf7b58a-0fed-4db8-839f-5a8d47f3014e,Quercus rubrum ,,,,,,43.7083591568745,-72.2911267968741
+2271,,"Fri, 07 Mar 2025 15:05:47 GMT",Melendy,,35,10,No,Red oak,Planted,e76da203-fea3-4caf-896f-d943d860e8f3,Quercus rubrum ,Good,,,,,43.7084029887856,-72.29109639519
+2272,,"Fri, 07 Mar 2025 15:07:43 GMT",Melendy,,20,12,No,Yellow wood,Planted,22fdfcff-b89c-4f8d-b0ab-11aa95dc3323,Cladrastis kentukea,Good,,,,,43.7080561268401,-72.2908841241866
