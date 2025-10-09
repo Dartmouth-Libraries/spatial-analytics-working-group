@@ -38,6 +38,9 @@ maps.google.com & mymaps
 Python libraries: 
 'geopandas', 'geodatasets', 'matplotlib', 'folium' (leaflet web maps interactive) 
 
+A few datasets for R, Python, ArcGIS Online, ArcGIS Pro
+https://rcweb.dartmouth.edu/~f002d69/workshops/index_rspatial.html
+
 R libraries: 
 
 Geocoding with ESRI, QGIS, Python, R and with geocoding services such as the Census Bureau, https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form 
