@@ -5,6 +5,9 @@ import pandas as pd
 # geodataframe
 import geopandas as gpd
 
+import geopy # (geocoding) 
+import rasterio
+
 # web maps
 import folium 
 
