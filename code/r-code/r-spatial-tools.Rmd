@@ -1,0 +1,55 @@
+---
+title: "r-spatial-tools"
+output: html_document
+date: "2025-10-30"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+# Set working directory
+#setwd('~/Downloads')
+setwd('~/Desktop/rspatialworkshop')
+
+
+# Load required libraries
+library(sp)         # For spatial objects and functionalities
+library(sf)         # For handling simple features
+library(terra)      # For working with raster and vector data
+library(maps)       # For plotting maps
+
+library(tidyverse)
+
+# Unzip the dataset containing parks
+unzip(zipfile = "nationalparks.zip", exdir = "data")
+
+# Load sightings data using read.csv
+points <- read.csv('bear-sightings.csv')
+
+# Convert the data frame to a simple features object
+points_sf <- st_as_sf(points, coords = c('longitude', 'latitude'), crs = 4326)  # Let's set CRS to WGS84 directly
+
+# Plot  locations
+plot(st_geometry(points_sf), main = "point locations")
+
+# Add a coarse map layer for context using maps package
+map("world", region="usa", add=TRUE)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
