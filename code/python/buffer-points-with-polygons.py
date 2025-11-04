@@ -1,5 +1,7 @@
-# task: plot points, buffered points and polygons on matplotlib 
-# subtask buffer the points by 1000 meters 
+# tasks:
+#   plot points, 
+#   buffer points by a given distance, buffer the points by 1000 meters 
+#   plot buffered points and polygons on matplotlib 
 
 #pip install geodatasets
 
