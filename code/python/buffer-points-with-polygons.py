@@ -4,6 +4,7 @@
 #pip install geodatasets
 
 import matplotlib.pyplot as plt
+import pandas as pd
 
 import geopandas as gpd
 
