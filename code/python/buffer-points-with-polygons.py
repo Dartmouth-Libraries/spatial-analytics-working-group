@@ -1,6 +1,12 @@
 # task: plot points, buffered points and polygons on matplotlib 
 # subtask buffer the points by 1000 meters 
 
+#pip install geodatasets
+
+import matplotlib.pyplot as plt
+
+import geopandas as gpd
+
 from geodatasets import get_path
 from shapely.geometry import Point
 
